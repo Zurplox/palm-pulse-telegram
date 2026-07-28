@@ -1,25 +1,411 @@
 {
- "_comment": "Placeholder. Diisi otomatis oleh scripts/build_brief.py pada run Fetch pertama.",
- "title": null,
+ "title": "📰 *BRIEF PAGI* — 28 Jul 2026",
  "ai_summary": null,
- "news": [],
- "markets": {},
+ "news": [
+  {
+   "title": "Konflik Timur Tengah Buat harga CPO Melesat Bersama Ongkos dan Risiko",
+   "source": "InfoSAWIT",
+   "link": "https://www.infosawit.com/2026/07/28/konflik-timur-tengah-buat-harga-cpo-melesat-bersama-ongkos-dan-risiko/"
+  },
+  {
+   "title": "Harga CPO KPBN Inacom Masih Withdraw pada Senin (27/7), Perdagangan CPO di Bursa Malaysia Melemah",
+   "source": "InfoSAWIT",
+   "link": "https://www.infosawit.com/2026/07/28/harga-cpo-kpbn-inacom-masih-withdraw-pada-senin-27-7-perdagangan-cpo-di-bursa-malaysia-melemah/"
+  },
+  {
+   "title": "AKPY Gelar Pelatihan Budi Daya Kelapa Sawit Bagi Pekebun Wajo - achmadnurhidayat.id",
+   "source": "Google News · Perkebunan (Bahasa)",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JNFBJamMwR1BoUzNCMFN1anhmeUk1amduOUswMUFxZFZHWkdpNVBPcm9oODdhbkw5dmJzUGNzWTN2LTdXcEFYc0c1b0wwMGRtUXk4WTk4V09yOEthSjVSY2pvZnVVbnZqNjlEOTlVQ05tUGpFcXR5WQ?oc=5"
+  },
+  {
+   "title": "Call for Expression of Interest: Brazil National Interpretation Task Force for 2024 RSPO Principles and Criteria (RSPO P&C)",
+   "source": "RSPO",
+   "link": "https://rspo.org/call-for-expression-of-interest-brazil-national-interpretation-task-force-for-2024-rspo-principles-and-criteria-rspo-pc/"
+  },
+  {
+   "title": "GAPKI: Mandatori Biodiesel Perlu Seimbang dengan Produksi Sawit dan Skema Pembiayaan - kontan.co.id",
+   "source": "Google News · Kebijakan (Bahasa)",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHhMTG10MzQxeGxsUmV5c2RORmJ4SENqZFg3NWhxYnJfOC04REo5N3JZdlZTc3Fnemw3ak9xZWNkdFhrSVRqQ0VYcHF2YldEdThPeTlBNFpGOW1QcU9CbWZDVEpTVy0zeUVvRGlGaC1RSkNSNkhzY1NkdV9vVUgydUJ5NWhJOXd2ZzRKZlExZ2ZMMW1CVXppeHJhVjlwRFAtU015aVlvYkQwSndiOVd1SDE0TE9UazFsVEHSAbMBQVVfeXFMTU1udWhpWGJiYjJPdkd5NUE5c0FzNy1wTnBwQlVIa0ZkTmJIb3NYS0FmQnFXek9ScFVPSXBKR3pMSUVKUTNPVzZ3TElYRDFQejhoSS16RjJ6aWM5THZzalVoY0RZM0hLWWJsNUM1clJGdnFpcUxydXlEcm9vSmpfc0dma0FMVVQ1Y2dEc3hfWVNPY2FGUnFhdm5mWi1JcTlaeV8wRXlrc0R1VVZZa0FGRU5Kb0k?oc=5"
+  },
+  {
+   "title": "Mahasiswa USU Ubah Limbah Sawit Jadi Baterai, Raih Prestasi Nasional!",
+   "source": "GAPKI (Bahasa)",
+   "link": "https://gapki.id/news/2026/07/27/mahasiswa-usu-ubah-limbah-sawit-jadi-baterai-raih-prestasi-nasional/"
+  },
+  {
+   "title": "Expert: Palm Biomass Can Play Key Role In RI’s Down-streaming",
+   "source": "GAPKI",
+   "link": "https://gapki.id/en/news/2026/07/27/expert-palm-biomass-can-play-key-role-in-ris-down-streaming/"
+  },
+  {
+   "title": "Petani Sawit Cuan! Harga TBS Sawit Mitra Swadaya Riau Rp3.846/Kg, Ini Daftar Harga TBS 22-28 Juli 2026 - https://jambiekspres.disway.id/",
+   "source": "Jambi Ekspres",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUDlTdWpJcU11WTNVVGVURHNFRm5zOEU3Ti02dUhBVWlNLXUzbllmU3JWQ3hGMUlsWWxpeHgxNEw4OGFUdnN3c3g2dmhkNDgxWTJsMl9NdTNnSTJaN1dEdm5oUDVNZFBJLThMMV9rSlNUMVJoNmNJLXp6VHV3MS1qQzRRTHVuZGhieWxtMGk1RmhaRlRTa1RSRzBzcjVuV0tQVEtaWmg1Q2hPTUpTanRsZDFFSGJSR3kwTEdCeHlfX0FZeFVlbWU0ZzNRWENraG1JVVVBVVhSeGJEclpSMVBDWXRmeUNSWFJ0UlHSAdcBQVVfeXFMT0lSOGViUmdOT2dpTnoteTBydnI4UGFUTWdKNWFmYTJ6dGNEWG1hQUhOY3VtNFBpZUEtWjEwX2lZV1ZHeFYzTVVESHFXU2UyTk9UbS0ySDRBRkRtUHFmRE4tU2xvWU95bWJuOFo4SnhzY0pYeUhGUjRNdmEwc0RLRk4wYzZlVjhqN2YzMTN4VHF1VHQ0ZE9VcjZTRXJuemZud1ZrbUh5b190TWZhRVB0Y2JJMXotTUNEd0JrdUJZOWZERW1URTRtVXBvMFNiZHJFZElUeGhmWlk?oc=5"
+  }
+ ],
+ "markets": {
+  "updated": "2026-07-28T05:29+00:00",
+  "tickers": [
+   {
+    "label": "VOO (S&P 500)",
+    "last": 679.31,
+    "pct": -0.43
+   },
+   {
+    "label": "QQQ (Nasdaq 100)",
+    "last": 682.12,
+    "pct": -2.0
+   },
+   {
+    "label": "VEU (World ex-US)",
+    "last": 82.01,
+    "pct": 0.94
+   }
+  ],
+  "fx": [
+   {
+    "pair": "USD/SGD",
+    "rate": 1.2925
+   },
+   {
+    "pair": "USD/IDR",
+    "rate": 18080.0
+   },
+   {
+    "pair": "SGD/IDR",
+    "rate": 13989.399
+   }
+  ]
+ },
  "palm": {
-  "edition": null,
-  "generated_at": null,
-  "tbs_prices": [],
-  "bullets": []
+  "edition": "28 Juli 2026",
+  "generated_at": "2026-07-27T23:58:09.085954+00:00",
+  "tbs_prices": [
+   {
+    "region": "Riau",
+    "reference_for": "Siak",
+    "scheme": "Plasma",
+    "palm_age_years": 9,
+    "price_rp_per_kg": 4049.07,
+    "age_prices_rp_per_kg": {
+     "9": 4049.07
+    },
+    "change_rp_per_kg": 78.94,
+    "valid_from": "2023-10-25",
+    "valid_to": "2023-10-31",
+    "published_at": "2023-10-24T07:00:00+00:00",
+    "source_name": "InfoSAWIT",
+    "source_url": "https://www.infosawit.com/2023/10/24/keren-naik-rp-7894-harga-tbs-mitra-plasma-riau-periode-25-31-oktober-2023-tembus-rp-2500-per-kg/",
+    "price_source": "derived",
+    "cross_checked_sources": 0,
+    "confidence": "infosawit",
+    "data_quality": "benchmark_only",
+    "status": "latest_available",
+    "trend": "up",
+    "change_percent": 1.99
+   },
+   {
+    "region": "Riau",
+    "reference_for": "Siak",
+    "scheme": "Swadaya",
+    "palm_age_years": 9,
+    "price_rp_per_kg": 3934.74,
+    "age_prices_rp_per_kg": {
+     "4": 3568.02,
+     "5": 3691.17,
+     "6": 3799.15,
+     "9": 3934.74
+    },
+    "change_rp_per_kg": 13.25,
+    "valid_from": "2026-07-22",
+    "valid_to": "2026-07-28",
+    "published_at": "2026-07-24T05:35:00+00:00",
+    "source_name": "InfoSAWIT",
+    "source_url": "https://www.infosawit.com/2026/07/24/diplomasi-sawit-indonesia-diperkuat-sinergi-lintas-kementerian-siapkan-strategi-hadapi-tekanan-global/",
+    "cross_checked_sources": 1,
+    "confidence": "infosawit",
+    "data_quality": "full_age_table",
+    "price_source": "published",
+    "status": "current_period",
+    "trend": "up",
+    "change_percent": 0.34
+   }
+  ],
+  "bullets": [
+   "Harga CPO global dan pasar fisik cenderung fluktuatif karena tertekan aksi ambil untung serta penurunan harga minyak mentah, namun tetap mendapatkan penopang dari proyeksi risiko iklim El Niño dan ketegangan geopolitik Timur Tengah.",
+   "Kebijakan nasional Indonesia berfokus pada keseimbangan antara produksi sawit, kelayakan skema pembiayaan mandatori biodiesel, serta peningkatan program PSR dan hilirisasi berbasis biomassa.",
+   "Tingkat harga TBS di tingkat pekebun swadaya tercatat cukup tinggi di beberapa wilayah seperti Riau, seiring meningkatnya pelatihan budi daya dan pendampingan kelengkapan pendaftaran program peremajaan kebun.",
+   "GAPKI mengingatkan pemerintah agar pelaksanaan mandatori biodiesel tetap diselaraskan dengan realisasi produksi sawit nasional dan kecukupan skema pembiayaan agar pasokan CPO domestik tetap aman."
+  ]
  },
  "cuaca": {
-  "updated_at": null,
-  "farm_name": null,
-  "today": {}
+  "updated_at": "2026-07-28T08:56+08:00",
+  "farm_name": "Kebun Sawit (Rawang Air Putih)",
+  "today": {
+   "date": "2026-07-28",
+   "precip": 0.4,
+   "prob": 24,
+   "tmax": 30.8,
+   "tmin": 24.4,
+   "humidity": 81,
+   "cloud": 92,
+   "code": 51,
+   "condition": "Gerimis ringan",
+   "emoji": "🌦️",
+   "wind": 13.6,
+   "gust": 28.4,
+   "wind_dir": "Tenggara",
+   "wind_dir_deg": 144,
+   "precip_hours": 4.0,
+   "rain_windows": [],
+   "sunrise": "06:14",
+   "sunset": "18:23",
+   "soil_moist": 74,
+   "hourly": [
+    {
+     "t": "00:00",
+     "p": 0.0,
+     "prob": 6,
+     "rh": 91,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "01:00",
+     "p": 0.0,
+     "prob": 2,
+     "rh": 89,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "02:00",
+     "p": 0.0,
+     "prob": 1,
+     "rh": 90,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "03:00",
+     "p": 0.0,
+     "prob": 1,
+     "rh": 89,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "04:00",
+     "p": 0.0,
+     "prob": 2,
+     "rh": 89,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "05:00",
+     "p": 0.0,
+     "prob": 4,
+     "rh": 90,
+     "cloud": 99,
+     "code": 3
+    },
+    {
+     "t": "06:00",
+     "p": 0.0,
+     "prob": 7,
+     "rh": 90,
+     "cloud": 89,
+     "code": 3
+    },
+    {
+     "t": "07:00",
+     "p": 0.0,
+     "prob": 8,
+     "rh": 90,
+     "cloud": 93,
+     "code": 3
+    },
+    {
+     "t": "08:00",
+     "p": 0.0,
+     "prob": 6,
+     "rh": 87,
+     "cloud": 95,
+     "code": 3
+    },
+    {
+     "t": "09:00",
+     "p": 0.0,
+     "prob": 4,
+     "rh": 82,
+     "cloud": 98,
+     "code": 3
+    },
+    {
+     "t": "10:00",
+     "p": 0.0,
+     "prob": 2,
+     "rh": 77,
+     "cloud": 99,
+     "code": 3
+    },
+    {
+     "t": "11:00",
+     "p": 0.1,
+     "prob": 3,
+     "rh": 71,
+     "cloud": 91,
+     "code": 51
+    },
+    {
+     "t": "12:00",
+     "p": 0.0,
+     "prob": 5,
+     "rh": 68,
+     "cloud": 58,
+     "code": 2
+    },
+    {
+     "t": "13:00",
+     "p": 0.1,
+     "prob": 8,
+     "rh": 65,
+     "cloud": 37,
+     "code": 51
+    },
+    {
+     "t": "14:00",
+     "p": 0.1,
+     "prob": 13,
+     "rh": 64,
+     "cloud": 69,
+     "code": 51
+    },
+    {
+     "t": "15:00",
+     "p": 0.1,
+     "prob": 18,
+     "rh": 65,
+     "cloud": 95,
+     "code": 51
+    },
+    {
+     "t": "16:00",
+     "p": 0.0,
+     "prob": 22,
+     "rh": 66,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "17:00",
+     "p": 0.0,
+     "prob": 24,
+     "rh": 69,
+     "cloud": 94,
+     "code": 3
+    },
+    {
+     "t": "18:00",
+     "p": 0.0,
+     "prob": 24,
+     "rh": 81,
+     "cloud": 95,
+     "code": 3
+    },
+    {
+     "t": "19:00",
+     "p": 0.0,
+     "prob": 22,
+     "rh": 84,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "20:00",
+     "p": 0.0,
+     "prob": 17,
+     "rh": 86,
+     "cloud": 98,
+     "code": 3
+    },
+    {
+     "t": "21:00",
+     "p": 0.0,
+     "prob": 10,
+     "rh": 87,
+     "cloud": 98,
+     "code": 3
+    },
+    {
+     "t": "22:00",
+     "p": 0.0,
+     "prob": 6,
+     "rh": 88,
+     "cloud": 100,
+     "code": 3
+    },
+    {
+     "t": "23:00",
+     "p": 0.0,
+     "prob": 7,
+     "rh": 88,
+     "cloud": 98,
+     "code": 3
+    }
+   ]
+  }
  },
  "lingkungan": {
-  "updated_at": null,
-  "flood": {},
-  "fire": {},
-  "air": {}
+  "updated_at": "2026-07-28T08:56+08:00",
+  "flood": {
+   "river_discharge": 272.5,
+   "unit": "m3/s",
+   "trend": "turun",
+   "peak_next3": 294.1,
+   "baseline": 287.4,
+   "ratio_pct": 95,
+   "status": "Normal",
+   "map": "https://sites.research.google/floods/l/0.816/101.966/9"
+  },
+  "fire": {
+   "status": "waspada",
+   "warn_km": 50,
+   "nearest": {
+    "km": 42.1,
+    "dir": "selatan",
+    "lat": 0.4441,
+    "lon": 101.8919,
+    "place": "Pangkalan Kerinci, Pelalawan, Sumatera",
+    "acq": "2026-07-25",
+    "sat": "N20",
+    "confidence": "n",
+    "frp": "1.18"
+   },
+   "count_within": 1,
+   "scanned_days": 5,
+   "weather_risk": {
+    "level": "rendah",
+    "dry_streak": 1,
+    "humidity": 81
+   },
+   "map": "https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@101.966,0.816,9z",
+   "map_google": "https://www.google.com/maps?q=0.4441,101.8919"
+  },
+  "air": {
+   "us_aqi": 63,
+   "pm2_5": 14.9,
+   "pm10": 16.7,
+   "category": "Sedang",
+   "color": "gold",
+   "aod": 0.42,
+   "dust": 0,
+   "haze": "berkabut tipis",
+   "haze_color": "gold",
+   "uv": 0.2,
+   "uv_cat": "rendah"
+  }
  },
- "generated": null
+ "generated": "2026-07-28T05:29+00:00"
 }

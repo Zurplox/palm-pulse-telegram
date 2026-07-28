@@ -1,0 +1,45 @@
+📰 *BRIEF PAGI* — 28 Jul 2026
+
+🌴 *Harga TBS Riau (2023-10-25 s/d 2023-10-31)*
+  Plasma: Rp4.049/kg (naik Rp79)
+  Swadaya: Rp3.691/kg (naik Rp13)
+
+🧭 *Ringkasan Palm Pulse:*
+• Harga CPO global dan pasar fisik cenderung fluktuatif karena tertekan aksi ambil untung serta penurunan harga minyak mentah, namun tetap mendapatkan penopang dari proyeksi risiko iklim El Niño dan ketegangan geopolitik Timur Tengah.
+• Kebijakan nasional Indonesia berfokus pada keseimbangan antara produksi sawit, kelayakan skema pembiayaan mandatori biodiesel, serta peningkatan program PSR dan hilirisasi berbasis biomassa.
+• Tingkat harga TBS di tingkat pekebun swadaya tercatat cukup tinggi di beberapa wilayah seperti Riau, seiring meningkatnya pelatihan budi daya dan pendampingan kelengkapan pendaftaran program peremajaan kebun.
+• GAPKI mengingatkan pemerintah agar pelaksanaan mandatori biodiesel tetap diselaraskan dengan realisasi produksi sawit nasional dan kecukupan skema pembiayaan agar pasokan CPO domestik tetap aman.
+
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis ringan, hujan 0.4 mm (peluang 24%), 24.4–30.8°C
+  Angin Tenggara 13.6 km/jam (hembusan 28.4)
+  Prakiraan:
+  2026-07-29: 8.1 mm, 63%
+  2026-07-30: 1.1 mm, 55%
+  2026-07-31: 2.2 mm, 56%
+
+🌊 *Banjir, karhutla & udara:*
+  Banjir: Normal (debit 272.5 m3/s, turun)
+  Karhutla: waspada — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Sumatera)
+  Udara: AQI 63, Sedang, berkabut tipis
+
+📈 *Pasar:*
+  ▼ VOO (S&P 500): 679.31 (-0.43%)
+  ▼ QQQ (Nasdaq 100): 682.12 (-2.0%)
+  ▲ VEU (World ex-US): 82.01 (+0.94%)
+  💱 USD/SGD: 1.2925
+  💱 USD/IDR: 18.080
+  💱 SGD/IDR: 13.989
+
+📰 *Berita sawit (Palm Pulse):*
+• Konflik Timur Tengah Buat harga CPO Melesat Bersama Ongkos dan Risiko — InfoSAWIT
+• Harga CPO KPBN Inacom Masih Withdraw pada Senin (27/7), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
+• AKPY Gelar Pelatihan Budi Daya Kelapa Sawit Bagi Pekebun Wajo - achmadnurhidayat.id — Google News · Perkebunan (Bahasa)
+• Call for Expression of Interest: Brazil National Interpretation Task Force for 2024 RSPO Principles and Criteria (RSPO P&C) — RSPO
+• GAPKI: Mandatori Biodiesel Perlu Seimbang dengan Produksi Sawit dan Skema Pembiayaan - kontan.co.id — Google News · Kebijakan (Bahasa)
+• Mahasiswa USU Ubah Limbah Sawit Jadi Baterai, Raih Prestasi Nasional! — GAPKI (Bahasa)
+• Expert: Palm Biomass Can Play Key Role In RI’s Down-streaming — GAPKI
+• Petani Sawit Cuan! Harga TBS Sawit Mitra Swadaya Riau Rp3.846/Kg, Ini Daftar Harga TBS 22-28 Juli 2026 - https://jambiekspres.disway.id/ — Jambi Ekspres
+
+Palm Pulse: https://zurplox.github.io/palm-pulse/
+Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
