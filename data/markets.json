@@ -1,0 +1,34 @@
+{
+ "updated": "2026-07-27T23:47+00:00",
+ "tickers": [
+  {
+   "label": "VOO (S&P 500)",
+   "last": 679.31,
+   "pct": -0.43
+  },
+  {
+   "label": "QQQ (Nasdaq 100)",
+   "last": 682.12,
+   "pct": -2.0
+  },
+  {
+   "label": "VEU (World ex-US)",
+   "last": 82.01,
+   "pct": 0.94
+  }
+ ],
+ "fx": [
+  {
+   "pair": "USD/SGD",
+   "rate": 1.2914
+  },
+  {
+   "pair": "USD/IDR",
+   "rate": 17990.0
+  },
+  {
+   "pair": "SGD/IDR",
+   "rate": 13936.328
+  }
+ ]
+}

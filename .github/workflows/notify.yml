@@ -1,0 +1,55 @@
+name: Brief Pagi - Notify (08:07 SGT)
+
+on:
+  schedule:
+    # 08:07 SGT (UTC+8) -> 00:07 UTC
+    - cron: "7 0 * * *"
+  workflow_dispatch:
+    inputs:
+      force_send:
+        description: "Paksa kirim (1 = ya)"
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+concurrency: brief-pagi-notify
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Hermetis, tanpa jaringan. Kalau ini merah, notifikasi memang rusak.
+      - name: Unit tests (offline)
+        run: python -m unittest discover -s scripts/tests
+
+      - name: Send brief to WhatsApp/Telegram
+        env:
+          WA_PHONE: ${{ secrets.WA_PHONE }}
+          WA_APIKEY: ${{ secrets.WA_APIKEY }}
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          # Alias, kalau kamu memakai nama secret ala palm-pulse-telegram
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FORCE_SEND: ${{ github.event.inputs.force_send }}
+        run: python -u scripts/notify.py
+
+      # Brief sudah terkirim di titik ini; commit state tidak boleh membuat run merah.
+      - name: Record sent state
+        if: always()
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/last_sent.json || true
+          git commit -m "chore: record sent brief [skip ci]" || echo "no changes"
+          git pull --rebase || true
+          git push || echo "push skipped"

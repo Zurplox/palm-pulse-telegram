@@ -1,0 +1,47 @@
+{
+  "_comment": "Atur sumber berita, ticker pasar, feed Palm Pulse, dan judul notifikasi di sini.",
+  "brief_title": "BRIEF PAGI",
+  "emoji": "\uD83D\uDCF0",
+  "utc_offset_hours": 8,
+  "dashboard_url": "https://zurplox.github.io/brief-pagi/",
+  "language": "id",
+  "palm": {
+    "_comment": "HANYA BACA. Satu GET ke feed Palm Pulse yang sudah publik. Jangan pernah mengubah repo palm-pulse atau bentuk JSON-nya: aplikasi Android memakai adapter Moshi yang ketat.",
+    "enabled": true,
+    "feed_url": "https://zurplox.github.io/palm-pulse/data/latest.json",
+    "site_url": "https://zurplox.github.io/palm-pulse/",
+    "stale_hours": 36,
+    "max_bullets": 4
+  },
+  "news": {
+    "max_items": 15,
+    "lookback_hours": 48,
+    "_comment_feeds": "extra_feeds = RSS langsung dari situs sawit Indonesia. Kalau salah satu mati, otomatis dilewati.",
+    "extra_feeds": [
+      "https://www.infosawit.com/feed",
+      "https://sawitindonesia.com/feed",
+      "https://www.elaeis.co/feed"
+    ],
+    "_comment_queries": "queries = pencarian Google News (Bahasa Indonesia), jaring pengaman kalau feed langsung sepi.",
+    "queries": [
+      "harga TBS Riau",
+      "harga CPO hari ini",
+      "kelapa sawit Indonesia",
+      "MPOB sawit",
+      "GAPKI sawit"
+    ]
+  },
+  "markets": {
+    "_comment": "symbol Yahoo Finance: ETF/saham langsung (VOO, QQQ), FX otomatis jadi USDIDR=X dll.",
+    "tickers": [
+      {"yahoo": "VOO", "label": "VOO (S&P 500)"},
+      {"yahoo": "QQQ", "label": "QQQ (Nasdaq 100)"},
+      {"yahoo": "VEU", "label": "VEU (World ex-US)"}
+    ],
+    "fx": [
+      {"base": "USD", "quote": "SGD"},
+      {"base": "USD", "quote": "IDR"},
+      {"base": "SGD", "quote": "IDR"}
+    ]
+  }
+}
