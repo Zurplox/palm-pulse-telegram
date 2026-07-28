@@ -1,0 +1,25 @@
+{
+ "_comment": "Placeholder. Diisi otomatis oleh scripts/build_brief.py pada run Fetch pertama.",
+ "title": null,
+ "ai_summary": null,
+ "news": [],
+ "markets": {},
+ "palm": {
+  "edition": null,
+  "generated_at": null,
+  "tbs_prices": [],
+  "bullets": []
+ },
+ "cuaca": {
+  "updated_at": null,
+  "farm_name": null,
+  "today": {}
+ },
+ "lingkungan": {
+  "updated_at": null,
+  "flood": {},
+  "fire": {},
+  "air": {}
+ },
+ "generated": null
+}

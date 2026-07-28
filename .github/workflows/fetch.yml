@@ -1,0 +1,52 @@
+name: Brief Pagi - Fetch (06:52 SGT)
+
+on:
+  schedule:
+    # 06:52 SGT (UTC+8) -> 22:52 UTC hari sebelumnya
+    - cron: "52 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: brief-pagi-fetch
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Hermetis, tanpa jaringan.
+      - name: Unit tests (offline)
+        run: python -m unittest discover -s scripts/tests
+
+      # HANYA BACA feed palm-pulse yang sudah publik. Repo itu tidak disentuh.
+      # Sumber harga TBS, ringkasan sawit, DAN berita sawit.
+      - name: Fetch Palm Pulse feed (read-only)
+        run: python -u scripts/fetch_palm.py
+
+      # HANYA BACA feed kebun-sawit-cuaca. Repo itu juga tidak disentuh.
+      - name: Fetch cuaca + lingkungan feed (read-only)
+        run: python -u scripts/fetch_cuaca.py
+
+      # Satu-satunya bagian yang mengambil langsung dari internet.
+      - name: Fetch markets (Yahoo, no key)
+        run: python -u scripts/fetch_markets.py
+
+      - name: Build brief (AI optional)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -u scripts/build_brief.py
+
+      - name: Commit brief data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Brief fetch $(date -u +%Y-%m-%d)" || echo "no changes"
+          git push || echo "push skipped"

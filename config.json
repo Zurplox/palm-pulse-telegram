@@ -1,0 +1,38 @@
+{
+  "_comment": "Sumber data: sawit dari Palm Pulse, cuaca/banjir/karhutla dari kebun-sawit-cuaca, keuangan dari internet. Kedua repo itu HANYA DIBACA lewat GitHub Pages.",
+  "brief_title": "BRIEF PAGI",
+  "emoji": "\uD83D\uDCF0",
+  "utc_offset_hours": 8,
+  "dashboard_url": "https://zurplox.github.io/brief-pagi/",
+  "language": "id",
+  "palm": {
+    "_comment": "HANYA BACA. Satu GET ke feed Palm Pulse yang sudah publik. Jangan pernah mengubah repo palm-pulse atau bentuk JSON-nya: aplikasi Android memakai adapter Moshi yang ketat.",
+    "enabled": true,
+    "feed_url": "https://zurplox.github.io/palm-pulse/data/latest.json",
+    "site_url": "https://zurplox.github.io/palm-pulse/",
+    "stale_hours": 36,
+    "max_bullets": 4,
+    "max_stories": 8
+  },
+  "cuaca": {
+    "_comment": "HANYA BACA. Dua GET ke GitHub Pages repo kebun-sawit-cuaca (data/cuaca.json + data/lingkungan.json). Jangan mengubah repo itu.",
+    "enabled": true,
+    "base_url": "https://zurplox.github.io/kebun-sawit-cuaca/",
+    "site_url": "https://zurplox.github.io/kebun-sawit-cuaca/",
+    "stale_hours": 24,
+    "forecast_days": 3
+  },
+  "markets": {
+    "_comment": "Satu-satunya bagian yang mengambil langsung dari internet. Symbol Yahoo Finance: ETF/saham langsung (VOO, QQQ), FX otomatis jadi USDIDR=X dll.",
+    "tickers": [
+      {"yahoo": "VOO", "label": "VOO (S&P 500)"},
+      {"yahoo": "QQQ", "label": "QQQ (Nasdaq 100)"},
+      {"yahoo": "VEU", "label": "VEU (World ex-US)"}
+    ],
+    "fx": [
+      {"base": "USD", "quote": "SGD"},
+      {"base": "USD", "quote": "IDR"},
+      {"base": "SGD", "quote": "IDR"}
+    ]
+  }
+}
