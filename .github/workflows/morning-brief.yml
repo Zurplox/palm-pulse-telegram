@@ -1,0 +1,64 @@
+name: Palm Pulse morning brief
+
+on:
+  schedule:
+    # 23:15 UTC = 06:15 WIB (Riau) / 07:15 Singapore.
+    # Palm Pulse starts at 22:30 UTC and takes ~21 minutes, so the feed is
+    # already refreshed by the time this runs.
+    - cron: "15 23 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Send even if this edition was already sent"
+        type: boolean
+        default: false
+
+# Only needed to record which edition was already sent.
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Unit tests
+        run: python -m unittest discover -s scripts/tests
+
+      - name: Send the morning brief
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FEED_URL: ${{ vars.FEED_URL }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          FORCE_SEND: ${{ inputs.force }}
+        run: python -u scripts/send_brief.py
+
+      # Bookkeeping only. The brief has already been delivered by this point, so
+      # a protected branch or a push race must never turn the run red.
+      - name: Remember which edition was sent
+        if: always()
+        continue-on-error: true
+        run: |
+          if [ -n "$(git status --porcelain state)" ]; then
+            git config user.name "palm-pulse-brief-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state
+            git commit -m "chore: record sent edition [skip ci]"
+            git push
+          else
+            echo "No state change to record."
+          fi
