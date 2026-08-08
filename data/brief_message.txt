@@ -1,44 +1,44 @@
-📰 *BRIEF PAGI* — 08 Agu 2026
+📰 *BRIEF PAGI* — 09 Agu 2026
 
 🌴 *Harga TBS Riau (2026-08-05 s/d 2026-08-11)*
-  Swadaya: Rp4.399/kg (naik Rp23)
+  Swadaya: Rp3.648/kg (naik Rp27)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pergerakan harga CPO berfluktuasi dan sempat tertekan oleh pelemahan harga minyak kedelai, penurunan harga energi dunia, serta penguatan mata uang Ringgit Malaysia.
-• GAPKI menilai rencana implementasi B50 pada tahun 2026 tidak akan mengganggu kinerja ekspor minyak sawit Indonesia karena pasokan dalam negeri dipastikan masih aman.
-• Pemerintah daerah di Indonesia terus memacu produktivitas pekebun melalui program peremajaan sawit rakyat dengan fokus pada penyelesaian legalitas lahan dan pemenuhan kebutuhan pupuk.
-• GAPKI memperkirakan penerapan kebijakan biodiesel B50 pada tahun 2026 tidak akan mengganggu pasokan ekspor minyak sawit nasional karena ketersediaan stok yang mencukupi.
+• Perdagangan CPO di bursa fisik maupun berjangka mengalami pelemahan dan penutupan bervariasi akibat aksi ambil untung, penurunan harga minyak kedelai, serta proyeksi peningkatan stok.
+• Di Indonesia, organisasi petani sawit seperti POPSI menolak usulan moratorium pabrik kelapa sawit baru karena dikhawatirkan dapat menekan keberlangsungan petani swadaya.
+• Kinerja emiten perkebunan pada kuartal kedua diproyeksikan tetap memenuhi ekspektasi pasar berkat penopang harga jual CPO yang sempat tinggi.
+• Sektor perkebunan Asia Tenggara menghadapi hambatan panen akibat lonjakan biaya solar dan keterbatasan pasokan bahan bakar.
 
 ☁️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Mendung, hujan 0 mm (peluang 8%), 24.5–32.2°C
-  Angin Selatan 14.1 km/jam (hembusan 30.2)
+  Mendung, hujan 0 mm (peluang 29%), 25.6–32.6°C
+  Angin Tenggara 14.9 km/jam (hembusan 31.7)
   Prakiraan:
-  2026-08-08: 0.1 mm, 25%
-  2026-08-09: 0.6 mm, 39%
-  2026-08-10: 5.4 mm, 30%
+  2026-08-09: 10.4 mm, 43%
+  2026-08-10: 5.2 mm, 29%
+  2026-08-11: 10.5 mm, 33%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 100.6 m3/s, turun)
-  Karhutla: waspada — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Sumatera)
-  Udara: AQI 65, Sedang, cerah
+  Banjir: Normal (debit 83.1 m3/s, turun)
+  Karhutla: bahaya — titik terdekat 21.8 km utara (Siak Kecil, Sumatera)
+  Udara: AQI 77, Sedang, berkabut tipis
 
 📈 *Pasar:*
   ▲ VOO (S&P 500): 710.71 (+3.5%)
   ▲ QQQ (Nasdaq 100): 723.03 (+5.09%)
   ▲ VEU (World ex-US): 85.22 (+2.86%)
   💱 USD/SGD: 1.2779
-  💱 USD/IDR: 17.908
+  💱 USD/IDR: 17.885
   💱 SGD/IDR: 14.011
 
 📰 *Berita sawit (Palm Pulse):*
-• Plantation sector’s 2Q26 performance likely to meet expectations on high prices — The Star
-• Harga CPO KPBN Inacom Turun Tipis pada Kamis (6/8), Perdagangan CPO di Bursa Malaysia Melemah - infosawit.com — Google News · Pasar (Bahasa)
-• 9th Borneo Forum 2026 Dorong Transformasi Industri Sawit Melalui Hilirisasi dan Kemitraan - Korankaltim.com — Google News · Perkebunan (Bahasa)
-• CPO Futures End Mostly Lower On Softer Energy, Soybean Oil Prices - bernama — Google News · Market
-• Bangka Tengah tingkatkan produktivitas 540,94 hektare sawit rakyat — ANTARA News
-• Indonesia Palm Oil Expo 2026 — ANTARA Foto
-• Palm oil is pressured by competing oils and rising inventories, while resilient exports provide downside support. - Bitget — Google News · Market
-• Kementerian Pertanian Republik Indonesia - pertanian.go.id — Google News · Perkebunan (Bahasa)
+• Harga CPO KPBN Inacom Withdraw pada Jumat (7/8), Perdagangan CPO di Bursa Malaysia Ditutup Melemah — InfoSAWIT
+• Bermitra 10 Tahun dengan PT Eagle High Plantations Tbk, Kebun Petani Swadaya Raih Produksi 2 Ton per Ha - HaiSawit — Google News · Perkebunan (Bahasa)
+• CPO Futures End Mixed Ahead Of MPOB's July Report — Sarawak Tribune
+• Petani Sawit Tolak Moratorium Pabrik Sawit Baru, Dorong Penataan Berbasis Kemitraan — SINDOnews Ekbis
+• August 6, 2026 Commodity Price Position at the Closing of Physical Exchange & Market — GAPKI
+• Posisi Harga Komoditas pada Penutupan Bursa & Pasar Fisik, 6 Agustus 2026 — GAPKI (Bahasa)
+• Harga Minyak Sawit Jumat Turun Terbebani Pelemahan Permintaan - Vibiznews.com — Google News · Malaysia (Bahasa)
+• Sawit Indonesia Kuasai 38 Persen Pasar Arab Saudi, Cuan Miliaran Dolar Mengalir - elaeis.co — Google News · Malaysia (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
