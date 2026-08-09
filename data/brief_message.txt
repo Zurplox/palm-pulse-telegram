@@ -1,44 +1,44 @@
-📰 *BRIEF PAGI* — 09 Agu 2026
+📰 *BRIEF PAGI* — 10 Agu 2026
 
-🌴 *Harga TBS Riau (2026-08-05 s/d 2026-08-11)*
-  Swadaya: Rp3.648/kg (naik Rp27)
+🌴 *Harga TBS Riau (2026-08-07 s/d 2026-08-13)*
+  Swadaya: Rp3.509/kg (turun Rp30)
 
 🧭 *Ringkasan Palm Pulse:*
-• Perdagangan CPO di bursa fisik maupun berjangka mengalami pelemahan dan penutupan bervariasi akibat aksi ambil untung, penurunan harga minyak kedelai, serta proyeksi peningkatan stok.
-• Di Indonesia, organisasi petani sawit seperti POPSI menolak usulan moratorium pabrik kelapa sawit baru karena dikhawatirkan dapat menekan keberlangsungan petani swadaya.
-• Kinerja emiten perkebunan pada kuartal kedua diproyeksikan tetap memenuhi ekspektasi pasar berkat penopang harga jual CPO yang sempat tinggi.
-• Sektor perkebunan Asia Tenggara menghadapi hambatan panen akibat lonjakan biaya solar dan keterbatasan pasokan bahan bakar.
+• Industri kelapa sawit di Indonesia dan Malaysia menghadapi tekanan pada tingkat produksi akibat dampak cuaca El Nino, kelangkaan dan lonjakan harga BBM jenis solar, serta kenaikan harga pupuk.
+• Pasar CPO dan harga kontrak berjangka bergerak bervariasi hingga melemah akibat aksi ambil untung pelaku pasar serta sikap menanti publikasi laporan kinerja bulanan dari MPOB.
+• GAPKI mendorong peningkatan produktivitas petani rakyat serta meminta pemerintah menjaga likuiditas industri terkait rencana kenaikan kewajiban DHE SDA menjadi 50 persen, di samping penyiapan implementasi B50.
+• Petani sawit menghadapi tantangan biaya operasional yang membengkak, meski upaya peningkatan kapasitas budidaya berbasis GAP dan alih fungsi lahan karet ke sawit terus berjalan.
 
-☁️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Mendung, hujan 0 mm (peluang 29%), 25.6–32.6°C
-  Angin Tenggara 14.9 km/jam (hembusan 31.7)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal ringan, hujan 2 mm (peluang 19%), 24.1–32.1°C
+  Angin Selatan 12.8 km/jam (hembusan 29.2)
   Prakiraan:
-  2026-08-09: 10.4 mm, 43%
-  2026-08-10: 5.2 mm, 29%
-  2026-08-11: 10.5 mm, 33%
+  2026-08-10: 3.3 mm, 31%
+  2026-08-11: 0.2 mm, 25%
+  2026-08-12: 0.9 mm, 27%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 83.1 m3/s, turun)
+  Banjir: Normal (debit 71.4 m3/s, turun)
   Karhutla: bahaya — titik terdekat 21.8 km utara (Siak Kecil, Sumatera)
-  Udara: AQI 77, Sedang, berkabut tipis
+  Udara: AQI 151, Tidak sehat, berasap/berkabut
 
 📈 *Pasar:*
   ▲ VOO (S&P 500): 710.71 (+3.5%)
   ▲ QQQ (Nasdaq 100): 723.03 (+5.09%)
   ▲ VEU (World ex-US): 85.22 (+2.86%)
-  💱 USD/SGD: 1.2779
-  💱 USD/IDR: 17.885
+  💱 USD/SGD: 1.2783
+  💱 USD/IDR: 17.908
   💱 SGD/IDR: 14.011
 
 📰 *Berita sawit (Palm Pulse):*
-• Harga CPO KPBN Inacom Withdraw pada Jumat (7/8), Perdagangan CPO di Bursa Malaysia Ditutup Melemah — InfoSAWIT
-• Bermitra 10 Tahun dengan PT Eagle High Plantations Tbk, Kebun Petani Swadaya Raih Produksi 2 Ton per Ha - HaiSawit — Google News · Perkebunan (Bahasa)
-• CPO Futures End Mixed Ahead Of MPOB's July Report — Sarawak Tribune
-• Petani Sawit Tolak Moratorium Pabrik Sawit Baru, Dorong Penataan Berbasis Kemitraan — SINDOnews Ekbis
-• August 6, 2026 Commodity Price Position at the Closing of Physical Exchange & Market — GAPKI
-• Posisi Harga Komoditas pada Penutupan Bursa & Pasar Fisik, 6 Agustus 2026 — GAPKI (Bahasa)
-• Harga Minyak Sawit Jumat Turun Terbebani Pelemahan Permintaan - Vibiznews.com — Google News · Malaysia (Bahasa)
-• Sawit Indonesia Kuasai 38 Persen Pasar Arab Saudi, Cuan Miliaran Dolar Mengalir - elaeis.co — Google News · Malaysia (Bahasa)
+• Sawit Kaltim Gemuk di Hulu, Ringkih di Hilir - Bisnis.com — Google News · Perkebunan (Bahasa)
+• MPOB Turns Palm Oil Into Water-saving Cooling Solution For Data Centres — Malaysia-China Insight
+• Petani Sawit Terjepit: Solar Langka, Pupuk Naik, El Niño Mengancam — Media Alkhairaat
+• El Nino dan Lonjakan BBM Hantam Produksi CPO Indonesia-Malaysia - AFU.id — Google News · Malaysia (Bahasa)
+• Pekebun Paser Ikuti Pelatihan Budidaya Sawit Berbasis GAP - achmadnurhidayat.id — Google News · Perkebunan (Bahasa)
+• Angkutan CPO KAI Naik 18 Persen hingga Juli 2026, Didorong Implementasi Biodiesel B50 — InfoSAWIT
+• POPSI Tolak Rencana Moratorium PKS Baru di Jambi, Berpotensi Rugikan Petani Sawit — InfoSAWIT
+• DHE SDA 50 Persen, GAPKI Minta Kebijakan Tetap Jaga Likuiditas dan Daya Saing Sawit — InfoSAWIT
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/

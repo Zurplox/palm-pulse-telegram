@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T23:13+00:00",
+ "updated": "2026-08-09T23:15+00:00",
  "tickers": [
   {
    "label": "VOO (S&P 500)",
@@ -20,11 +20,11 @@
  "fx": [
   {
    "pair": "USD/SGD",
-   "rate": 1.2779
+   "rate": 1.2783
   },
   {
    "pair": "USD/IDR",
-   "rate": 17885.0
+   "rate": 17908.0
   },
   {
    "pair": "SGD/IDR",
