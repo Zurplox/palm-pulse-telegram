@@ -1,44 +1,44 @@
-📰 *BRIEF PAGI* — 14 Agu 2026
+📰 *BRIEF PAGI* — 15 Agu 2026
 
 🌴 *Harga TBS Riau (2026-08-12 s/d 2026-08-18)*
-  Swadaya: Rp3.591/kg (naik Rp86)
+  Swadaya: Rp3.591/kg (turun Rp62)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pergerakan harga CPO di bursa domestik KPBN dan bursa Malaysia bergerak dinamis namun mendapat sentimen positif dari lonjakan permintaan impor India menjelang musim festival.
-• Di Indonesia, perhatian berfokus pada perbaikan harga TBS, peningkatan kelembagaan petani swadaya, dorongan pendirian pabrik CPO oleh koperasi, serta sertifikasi ISPO.
-• Malaysia mencatatkan penurunan produksi pada awal Agustus, sembari meluncurkan inovasi pengolahan minyak sawit menjadi cairan pendingin pusat data.
-• Menteri Koperasi mendorong koperasi perkebunan untuk memiliki pabrik CPO sendiri agar hilirisasi dapat langsung memperkuat perekonomian pekebun.
+• Harga CPO fisik domestik dan berjangka Malaysia mencatatkan tren penguatan mingguan yang didorong oleh lonjakan permintaan impor dari India serta kekhawatiran ancaman cuaca.
+• Indonesia dan Malaysia terus mendorong hilirisasi dan inovasi produk sawit, mulai dari pengembangan bioetanol berbasis limbah, penggunaan nanolignin dari TKKS, hingga fluida pendingin pusat data.
+• Pemerintah daerah dan industri di Indonesia berfokus pada program peremajaan tanaman tua, penguatan peran 2.587 koperasi perkebunan, dan penyusunan aksi sawit berkelanjutan.
+• GAPKI menggelar Borneo Palm Oil Forum (BPOF) 2026 di Balikpapan guna mendorong inovasi sektor sawit, serta memperkuat sinergi komunikasi bersama media untuk penyebaran informasi substantif.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis ringan, hujan 0.3 mm (peluang 25%), 24.8–32.4°C
-  Angin Tenggara 14 km/jam (hembusan 30.2)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis lebat, hujan 2.9 mm (peluang 52%), 24.5–33.3°C
+  Angin Selatan 11.3 km/jam (hembusan 27)
   Prakiraan:
-  2026-08-14: 1.8 mm, 13%
-  2026-08-15: 4.8 mm, 49%
-  2026-08-16: 10.4 mm, 67%
+  2026-08-15: 2.7 mm, 63%
+  2026-08-16: 5.2 mm, 66%
+  2026-08-17: 7.8 mm, 33%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 51.2 m3/s, turun)
-  Karhutla: bahaya — titik terdekat 34.1 km barat laut (Sungai Mandau, Sumatera)
-  Udara: AQI 115, Tidak sehat (kel. sensitif), berasap/berkabut
+  Banjir: Normal (debit 49.1 m3/s, turun)
+  Karhutla: aman
+  Udara: AQI 111, Tidak sehat (kel. sensitif), berasap/berkabut
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 714.95 (+1.21%)
-  ▲ QQQ (Nasdaq 100): 732.07 (+2.44%)
-  ▲ VEU (World ex-US): 85.71 (+1.59%)
-  💱 USD/SGD: 1.2803
-  💱 USD/IDR: 17.877
-  💱 SGD/IDR: 13.966
+  ▲ VOO (S&P 500): 713.61 (+0.41%)
+  ▲ QQQ (Nasdaq 100): 731.07 (+1.11%)
+  ▲ VEU (World ex-US): 85.68 (+0.54%)
+  💱 USD/SGD: 1.2789
+  💱 USD/IDR: 17.831
+  💱 SGD/IDR: 13.939
 
 📰 *Berita sawit (Palm Pulse):*
-• Harga CPO KPBN Inacom Naik pada Kamis (13/8), Harga CPO Malaysia di Bursa Malaysia Menguat — InfoSAWIT
-• Beneath the smallholder’s palm — The Star
-• Sawit Plasma dan Sawit Swadaya: Peluang, Tantangan, dan Perbedaannya — GAPKI (Bahasa)
-• Malaysian palm oil rises, tracking Dalian - TradingView — Google News · Malaysia
-• India's edible oil imports hit 10-month high in July on festival demand — The Edge Malaysia
-• Malaysia Turns Palm Oil Into Water-Free Cooling Liquid For Data Centres - says.com — Google News · Malaysia
-• Harga TBS Petani Tertekan, Gapki Dorong Pembentukan Kelembagaan Swadaya - sawitsetara.co — Google News · Bahasa
-• Malaysia's Palm Oil Production Declines in Early August - Sunsirs — Google News · Malaysia
+• Malaysia to launch palm oil-based immersion cooling fluid for data centers — Data Center Dynamics
+• GAPKI dan Forwatan Perkuat Komunikasi Sawit untuk Dorong Informasi yang Lebih Substantif — InfoSAWIT
+• Tarkwa Local Prisons receive farm inputs from Gold Fields to expand oil palm plantation — Ghana News Agency
+• Contango in forward months and backwardation in near months: Malaysian palm oil is pricing in El Niño, but July inventories have yet to be fully absorbed. - Moomoo — Google News · Malaysia
+• Susun Rencana Aksi Sawit Berkelanjutan, Pemkab Labuhanbatu Bentuk Tim Lintas Sektor - HaiSawit — Google News · Perkebunan (Bahasa)
+• Harga Minyak Sawit Jumat Naik Tipis; Sentimen Kenaikan Pasokan Menghadapi Ancaman Cuaca - Vibiznews.com — Google News · Malaysia (Bahasa)
+• FGV Palm Industries targets RM1 bil profit before tax by 2030 — The Edge Malaysia
+• Malaysia Lowers September Crude Palm Oil Reference Price - Sunsirs — Google News · Malaysia
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
