@@ -1,44 +1,45 @@
-📰 *BRIEF PAGI* — 19 Agu 2026
+📰 *BRIEF PAGI* — 20 Agu 2026
 
-🌴 *Harga TBS Riau (2026-08-15 s/d 2026-08-21)*
-  Swadaya: Rp3.558/kg (naik Rp11)
+🌴 *Harga TBS Riau (2026-08-19 s/d 2026-08-25)*
+  Plasma: Rp3.884/kg (turun Rp57)
+  Swadaya: Rp3.597/kg (turun Rp80)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO berjangka di Malaysia melonjak hingga menembus RM4.850 per ton, mencapai level tertinggi dalam lebih dari empat setengah bulan akibat kekhawatiran dampak El Niño dan kenaikan permintaan global.
-• Di Indonesia, harga TBS menunjukkan tren penguatan di berbagai daerah, namun kesenjangan harga antara petani swadaya dan petani mitra plasma masih menjadi tantangan.
-• Rencana penerapan program B50 di Indonesia menghadapi risiko pembengkakan kebutuhan dana insentif serta potensi penurunan stok CPO jika produksi melandai akibat faktor iklim.
-• Pasar global semakin menuntut standar keberlanjutan dengan disahkannya aturan keanggotaan RSPO yang diperbarui, pengenalan standar LSRS, serta ekspansi pasar sawit berkelanjutan ke Jepang.
+• Perdagangan CPO berjangka di Bursa Malaysia ditutup menguat terdorong oleh kenaikan harga minyak kedelai CBOT, sementara MPOC memperkirakan harga CPO tetap bertahan di atas RM4.600 per ton pada September.
+• Di Indonesia, penetapan harga TBS di Provinsi Riau periode 19-25 Agustus mengalami penurunan, baik untuk kategori mitra plasma maupun swadaya.
+• Daerah terus mendorong percepatan sertifikasi ISPO, realisasi program PSR, serta penguatan kelembagaan lewat peresmian pabrik kelapa sawit milik koperasi.
+• Malaysia mulai mengkaji penggunaan minyak sawit sebagai pendingin pusat data guna menghemat penggunaan air dan meningkatkan nilai tambah produk.
 
-⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Badai petir, hujan 7.3 mm (peluang 76%), 24.5–32.9°C
-  Angin Selatan 16.2 km/jam (hembusan 29.2)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal sedang, hujan 7.7 mm (peluang 67%), 23.5–30.8°C
+  Angin Barat Daya 9.3 km/jam (hembusan 34.9)
   Prakiraan:
-  2026-08-19: 6.8 mm, 71%
-  2026-08-20: 1 mm, 49%
-  2026-08-21: 0.9 mm, 25%
+  2026-08-20: 0.9 mm, 55%
+  2026-08-21: 0.6 mm, 17%
+  2026-08-22: 0 mm, 21%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 60.5 m3/s, naik)
+  Banjir: Normal (debit 51.5 m3/s, stabil)
   Karhutla: bahaya — titik terdekat 29.2 km utara (Siak Kecil, Sumatera)
-  Udara: AQI 109, Tidak sehat (kel. sensitif), berkabut tipis
+  Udara: AQI 93, Sedang, berasap/berkabut
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 705.40 (-0.43%)
-  ▼ QQQ (Nasdaq 100): 717.51 (-0.13%)
-  ▼ VEU (World ex-US): 84.43 (-0.58%)
-  💱 USD/SGD: 1.2781
-  💱 USD/IDR: 17.851
-  💱 SGD/IDR: 13.965
+  ▼ VOO (S&P 500): 706.91 (-0.46%)
+  ▼ QQQ (Nasdaq 100): 716.08 (-1.05%)
+  ▼ VEU (World ex-US): 84.96 (-0.68%)
+  💱 USD/SGD: 1.271
+  💱 USD/IDR: 17.839
+  💱 SGD/IDR: 14.034
 
 📰 *Berita sawit (Palm Pulse):*
-• CPO Futures Extend Rally, Benchmark November Contract Breaches RM4,850 - Bernama — Google News · Market
-• Untangling the Land Sector and Removals Standard (LSRS): ​Implications for palm oil companies​ - PwC — Google News · Malaysia
-• Syndicate repackaging subsidised cooking oil as prayer oil busted — NST Online
-• PKS Komersial Jadi Jalan Tol Petani Sawit Keluar dari Jerat Tengkulak - sawitsetara.co — Google News · Perkebunan (Bahasa)
-• Japan Rising: Inside RSPO’s First Japanese Roadshow — RSPO
-• Harga Sawit Hari Ini 18 Agustus 2026 Naik Tipis, Tertahan Penguatan Ringgit - Marketeers — Google News · Malaysia (Bahasa)
-• Produksi CPO Diramal Landai, Risiko Dana Biodiesel B50 Mengintai — Bloomberg Technoz
-• Imbas El Niño, Stok B50 dan Pungutan Ekspor CPO Rentan Tergerus — Bloomberg Technoz
+• Harga CPO KPBN Inacom Withdraw pada Rabu (19/8), Perdagangan CPO di Bursa Malaysia Ditutup Menguat — InfoSAWIT
+• Harga TBS Sawit Mitra Swadaya Riau Turun, Perkilonya Jadi Rp3.834,39, Ini Rincian Harga TBS 19-25 Agustus 2026 - https://jambiekspres.disway.id/ — Jambi Ekspres
+• Kalbar Percepat Sertifikasi ISPO, Dorong Sawit Berkelanjutan Hadapi Pasar Global — Pontianak Post
+• CPO Prices To Remain Above RM4,600 In September On Tightening Supply, Geopolitical Disruptions -- MPOC - Bernama — Google News · Market
+• CPO Futures Rise On Firmer CBOT Soybean Oil Gains - Bernama — Google News · Market
+• Malaysia plans to use palm oil to cool data centres - UkrAgroConsult — Google News · Malaysia
+• KUD Sejahtera Musi Banyuasin Resmikan Pabrik Kelapa Sawit Koperasi - achmadnurhidayat.id — Google News · Perkebunan (Bahasa)
+• Harga TBS Sawit Plasma Riau Turun Jadi Rp3.884 per Kg, Berlaku 19–25 Agustus — Berita Riau
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
