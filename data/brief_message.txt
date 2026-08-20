@@ -1,4 +1,4 @@
-📰 *BRIEF PAGI* — 20 Agu 2026
+📰 *BRIEF PAGI* — 21 Agu 2026
 
 🌴 *Harga TBS Riau (2026-08-19 s/d 2026-08-25)*
   Plasma: Rp3.884/kg (turun Rp57)
@@ -10,26 +10,26 @@
 • Daerah terus mendorong percepatan sertifikasi ISPO, realisasi program PSR, serta penguatan kelembagaan lewat peresmian pabrik kelapa sawit milik koperasi.
 • Malaysia mulai mengkaji penggunaan minyak sawit sebagai pendingin pusat data guna menghemat penggunaan air dan meningkatkan nilai tambah produk.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 7.7 mm (peluang 67%), 23.5–30.8°C
-  Angin Barat Daya 9.3 km/jam (hembusan 34.9)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis ringan, hujan 0.3 mm (peluang 45%), 23.7–32.9°C
+  Angin Tenggara 13.3 km/jam (hembusan 31.3)
   Prakiraan:
-  2026-08-20: 0.9 mm, 55%
-  2026-08-21: 0.6 mm, 17%
-  2026-08-22: 0 mm, 21%
+  2026-08-21: 0.6 mm, 25%
+  2026-08-22: 0 mm, 8%
+  2026-08-23: 0 mm, 14%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 51.5 m3/s, stabil)
-  Karhutla: bahaya — titik terdekat 29.2 km utara (Siak Kecil, Sumatera)
-  Udara: AQI 93, Sedang, berasap/berkabut
+  Banjir: Normal (debit 50.9 m3/s, stabil)
+  Karhutla: bahaya — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Sumatera)
+  Udara: AQI 63, Sedang, berkabut tipis
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 706.91 (-0.46%)
-  ▼ QQQ (Nasdaq 100): 716.08 (-1.05%)
-  ▼ VEU (World ex-US): 84.96 (-0.68%)
-  💱 USD/SGD: 1.271
-  💱 USD/IDR: 17.839
-  💱 SGD/IDR: 14.034
+  ▼ VOO (S&P 500): 701.01 (-1.95%)
+  ▼ QQQ (Nasdaq 100): 710.93 (-2.89%)
+  ▼ VEU (World ex-US): 84.99 (-0.84%)
+  💱 USD/SGD: 1.2716
+  💱 USD/IDR: 17.774
+  💱 SGD/IDR: 13.978
 
 📰 *Berita sawit (Palm Pulse):*
 • Harga CPO KPBN Inacom Withdraw pada Rabu (19/8), Perdagangan CPO di Bursa Malaysia Ditutup Menguat — InfoSAWIT
