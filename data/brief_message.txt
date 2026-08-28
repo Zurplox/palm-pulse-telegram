@@ -1,4 +1,4 @@
-📰 *BRIEF PAGI* — 27 Agu 2026
+📰 *BRIEF PAGI* — 28 Agu 2026
 
 🌴 *Harga TBS Riau (2026-08-26 s/d 2026-09-01)*
   Plasma: Rp3.946/kg
@@ -10,26 +10,26 @@
 • Potensi penurunan produksi CPO hingga 5 juta ton akibat El Nino memicu sorotan terhadap rencana program B50, walaupun kedatangan musim hujan diperkirakan dapat mengurangi dampak buruk tersebut.
 • GAPKI mencatat ekspor minyak sawit Indonesia pada Juni 2026 naik 64%, di mana lonjakan ekspor dan konsumsi domestik melebihi kenaikan produksi sehingga stok PO dan PKO nasional menurun.
 
-⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Badai petir, hujan 16 mm (peluang 87%), 24–31.5°C
-  Angin Tenggara 10.1 km/jam (hembusan 27.4)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis, hujan 2.5 mm (peluang 33%), 23.4–32.4°C
+  Angin Tenggara 15.3 km/jam (hembusan 32.4)
   Prakiraan:
-  2026-08-27: 10 mm, 38%
-  2026-08-28: 0 mm, 18%
-  2026-08-29: 0.3 mm, 24%
+  2026-08-29: 1 mm, 39%
+  2026-08-30: 14.4 mm, 43%
+  2026-08-31: 2.1 mm, 67%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 48.8 m3/s, turun)
-  Karhutla: bahaya — titik terdekat 11.4 km barat (Koto Gasib, Sumatera)
-  Udara: AQI 109, Tidak sehat (kel. sensitif), asap tebal
+  Banjir: Normal (debit 66.1 m3/s, naik)
+  Karhutla: bahaya — titik terdekat 11.4 km barat (Koto Gasib, Riau)
+  Udara: AQI 132, Tidak sehat (kel. sensitif), berasap/berkabut
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 704.20 (-0.38%)
-  ▼ QQQ (Nasdaq 100): 711.37 (-0.66%)
-  ▲ VEU (World ex-US): 85.76 (+0.94%)
-  💱 USD/SGD: 1.2707
-  💱 USD/IDR: 17.763
-  💱 SGD/IDR: 13.979
+  ▲ VOO (S&P 500): 708.75 (+1.1%)
+  ▲ QQQ (Nasdaq 100): 721.11 (+1.43%)
+  ▲ VEU (World ex-US): 85.81 (+0.96%)
+  💱 USD/SGD: 1.2704
+  💱 USD/IDR: 17.705
+  💱 SGD/IDR: 13.934
 
 📰 *Berita sawit (Palm Pulse):*
 • Towards a More Inclusive Palm Oil Sector: What We Learned from Artisanal Mills in West and Central Africa — RSPO
