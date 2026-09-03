@@ -1,45 +1,44 @@
-📰 *BRIEF PAGI* — 02 Sep 2026
+📰 *BRIEF PAGI* — 03 Sep 2026
 
-🌴 *Harga TBS Riau (2026-08-12 s/d 2026-08-18)*
-  Plasma: Rp3.922/kg (turun Rp71)
-  Swadaya: Rp3.817/kg (turun Rp62)
+🌴 *Harga TBS Riau (2026-10-14 s/d 2026-10-18)*
+  Swadaya: Rp3.879/kg (naik Rp47)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO diproyeksikan berpotensi menguat hingga mencapai US$ 1.720 per ton akibat ketatnya pasokan pasca-El Nino dan peningkatan konsumsi domestik melalui rencana B50, meski saat ini terdapat fluktuasi penyesuaian harga minyak mentah.
-• Indonesia mengakselerasi program PSR yang dipadukan dengan tumpang sari padi gogo untuk ketahanan pangan, serta resmi memimpin koalisi global petani kelapa sawit swadaya.
-• Malaysia mencatatkan keunggulan harga TBS yang lebih tinggi berkat rendemen tinggi, logistik yang efisien, dan penerapan standar MSPO, seraya mempererat kerja sama perdagangan CPO dengan Tiongkok.
-• Program PSR mulai direalisasikan pada kebun sawit tua berusia 40 tahun di Asahan, Sumatera Utara, bekerja sama dengan PTPN IV dan menerapkan tumpang sari padi gogo guna mendukung ketahanan pangan.
+• Harga Referensi CPO periode September 2026 naik menjadi US$1.007,51 per ton dengan Bea Keluar US$148 dan Pungutan Ekspor 12,5 persen.
+• Produksi CPO Indonesia diperkirakan terancam turun hingga 3 juta ton akibat cuaca kering El Nino, yang mendorong GAPKI mendesak percepatan program peremajaan sawit.
+• Harga CPO fisik KPBN dan bursa Malaysia mengalami penurunan tipis, di tengah pengkajian pemerintah Indonesia terkait kesiapan biodiesel B50 dan B60.
+• Agrobank Malaysia menargetkan penyaluran dana RM200 juta untuk skema pekebun sawit selesai pada bulan Oktober.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis, hujan 1.9 mm (peluang 76%), 25.1–34.3°C
-  Angin Tenggara 14.7 km/jam (hembusan 32.4)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis lebat, hujan 1.7 mm (peluang 40%), 22.8–34.6°C
+  Angin Tenggara 16.9 km/jam (hembusan 36)
   Prakiraan:
-  2026-09-02: 0.4 mm, 34%
-  2026-09-03: 0.3 mm, 18%
-  2026-09-04: 0 mm, 8%
+  2026-09-03: 0.7 mm, 18%
+  2026-09-04: 0 mm, 4%
+  2026-09-05: 0.6 mm, 14%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 44.3 m3/s, turun)
-  Karhutla: bahaya — titik terdekat 22.2 km tenggara (Dayun, Riau)
-  Udara: AQI 148, Tidak sehat (kel. sensitif), asap tebal
+  Banjir: Normal (debit 32.6 m3/s, turun)
+  Karhutla: bahaya — titik terdekat 22.6 km tenggara (Dayun, Riau)
+  Udara: AQI 96, Sedang, berasap/berkabut
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 700.28 (-0.53%)
-  ▼ QQQ (Nasdaq 100): 707.64 (-0.43%)
-  ▼ VEU (World ex-US): 84.65 (-1.66%)
-  💱 USD/SGD: 1.2735
-  💱 USD/IDR: 17.722
-  💱 SGD/IDR: 13.920
+  ▼ VOO (S&P 500): 703.41 (-0.11%)
+  ▼ QQQ (Nasdaq 100): 709.24 (-0.3%)
+  ▼ VEU (World ex-US): 85.13 (-0.73%)
+  💱 USD/SGD: 1.271
+  💱 USD/IDR: 17.765
+  💱 SGD/IDR: 13.967
 
 📰 *Berita sawit (Palm Pulse):*
-• Premium Price, Premium Quality, Ini Alasan Harga TBS Malaysia Bisa Lebih Tinggi - sawitsetara.co — Google News · Malaysia (Bahasa)
-• Bupati Asahan Resmikan Tanam Perdana PSR dan Intercropping Padi Gogo di Bandar Pasir Mandoge - HaiSawit — Google News · Perkebunan (Bahasa)
-• Kebun Sawit Berusia 40 Tahun Koperasi Kesepakatan di Gotting Sodadi Asahan Mulai Peremajaan Bersama PTPN IV - HaiSawit — Google News · Perkebunan (Bahasa)
-• Bupati Asahan Resmikan Tanam Perdana PSR dan Padi Gogo - Sudutpandang.id — Google News · Perkebunan (Bahasa)
-• Buka Peluang Pasar, BPDP Tampilkan Produk UMKM Berbasis Perkebunan Di ITTIE 2026 - RM.ID — Google News · Perkebunan (Bahasa)
-• Malaysia Cooking Oil Exports 2025-26: Top Cooking Oil Exporters in Malaysia under HS Code 15 - TradeImeX — Google News · Malaysia
-• Siap-Siap Harga CPO Bisa Merangkak Sampai US$1.720, Ini Penyebabnya — CNBC Indonesia
-• Peningkatan Ketahanan Pangan Dandim Asahan dan Bupati Tanam Sawit PSR Serta Padi Gogo — Redaksi Satu
+• HR CPO September 2026 Naik Jadi US$1.007,51, BK US$148 dan PE 12,5 Persen — InfoSAWIT
+• Harga Kontrak CPO di Bursa Malaysia Tergelincir pada Rabu - achmadnurhidayat.id — Google News · Malaysia (Bahasa)
+• Harga CPO KPBN Inacom Turun Tipis pada Rabu (2/9), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
+• Produktivitas Sawit Masih Anjlok, 187 Petani Batang Hari Berguru pada BPDP, Ditjenbun dan DGL - Infojambi.com — Google News · Perkebunan (Bahasa)
+• Cuaca Kering, Produksi Minyak Sawit Indonesia Diperkirakan Turun 2,9% di 2027 - kontan.co.id — Google News · Malaysia (Bahasa)
+• Produksi CPO Terancam Turun pada 2027, GAPKI Desak Peremajaan Sawit Dipercepat - pontianakpost.jawapos.com — Google News · Perkebunan (Bahasa)
+• El Nino Diperkirakan Tekan Produksi Sawit Maksimal 3 Juta Ton, Gapki Optimistis B50 Tetap Jalan - pontianakpost.jawapos.com — Google News · Kebijakan (Bahasa)
+• Harga Karet SICOM Rabu (2/9) Turun Rp451, KKK 100% Jadi Rp41.467/Kg - Agricom.id — Google News · Pasar (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
