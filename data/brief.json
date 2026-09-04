@@ -1,5 +1,5 @@
 {
- "title": "📰 *BRIEF PAGI* — 03 Sep 2026",
+ "title": "📰 *BRIEF PAGI* — 04 Sep 2026",
  "ai_summary": null,
  "news": [
   {
@@ -44,36 +44,36 @@
   }
  ],
  "markets": {
-  "updated": "2026-09-03T00:45+00:00",
+  "updated": "2026-09-04T00:28+00:00",
   "tickers": [
    {
     "label": "VOO (S&P 500)",
-    "last": 703.41,
-    "pct": -0.11
+    "last": 710.72,
+    "pct": 0.28
    },
    {
     "label": "QQQ (Nasdaq 100)",
-    "last": 709.24,
-    "pct": -0.3
+    "last": 717.67,
+    "pct": -0.48
    },
    {
     "label": "VEU (World ex-US)",
-    "last": 85.13,
-    "pct": -0.73
+    "last": 85.95,
+    "pct": 0.16
    }
   ],
   "fx": [
    {
     "pair": "USD/SGD",
-    "rate": 1.271
+    "rate": 1.2669
    },
    {
     "pair": "USD/IDR",
-    "rate": 17765.0
+    "rate": 17684.0
    },
    {
     "pair": "SGD/IDR",
-    "rate": 13967.232
+    "rate": 13963.645
    }
   ]
  },
@@ -113,235 +113,235 @@
   ]
  },
  "cuaca": {
-  "updated_at": "2026-09-02T22:34+08:00",
+  "updated_at": "2026-09-03T22:39+08:00",
   "farm_name": "Kebun Sawit (Rawang Air Putih)",
   "today": {
-   "date": "2026-09-02",
-   "precip": 1.7,
-   "prob": 40,
-   "tmax": 34.6,
-   "tmin": 22.8,
-   "humidity": 74,
-   "cloud": 30,
-   "code": 55,
-   "condition": "Gerimis lebat",
-   "emoji": "🌧️",
-   "wind": 16.9,
-   "gust": 36.0,
+   "date": "2026-09-03",
+   "precip": 0.4,
+   "prob": 65,
+   "tmax": 34.7,
+   "tmin": 24.0,
+   "humidity": 61,
+   "cloud": 41,
+   "code": 51,
+   "condition": "Gerimis ringan",
+   "emoji": "🌦️",
+   "wind": 14.1,
+   "gust": 32.0,
    "wind_dir": "Tenggara",
-   "wind_dir_deg": 123,
-   "precip_hours": 3.0,
+   "wind_dir_deg": 150,
+   "precip_hours": 2.0,
    "rain_windows": [
-    "06:00–08:00"
+    "11:00–12:00"
    ],
-   "sunrise": "06:08",
+   "sunrise": "06:07",
    "sunset": "18:15",
    "soil_moist": 59,
    "hourly": [
     {
      "t": "00:00",
      "p": 0.0,
-     "prob": 7,
-     "rh": 93,
-     "cloud": 4,
-     "code": 0
+     "prob": 0,
+     "rh": 69,
+     "cloud": 96,
+     "code": 3
     },
     {
      "t": "01:00",
      "p": 0.0,
-     "prob": 8,
-     "rh": 92,
-     "cloud": 15,
-     "code": 0
+     "prob": 0,
+     "rh": 70,
+     "cloud": 86,
+     "code": 3
     },
     {
      "t": "02:00",
      "p": 0.0,
-     "prob": 10,
-     "rh": 95,
-     "cloud": 2,
-     "code": 0
+     "prob": 0,
+     "rh": 74,
+     "cloud": 30,
+     "code": 1
     },
     {
      "t": "03:00",
      "p": 0.0,
-     "prob": 12,
-     "rh": 94,
-     "cloud": 2,
-     "code": 0
+     "prob": 0,
+     "rh": 78,
+     "cloud": 37,
+     "code": 1
     },
     {
      "t": "04:00",
      "p": 0.0,
-     "prob": 16,
-     "rh": 95,
-     "cloud": 40,
-     "code": 1
+     "prob": 0,
+     "rh": 79,
+     "cloud": 82,
+     "code": 3
     },
     {
      "t": "05:00",
      "p": 0.0,
-     "prob": 24,
-     "rh": 95,
-     "cloud": 54,
-     "code": 2
+     "prob": 0,
+     "rh": 81,
+     "cloud": 99,
+     "code": 3
     },
     {
      "t": "06:00",
-     "p": 1.2,
-     "prob": 33,
-     "rh": 98,
-     "cloud": 96,
-     "code": 55
+     "p": 0.0,
+     "prob": 0,
+     "rh": 83,
+     "cloud": 77,
+     "code": 2
     },
     {
      "t": "07:00",
-     "p": 0.4,
-     "prob": 39,
-     "rh": 95,
-     "cloud": 31,
-     "code": 51
+     "p": 0.0,
+     "prob": 0,
+     "rh": 75,
+     "cloud": 76,
+     "code": 2
     },
     {
      "t": "08:00",
      "p": 0.0,
-     "prob": 40,
-     "rh": 91,
-     "cloud": 14,
-     "code": 0
+     "prob": 1,
+     "rh": 72,
+     "cloud": 38,
+     "code": 1
     },
     {
      "t": "09:00",
      "p": 0.0,
-     "prob": 39,
-     "rh": 83,
-     "cloud": 12,
+     "prob": 3,
+     "rh": 68,
+     "cloud": 6,
      "code": 0
     },
     {
      "t": "10:00",
-     "p": 0.0,
-     "prob": 35,
-     "rh": 72,
-     "cloud": 34,
-     "code": 1
+     "p": 0.1,
+     "prob": 10,
+     "rh": 63,
+     "cloud": 24,
+     "code": 51
     },
     {
      "t": "11:00",
-     "p": 0.1,
-     "prob": 27,
-     "rh": 63,
-     "cloud": 23,
+     "p": 0.3,
+     "prob": 29,
+     "rh": 59,
+     "cloud": 13,
      "code": 51
     },
     {
      "t": "12:00",
      "p": 0.0,
-     "prob": 16,
-     "rh": 56,
-     "cloud": 13,
+     "prob": 52,
+     "rh": 51,
+     "cloud": 14,
      "code": 0
     },
     {
      "t": "13:00",
      "p": 0.0,
-     "prob": 10,
-     "rh": 50,
-     "cloud": 23,
+     "prob": 65,
+     "rh": 41,
+     "cloud": 27,
      "code": 1
     },
     {
      "t": "14:00",
      "p": 0.0,
-     "prob": 12,
-     "rh": 47,
-     "cloud": 24,
-     "code": 1
+     "prob": 57,
+     "rh": 41,
+     "cloud": 10,
+     "code": 0
     },
     {
      "t": "15:00",
      "p": 0.0,
-     "prob": 19,
-     "rh": 46,
-     "cloud": 16,
+     "prob": 38,
+     "rh": 40,
+     "cloud": 5,
      "code": 0
     },
     {
      "t": "16:00",
      "p": 0.0,
-     "prob": 24,
-     "rh": 46,
-     "cloud": 16,
+     "prob": 22,
+     "rh": 40,
+     "cloud": 18,
      "code": 0
     },
     {
      "t": "17:00",
      "p": 0.0,
-     "prob": 26,
-     "rh": 51,
-     "cloud": 16,
-     "code": 0
+     "prob": 15,
+     "rh": 41,
+     "cloud": 24,
+     "code": 1
     },
     {
      "t": "18:00",
      "p": 0.0,
-     "prob": 26,
-     "rh": 60,
-     "cloud": 12,
+     "prob": 11,
+     "rh": 48,
+     "cloud": 5,
      "code": 0
     },
     {
      "t": "19:00",
      "p": 0.0,
-     "prob": 24,
-     "rh": 64,
-     "cloud": 12,
+     "prob": 8,
+     "rh": 49,
+     "cloud": 2,
      "code": 0
     },
     {
      "t": "20:00",
      "p": 0.0,
-     "prob": 19,
-     "rh": 68,
-     "cloud": 38,
-     "code": 1
+     "prob": 5,
+     "rh": 53,
+     "cloud": 81,
+     "code": 3
     },
     {
      "t": "21:00",
      "p": 0.0,
-     "prob": 11,
-     "rh": 74,
-     "cloud": 59,
-     "code": 2
+     "prob": 3,
+     "rh": 60,
+     "cloud": 87,
+     "code": 3
     },
     {
      "t": "22:00",
      "p": 0.0,
-     "prob": 6,
-     "rh": 78,
-     "cloud": 68,
-     "code": 2
+     "prob": 2,
+     "rh": 68,
+     "cloud": 26,
+     "code": 1
     },
     {
      "t": "23:00",
      "p": 0.0,
-     "prob": 4,
-     "rh": 81,
-     "cloud": 88,
-     "code": 3
+     "prob": 1,
+     "rh": 68,
+     "cloud": 23,
+     "code": 1
     }
    ]
   }
  },
  "lingkungan": {
-  "updated_at": "2026-09-02T22:35+08:00",
+  "updated_at": "2026-09-03T22:39+08:00",
   "flood": {
-   "river_discharge": 32.6,
+   "river_discharge": 27.1,
    "unit": "m3/s",
    "trend": "turun",
-   "peak_next3": 27.1,
+   "peak_next3": 23.3,
    "baseline": 58.4,
-   "ratio_pct": 56,
+   "ratio_pct": 46,
    "status": "Normal",
    "map": "https://sites.research.google/floods/l/0.816/101.966/9"
   },
@@ -349,27 +349,117 @@
    "status": "bahaya",
    "warn_km": 50,
    "nearest": {
-    "km": 22.6,
-    "dir": "tenggara",
-    "lat": 0.672,
-    "lon": 102.1101,
-    "place": "Dayun, Riau",
-    "acq": "2026-08-29",
+    "km": 21.4,
+    "dir": "utara",
+    "lat": 1.0047,
+    "lon": 102.0016,
+    "place": "Bunga Raya, Siak Kecil, Riau",
+    "acq": "2026-09-03",
     "sat": "N20",
     "confidence": "n",
-    "frp": "1.57"
+    "frp": "10.99"
    },
-   "count_within": 7,
+   "count_within": 18,
    "scanned_days": 5,
    "points": [
     {
-     "lat": 0.672,
-     "lon": 102.1101,
-     "km": 22.6,
-     "acq": "2026-08-29",
+     "lat": 1.0047,
+     "lon": 102.0016,
+     "km": 21.4,
+     "acq": "2026-09-03",
      "sat": "N20",
      "confidence": "n",
-     "frp": "1.57"
+     "frp": "10.99"
+    },
+    {
+     "lat": 1.0064,
+     "lon": 102.0029,
+     "km": 21.6,
+     "acq": "2026-09-03",
+     "sat": "N",
+     "confidence": "n",
+     "frp": "31.76"
+    },
+    {
+     "lat": 1.0058,
+     "lon": 102.0085,
+     "km": 21.6,
+     "acq": "2026-09-03",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "10.34"
+    },
+    {
+     "lat": 1.0075,
+     "lon": 102.0057,
+     "km": 21.8,
+     "acq": "2026-09-03",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "23.18"
+    },
+    {
+     "lat": 1.0099,
+     "lon": 101.9987,
+     "km": 21.9,
+     "acq": "2026-09-03",
+     "sat": "N",
+     "confidence": "n",
+     "frp": "19.72"
+    },
+    {
+     "lat": 1.0105,
+     "lon": 102.0023,
+     "km": 22.0,
+     "acq": "2026-09-03",
+     "sat": "N",
+     "confidence": "n",
+     "frp": "31.76"
+    },
+    {
+     "lat": 0.6737,
+     "lon": 102.1059,
+     "km": 22.1,
+     "acq": "2026-09-03",
+     "sat": "N",
+     "confidence": "n",
+     "frp": "28.88"
+    },
+    {
+     "lat": 1.0128,
+     "lon": 102.001,
+     "km": 22.2,
+     "acq": "2026-09-03",
+     "sat": "N",
+     "confidence": "n",
+     "frp": "49.49"
+    },
+    {
+     "lat": 1.013,
+     "lon": 101.9998,
+     "km": 22.3,
+     "acq": "2026-09-03",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "30.14"
+    },
+    {
+     "lat": 0.6713,
+     "lon": 102.1055,
+     "km": 22.3,
+     "acq": "2026-09-03",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "27.81"
+    },
+    {
+     "lat": 0.6721,
+     "lon": 102.1105,
+     "km": 22.6,
+     "acq": "2026-09-03",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "20.27"
     },
     {
      "lat": 0.444,
@@ -379,6 +469,15 @@
      "sat": "N20",
      "confidence": "n",
      "frp": "1.92"
+    },
+    {
+     "lat": 0.4432,
+     "lon": 101.8926,
+     "km": 42.2,
+     "acq": "2026-09-02",
+     "sat": "N",
+     "confidence": "n",
+     "frp": "3.25"
     },
     {
      "lat": 0.4424,
@@ -399,6 +498,24 @@
      "frp": "1.87"
     },
     {
+     "lat": 0.4424,
+     "lon": 101.8936,
+     "km": 42.3,
+     "acq": "2026-09-02",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "1.66"
+    },
+    {
+     "lat": 0.4429,
+     "lon": 101.8901,
+     "km": 42.3,
+     "acq": "2026-09-02",
+     "sat": "N20",
+     "confidence": "n",
+     "frp": "1.66"
+    },
+    {
      "lat": 0.441,
      "lon": 101.8916,
      "km": 42.5,
@@ -406,30 +523,12 @@
      "sat": "N20",
      "confidence": "n",
      "frp": "2.02"
-    },
-    {
-     "lat": 1.0706,
-     "lon": 101.6655,
-     "km": 43.8,
-     "acq": "2026-08-29",
-     "sat": "N20",
-     "confidence": "n",
-     "frp": "10.49"
-    },
-    {
-     "lat": 1.1285,
-     "lon": 101.6432,
-     "km": 50.0,
-     "acq": "2026-08-29",
-     "sat": "N",
-     "confidence": "n",
-     "frp": "7.75"
     }
    ],
    "weather_risk": {
-    "level": "tinggi",
-    "dry_streak": 7,
-    "humidity": 74
+    "level": "sedang",
+    "dry_streak": 6,
+    "humidity": 61
    },
    "sipongi": {
     "status": "bahaya",
@@ -767,21 +866,21 @@
    },
    "primary_src": "FIRMS",
    "map": "https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@101.966,0.816,9z",
-   "map_google": "https://www.google.com/maps?q=0.672,102.1101"
+   "map_google": "https://www.google.com/maps?q=1.0047,102.0016"
   },
   "air": {
-   "us_aqi": 96,
-   "pm2_5": 35.9,
-   "pm10": 37.3,
+   "us_aqi": 71,
+   "pm2_5": 38.3,
+   "pm10": 39.7,
    "category": "Sedang",
    "color": "gold",
-   "aod": 0.77,
+   "aod": 0.59,
    "dust": 0,
-   "haze": "berasap/berkabut",
-   "haze_color": "orange",
+   "haze": "berkabut tipis",
+   "haze_color": "gold",
    "uv": 0.0,
    "uv_cat": "rendah"
   }
  },
- "generated": "2026-09-03T00:45+00:00"
+ "generated": "2026-09-04T00:28+00:00"
 }

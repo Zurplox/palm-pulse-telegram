@@ -1,4 +1,4 @@
-📰 *BRIEF PAGI* — 03 Sep 2026
+📰 *BRIEF PAGI* — 04 Sep 2026
 
 🌴 *Harga TBS Riau (2026-10-14 s/d 2026-10-18)*
   Swadaya: Rp3.879/kg (naik Rp47)
@@ -9,26 +9,26 @@
 • Harga CPO fisik KPBN dan bursa Malaysia mengalami penurunan tipis, di tengah pengkajian pemerintah Indonesia terkait kesiapan biodiesel B50 dan B60.
 • Agrobank Malaysia menargetkan penyaluran dana RM200 juta untuk skema pekebun sawit selesai pada bulan Oktober.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis lebat, hujan 1.7 mm (peluang 40%), 22.8–34.6°C
-  Angin Tenggara 16.9 km/jam (hembusan 36)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis ringan, hujan 0.4 mm (peluang 65%), 24–34.7°C
+  Angin Tenggara 14.1 km/jam (hembusan 32)
   Prakiraan:
-  2026-09-03: 0.7 mm, 18%
-  2026-09-04: 0 mm, 4%
-  2026-09-05: 0.6 mm, 14%
+  2026-09-04: 0.6 mm, 10%
+  2026-09-05: 0.2 mm, 16%
+  2026-09-06: 0.2 mm, 10%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 32.6 m3/s, turun)
-  Karhutla: bahaya — titik terdekat 22.6 km tenggara (Dayun, Riau)
-  Udara: AQI 96, Sedang, berasap/berkabut
+  Banjir: Normal (debit 27.1 m3/s, turun)
+  Karhutla: bahaya — titik terdekat 21.4 km utara (Bunga Raya, Siak Kecil, Riau)
+  Udara: AQI 71, Sedang, berkabut tipis
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 703.41 (-0.11%)
-  ▼ QQQ (Nasdaq 100): 709.24 (-0.3%)
-  ▼ VEU (World ex-US): 85.13 (-0.73%)
-  💱 USD/SGD: 1.271
-  💱 USD/IDR: 17.765
-  💱 SGD/IDR: 13.967
+  ▲ VOO (S&P 500): 710.72 (+0.28%)
+  ▼ QQQ (Nasdaq 100): 717.67 (-0.48%)
+  ▲ VEU (World ex-US): 85.95 (+0.16%)
+  💱 USD/SGD: 1.2669
+  💱 USD/IDR: 17.684
+  💱 SGD/IDR: 13.964
 
 📰 *Berita sawit (Palm Pulse):*
 • HR CPO September 2026 Naik Jadi US$1.007,51, BK US$148 dan PE 12,5 Persen — InfoSAWIT
