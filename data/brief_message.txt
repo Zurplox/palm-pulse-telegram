@@ -1,45 +1,45 @@
-📰 *BRIEF PAGI* — 07 Sep 2026
+📰 *BRIEF PAGI* — 08 Sep 2026
 
 🌴 *Harga TBS Riau (2026-09-02 s/d 2026-09-08)*
   Plasma: Rp3.932/kg
   Swadaya: Rp3.879/kg (naik Rp50)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pergerakan harga CPO berjangka menguat didorong oleh kenaikan harga minyak kedelai dan gejolak geopolitik Timur Tengah, meskipun harga di pasar fisik KPBN dan CIF Rotterdam mengalami penurunan.
-• Kinerja ekspor minyak sawit Malaysia pada bulan Agustus mencatatkan penurunan akibat melemahnya permintaan dari India, yang berpotensi memicu aksi ambil untung karena tingginya stok.
-• Kementerian Pertanian Indonesia memperketat pengawasan harga TBS mitra dan merencanakan patokan harga CPO sendiri, di tengah tren kenaikan harga TBS di wilayah seperti Kalimantan Tengah.
-• Kementerian Pertanian memperkuat tata kelola industri sawit dengan memperketat pengawasan mekanisme penetapan harga TBS produksi pekebun kemitraan.
+• Industri kelapa sawit di Indonesia dan Malaysia saat ini fokus pada penguatan tata kelola, keberlanjutan, dan perlindungan hak masyarakat adat di tengah tekanan regulasi lingkungan global seperti EUDR.
+• Terdapat upaya sistematis untuk meningkatkan kesejahteraan pekebun melalui kemitraan, peremajaan sawit, dan pengawasan harga TBS yang lebih ketat.
+• Pemerintah melalui Kementan memperketat pengawasan harga TBS untuk memastikan keadilan bagi pekebun mitra, sementara GAPKI mendorong kesiapsiagaan pencegahan kebakaran hutan dan lahan.
+• Putusan Mahkamah Konstitusi memberikan perlindungan hukum bagi masyarakat yang tinggal turun-temurun di kawasan hutan, yang berpotensi memengaruhi penyelesaian konflik agraria di masa depan.
 
 🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis ringan, hujan 0.2 mm (peluang 14%), 23.8–34.8°C
-  Angin Tenggara 11.5 km/jam (hembusan 27.4)
+  Gerimis ringan, hujan 1.2 mm (peluang 50%), 23.5–33°C
+  Angin Tenggara 12.5 km/jam (hembusan 28.8)
   Prakiraan:
-  2026-09-07: 1 mm, 38%
-  2026-09-08: 0.3 mm, 47%
-  2026-09-09: 3.6 mm, 67%
+  2026-09-08: 0.2 mm, 37%
+  2026-09-09: 3.6 mm, 72%
+  2026-09-10: 5.5 mm, 73%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 20.5 m3/s, turun)
+  Banjir: Normal (debit 20.3 m3/s, stabil)
   Karhutla: bahaya — titik terdekat 8.9 km selatan (Koto Gasib, Riau)
-  Udara: AQI 177, Tidak sehat, asap tebal
+  Udara: AQI 166, Tidak sehat, asap tebal
 
 📈 *Pasar:*
   ▲ VOO (S&P 500): 708.01 (+0.11%)
   ▲ QQQ (Nasdaq 100): 718.96 (+0.35%)
   ▲ VEU (World ex-US): 86.41 (+1.15%)
-  💱 USD/SGD: 1.2665
+  💱 USD/SGD: 1.2652
   💱 USD/IDR: 17.631
-  💱 SGD/IDR: 13.919
+  💱 SGD/IDR: 13.929
 
 📰 *Berita sawit (Palm Pulse):*
-• Kementan Perkuat Tata Kelola Sawit, Harga TBS Mitra Bakal Diawasi Lebih Ketat — InfoSAWIT
-• Palm Oil and Nature Conservation: Producing More, Protecting More — Kantor Berita Sawit
-• CPO Futures Likely To See Profit-taking Next Week Amid High Stock Levels - bernamabiz.com — Google News · Market
-• Gulat Manurung dan Peran Strategisnya dalam Konsolidasi Petani Sawit - sawitsetara.co — Google News · Perkebunan (Bahasa)
-• USD Malaysian Crude Palm Oil Day 15th Bullet Futures (Sep 2031) Trade Ideas — CME:CPVU2031 - TradingView — Google News · Market
-• Jejak 45 Tahun PTPN: Dari Jalan Tikus hingga Peremajaan Sawit di Kalbar — Pontianak Post
-• Harga CPO Malaysia Naik 0,55 Persen Jumat (4/9), Kontrak November Capai RM4.931 per Ton - Agricom.id — Google News · Pasar (Bahasa)
-• Southeast Asia’s extreme heat exposes holes in safety net for outdoor workers — South China Morning Post
+• Sawit Watch: Putusan MK Lindungi Masyarakat Turun-temurun di Kawasan Hutan — InfoSAWIT
+• Bank Sumsel Babel Perkuat Pembiayaan Perrmajaan Sawit Rakyat - detikcom — Google News · Perkebunan (Bahasa)
+• Malaysia has great potential to become regional marine fuel hub, boost revenue – expert — The Vibes
+• Kini Punya Kepastian Pasar, 2 Kelompok Tani Sawit Jalin Kemitraan dengan 2 PKS Bengkulu Selatan - betv.disway.id - Disway — Google News · Perkebunan (Bahasa)
+• Sama-sama ’Pesakitan’ Peremajaan Perkebunan Kelapa Sawit di Madina, Dua Divonis Bebas - metro-online.co — Google News · Perkebunan (Bahasa)
+• MPOB charts new course for palm oil industry — NST Online
+• Konflik Agraria Rakawuta dan Muara Tae Disorot, Masyarakat Sipil Desak Pemerintah Bertindak — InfoSAWIT
+• Climate and Environmental Governance: Why palm oil may be a risk to Malaysian exports — The Edge Malaysia
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
