@@ -1,45 +1,45 @@
-📰 *BRIEF PAGI* — 16 Sep 2026
+📰 *BRIEF PAGI* — 17 Sep 2026
 
-🌴 *Harga TBS Riau (2026-09-09 s/d 2026-09-15)*
-  Plasma: Rp3.994/kg (naik Rp30)
-  Swadaya: Rp3.542/kg (naik Rp30)
+🌴 *Harga TBS Riau (2026-09-16 s/d 2026-09-22)*
+  Plasma: Rp3.977/kg (turun Rp18)
+  Swadaya: Rp3.626/kg (turun Rp31)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar CPO global mengalami pergerakan membaik (rebound) yang ditopang oleh kenaikan harga minyak mentah dunia dan kenaikan harga CPO CIF Rotterdam.
-• Di Indonesia, harga TBS mitra plasma di beberapa daerah seperti Sumatera Utara, Jambi, dan Riau mengalami kenaikan, meski harga lelang CPO di KPBN sempat withdraw dan harga TBS swadaya tertekan oleh anjloknya harga kernel.
-• Industri kelapa sawit Malaysia bersiap menghadapi dampak ganda dari berlakunya regulasi EUDR, namun tetap mendapat kepastian pasar dari pembeli utama asal India yang berkomitmen mempertahankan pasokan dari Malaysia.
-• Keberlanjutan industri sawit diwarnai oleh penguatan kesiapsiagaan Karhutla, usulan perubahan iuran keanggotaan RSPO, serta peringatan PASPI terkait risiko kerugian petani jika PKS tanpa kebun legal dilarang.
+• Perdagangan CPO domestik pada lelang KPBN Inacom kembali berakhir withdraw (WD) dengan penawaran tertinggi Rp15.702 per kg, sementara harga TBS di Riau mengalami penurunan dan di Kalimantan Timur cenderung stagnan.
+• Pasar CPO berjangka (FCPO) di Bursa Malaysia bergerak menguat didorong oleh kenaikan harga minyak mentah dunia serta peningkatan impor minyak sawit oleh India untuk penumpukan stok.
+• Pemerintah Indonesia dan pemangku kepentingan terus mendorong korporatisasi petani sawit swadaya melalui dukungan BPDP serta percepatan peremajaan kebun melalui program PSR.
+• Malaysia menaikkan harga acuan CPO untuk periode Oktober dengan tarif bea keluar tetap 10 persen, sementara RSPO membahas usulan perubahan struktur iuran keanggotaan.
 
-☁️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Mendung, hujan 0 mm (peluang 2%), 24.5–33.4°C
-  Angin Tenggara 14.9 km/jam (hembusan 31.7)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis ringan, hujan 0.1 mm (peluang 4%), 22.1–33.5°C
+  Angin Tenggara 13.3 km/jam (hembusan 30.2)
   Prakiraan:
-  2026-09-16: 0.2 mm, 10%
-  2026-09-17: 2 mm, 39%
-  2026-09-18: 5 mm, 77%
+  2026-09-17: 2.4 mm, 54%
+  2026-09-18: 13.2 mm, 56%
+  2026-09-19: 2.2 mm, 72%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Sangat tinggi (debit 107.1 m3/s, naik)
-  Karhutla: bahaya — titik terdekat 42 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 156, Tidak sehat, berasap/berkabut
+  Banjir: Sangat tinggi (debit 96 m3/s, naik)
+  Karhutla: aman
+  Udara: AQI 109, Tidak sehat (kel. sensitif), asap tebal
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 696.20 (-1.12%)
-  ▼ QQQ (Nasdaq 100): 704.54 (-1.92%)
-  ▼ VEU (World ex-US): 83.78 (-2.65%)
-  💱 USD/SGD: 1.2738
-  💱 USD/IDR: 17.682
-  💱 SGD/IDR: 13.895
+  ▼ VOO (S&P 500): 693.24 (-1.09%)
+  ▼ QQQ (Nasdaq 100): 704.72 (-1.62%)
+  ▼ VEU (World ex-US): 83.50 (-2.21%)
+  💱 USD/SGD: 1.2777
+  💱 USD/IDR: 17.707
+  💱 SGD/IDR: 13.867
 
 📰 *Berita sawit (Palm Pulse):*
-• Apical dan Earthworm Foundation Perkuat Kesiapsiagaan Masyarakat dalam Pencegahan Karhutla di Desa Tepian Makmur — InfoSAWIT
-• Harga CPO KPBN Inacom Withdraw pada Senin (14/9), Perdagangan CPO di Bursa Malaysia Ditutup Beragam — InfoSAWIT
-• Harga TBS Sawit Sumut Periode 9–15 September 2026 Naik, Usia 10–20 Tahun Rp4.079,09 per Kg — InfoSAWIT
-• CPO Futures End Mixed As Profit-taking, Weaker Vegetable Oils Weigh - Bernama — Google News · Market
-• Harga TBS Sawit Swadaya Riau Periode 13–19 Mei 2026 Turun Tipis ke Level Rp3.832 per Kg Akibat Anjloknya Harga Kernel — Majalah Sawit Indonesia
-• Harga TBS Sawit Jambi Periode 11–17 September 2026 Naik Rp30,41 per Kg — InfoSAWIT
-• Harga TBS Sawit Plasma Riau Periode 13–19 Mei 2026 Naik Tembus Rp3.900 per Kg, Dipicu Lonjakan Harga CPO — Majalah Sawit Indonesia
-• Harga CPO Rebound Ditopang Lonjakan Harga Minyak Mentah — IDX Channel
+• Harga TBS Sawit Kaltim Periode I-September 2026 Cenderung Stagnan — InfoSAWIT
+• Harga CPO KPBN Inacom Selasa (15/9) WD Lagi, Penawaran Tertinggi Rp15.702/Kg - Agricom.id — Google News · Pasar (Bahasa)
+• Harga CPO KPBN Inacom Masih Withdraw pada Selasa (15/9), Perdagangan CPO di Bursa Malaysia Menguat — InfoSAWIT
+• Guru Besar USU: Model korporasi petani sawit di lahan terfragmentasi — ANTARA News
+• BPDP dukung korporatisasi petani sawit berkelanjutan — ANTARA News
+• Harga TBS Sawit Mitra Swadaya Riau Periode 16-22 September Turun, Tertinggi Rp3.912,24 per Kg - HaiSawit — Google News · Perkebunan (Bahasa)
+• CPO Futures End Higher Tracking Oil Price Gains - Bernama — Google News · Malaysia
+• PSR Award 2026 Digelar Perdana, PalmCo Dorong Petani Sawit Naik Kelas - JambiLINK.id — Google News · Perkebunan (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
