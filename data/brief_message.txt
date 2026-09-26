@@ -1,4 +1,4 @@
-📰 *BRIEF PAGI* — 25 Sep 2026
+📰 *BRIEF PAGI* — 26 Sep 2026
 
 🌴 *Harga TBS Riau (2026-09-23 s/d 2026-09-29)*
   Plasma: Rp3.949/kg (turun Rp55)
@@ -10,26 +10,26 @@
 • Pasar sawit masih dibayangi peningkatan stok minyak nabati jangka pendek, namun kekhawatiran dampak El Nino serta tuntutan regulasi EUDR menjadi fokus perhatian utama.
 • Program Peremajaan Sawit Rakyat (PSR) di Provinsi Riau mencatatkan realisasi seluas 55.140 hektare dengan penyaluran dana bantuan mencapai Rp1,9 triliun.
 
-⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Badai petir, hujan 5.3 mm (peluang 74%), 24.2–31.6°C
-  Angin Timur Laut 12.1 km/jam (hembusan 22.3)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal ringan, hujan 3.3 mm (peluang 77%), 24.9–33.3°C
+  Angin Timur 10.7 km/jam (hembusan 22)
   Prakiraan:
-  2026-09-25: 6 mm, 50%
-  2026-09-26: 5.4 mm, 73%
-  2026-09-27: 9.1 mm, 69%
+  2026-09-26: 7.4 mm, 77%
+  2026-09-27: 9.7 mm, 73%
+  2026-09-28: 23.1 mm, 63%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 47.9 m3/s, naik)
-  Karhutla: aman — titik terdekat 108.6 km utara (Rupat, Riau)
-  Udara: AQI 53, Sedang, berkabut tipis
+  Banjir: Tinggi (debit 60.7 m3/s, naik)
+  Karhutla: waspada — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
+  Udara: AQI 65, Sedang, berasap/berkabut
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 706.99 (+0.85%)
-  ▲ QQQ (Nasdaq 100): 741.10 (+3.37%)
-  ▼ VEU (World ex-US): 83.57 (-1.11%)
-  💱 USD/SGD: 1.2794
-  💱 USD/IDR: 17.893
-  💱 SGD/IDR: 13.987
+  ▲ VOO (S&P 500): 710.79 (+1.28%)
+  ▲ QQQ (Nasdaq 100): 744.50 (+3.19%)
+  ▲ VEU (World ex-US): 84.38 (+0.62%)
+  💱 USD/SGD: 1.2772
+  💱 USD/IDR: 17.912
+  💱 SGD/IDR: 14.023
 
 📰 *Berita sawit (Palm Pulse):*
 • Harga CPO KPBN Inacom Kamis (24/9) Bertahan di Rp15.515, Bursa Rotterdam Bergerak Beragam - Agricom.id — Google News · Pasar (Bahasa)
