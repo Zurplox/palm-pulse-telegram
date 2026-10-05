@@ -1,4 +1,4 @@
-📰 *BRIEF PAGI* — 04 Okt 2026
+📰 *BRIEF PAGI* — 05 Okt 2026
 
 🌴 *Harga TBS Riau (2026-09-30 s/d 2026-10-06)*
   Plasma: Rp3.882/kg (turun Rp36)
@@ -10,26 +10,26 @@
 • Penetapan harga TBS di tingkat daerah bervariasi; harga TBS di Sumatera Barat mengalami sedikit penurunan menjadi Rp3.966,94 per kg untuk tanaman umur 10–20 tahun, sementara Bengkulu menetapkan harga tertinggi Rp3.481,52 per kg.
 • Kerangka kerja EUDR diperkirakan hanya memberikan dampak minimal bagi para pekebun kelapa sawit seiring proses finalisasi aturan tersebut.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 8.8 mm (peluang 88%), 23.8–31.9°C
-  Angin Barat 12.3 km/jam (hembusan 24.5)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal ringan, hujan 5.7 mm (peluang 92%), 23.3–31.4°C
+  Angin Barat 11.8 km/jam (hembusan 22)
   Prakiraan:
-  2026-10-04: 8 mm, 73%
-  2026-10-05: 1.8 mm, 68%
-  2026-10-06: 3.1 mm, 55%
+  2026-10-05: 6.6 mm, 82%
+  2026-10-06: 1.3 mm, 63%
+  2026-10-07: 3.2 mm, 57%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 186.9 m3/s, turun)
-  Karhutla: aman
-  Udara: AQI 112, Tidak sehat (kel. sensitif), asap tebal
+  Banjir: Agak tinggi (debit 241.1 m3/s, naik)
+  Karhutla: bahaya — titik terdekat 41.9 km selatan (Pelalawan, Riau)
+  Udara: AQI 123, Tidak sehat (kel. sensitif), asap tebal
 
 📈 *Pasar:*
   ▼ VOO (S&P 500): 707.54 (-0.46%)
   ▲ QQQ (Nasdaq 100): 749.58 (+0.68%)
   ▼ VEU (World ex-US): 83.45 (-1.1%)
-  💱 USD/SGD: 1.2789
-  💱 USD/IDR: 17.900
-  💱 SGD/IDR: 13.989
+  💱 USD/SGD: 1.2791
+  💱 USD/IDR: 17.893
+  💱 SGD/IDR: 13.993
 
 📰 *Berita sawit (Palm Pulse):*
 • Harga TBS Sawit Sumbar Periode I Oktober 2026 Turun Rp20,33 per Kg, Umur 10–20 Tahun Rp3.966,94 per Kg — InfoSAWIT
