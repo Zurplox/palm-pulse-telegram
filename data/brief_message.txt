@@ -1,45 +1,45 @@
-📰 *BRIEF PAGI* — 07 Okt 2026
+📰 *BRIEF PAGI* — 08 Okt 2026
 
-🌴 *Harga TBS Riau (2026-09-30 s/d 2026-10-06)*
-  Plasma: Rp3.809/kg (turun Rp36)
-  Swadaya: Rp3.490/kg (turun Rp20)
+🌴 *Harga TBS Riau (2026-10-07 s/d 2026-10-13)*
+  Plasma: Rp3.797/kg
+  Swadaya: Rp3.516/kg (turun Rp170)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar CPO global menunjukkan pemulihan setelah sempat mengalami penurunan beruntun, didukung oleh aksi beli saat harga rendah di bursa berjangka, meskipun stok minyak sawit Malaysia dilaporkan melonjak akibat kenaikan produksi.
-• Di Indonesia, pergerakan harga TBS bervariasi antar wilayah, seperti penurunan di Sumatera Utara dan penguatan di Kalimantan Timur, di tengah penetapan HIP Biodiesel Oktober sebesar Rp15.072 per liter oleh pemerintah.
-• Industri kelapa sawit terus dihadapkan pada tantangan keberlanjutan, pemeriksaan lingkungan di tingkat daerah, serta ekspektasi dampak kebijakan B50 dan ancaman cuaca terhadap pasokan jangka panjang.
-• Kementerian Energi dan Sumber Daya Mineral menetapkan Harga Indeks Pasar (HIP) biodiesel untuk bulan Oktober sebesar Rp15.072 per liter, yang belum memperhitungkan ongkos angkut.
+• Pasar sawit global saat ini berada dalam kondisi tarik-menarik antara proyeksi lonjakan stok di Malaysia dan permintaan dari pasar utama seperti India.
+• Kebijakan biofuel domestik di Indonesia menjadi sorotan karena adanya usulan fleksibilitas untuk menyeimbangkan kebutuhan energi dengan ekspor.
+• Harga TBS di tingkat daerah menunjukkan fluktuasi, dengan beberapa wilayah melakukan intervensi kebijakan untuk menyetarakan harga bagi pekebun mandiri dan plasma.
+• Kinerja ekspor sawit Indonesia pada Juli 2026 mengalami tekanan akibat penurunan pengiriman ke pasar strategis seperti India dan Rusia.
 
 🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis, hujan 1.8 mm (peluang 88%), 23.7–32.1°C
-  Angin Tenggara 9 km/jam (hembusan 21.6)
+  Gerimis ringan, hujan 0.3 mm (peluang 48%), 24.6–32.4°C
+  Angin Tenggara 8.2 km/jam (hembusan 18.7)
   Prakiraan:
-  2026-10-08: 3 mm, 37%
-  2026-10-09: 2.8 mm, 67%
-  2026-10-10: 4.4 mm, 91%
+  2026-10-09: 2.7 mm, 59%
+  2026-10-10: 15.9 mm, 82%
+  2026-10-11: 6.7 mm, 94%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 257.8 m3/s, stabil)
-  Karhutla: bahaya — titik terdekat 41.9 km selatan (Pelalawan, Riau)
-  Udara: AQI 183, Tidak sehat, asap tebal
+  Banjir: Normal (debit 232.3 m3/s, turun)
+  Karhutla: bahaya — titik terdekat 39.5 km barat (Sungai Mandau, Riau)
+  Udara: AQI 154, Tidak sehat, asap tebal
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 716.20 (+1.96%)
-  ▲ QQQ (Nasdaq 100): 759.66 (+2.94%)
-  ▲ VEU (World ex-US): 83.81 (+0.3%)
-  💱 USD/SGD: 1.2784
-  💱 USD/IDR: 17.905
-  💱 SGD/IDR: 14.009
+  ▲ VOO (S&P 500): 714.34 (+1.92%)
+  ▲ QQQ (Nasdaq 100): 757.73 (+2.43%)
+  ▼ VEU (World ex-US): 82.85 (-0.14%)
+  💱 USD/SGD: 1.2791
+  💱 USD/IDR: 17.875
+  💱 SGD/IDR: 13.978
 
 📰 *Berita sawit (Palm Pulse):*
-• Harga CPO KPBN Inacom Cenderung Tetap Pada Senin (5/10), Perdagangan CPO di Bursa Malaysia Menguat — InfoSAWIT
-• HIP Biodiesel Oktober 2026 Ditetapkan Rp15.072 per Liter, Belum Termasuk Ongkos Angkut — InfoSAWIT
-• Switzerland moves towards referendum on Malaysia trade deal amid palm oil, labour concerns - malaymail.com — Google News · Malaysia
-• Oil palm firms face yield, sustainability issues — The Star
-• Budget 2027: What RM425m for plantations and commodities means for Malaysians - Yahoo — Google News · Malaysia
-• Tren Positif Berlanjut, Harga TBS Sawit Kaltim Tembus Rp3.617/Kg Disokong Penguatan Pasar CPO Global — Sawit Indonesia
-• CPO Futures End Higher On Bargain Buying - Bernama — Google News · Market
-• Manama - kln.gov.my — Google News · Malaysia
+• Ekspor Sawit Indonesia Turun pada Juli 2026, Pengiriman ke India dan Rusia Tertekan — InfoSAWIT
+• Harga CPO KPBN Inacom Naik Pada Selasa (6/10), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
+• Pemprov Kaltim setarakan harga TBS Sawit Mandiri dan Plasma — ANTARA News
+• Harga CPO Tertahan di 4.580 Ringgit Imbas Proyeksi Lonjakan Stok Malaysia, Beralih Didorong Impor India — Sawit Indonesia
+• GAPKI Usul Kebijakan Biofuel Fleksibel, Sawit Bisa Dialihkan ke Ekspor - auranusantara.com — Google News · Kebijakan (Bahasa)
+• Indonesia secures its fuel supply at the cost of its food and forests — East Asia Forum
+• Lindungi Petani Sawit, Pansus DPRD Babel Dorong Regulasi Harga TBS hingga Pengawasan PKS — Tras Berita Babel
+• Palm oil slips as Malaysia’s stocks are expected to hit a record - UkrAgroConsult — Google News · Malaysia
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
