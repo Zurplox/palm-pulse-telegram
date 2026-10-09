@@ -1,45 +1,45 @@
-📰 *BRIEF PAGI* — 08 Okt 2026
+📰 *BRIEF PAGI* — 09 Okt 2026
 
 🌴 *Harga TBS Riau (2026-10-07 s/d 2026-10-13)*
-  Plasma: Rp3.797/kg
-  Swadaya: Rp3.516/kg (turun Rp170)
+  Plasma: Rp3.797/kg (naik Rp61)
+  Swadaya: Rp3.460/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar sawit global saat ini berada dalam kondisi tarik-menarik antara proyeksi lonjakan stok di Malaysia dan permintaan dari pasar utama seperti India.
-• Kebijakan biofuel domestik di Indonesia menjadi sorotan karena adanya usulan fleksibilitas untuk menyeimbangkan kebutuhan energi dengan ekspor.
-• Harga TBS di tingkat daerah menunjukkan fluktuasi, dengan beberapa wilayah melakukan intervensi kebijakan untuk menyetarakan harga bagi pekebun mandiri dan plasma.
-• Kinerja ekspor sawit Indonesia pada Juli 2026 mengalami tekanan akibat penurunan pengiriman ke pasar strategis seperti India dan Rusia.
+• Harga CPO global dan domestik mengalami penurunan dalam beberapa hari terakhir akibat tekanan dari tingginya stok di Malaysia serta melemahnya harga minyak kedelai dunia.
+• Di tengah penurunan harga jangka pendek, terdapat prospek pasar baru di mana Malaysia gencar membidik pasar Afrika dan Timur Tengah, sementara analis memperkirakan harga CPO berpotensi melampaui harga minyak kedelai pada April tahun depan.
+• Di tingkat petani Indonesia, pergerakan harga TBS bervariasi dengan penurunan terjadi di Kalimantan Tengah, namun harga di Jambi masih bertahan cukup tinggi pada periode awal Oktober 2026.
+• Harga CPO pada KPBN Inacom tercatat turun menjadi Rp14.625 per kilogram pada transaksi hari Rabu, 7 Oktober 2026, sejalan dengan pelemahan di bursa berjangka global.
 
 🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis ringan, hujan 0.3 mm (peluang 48%), 24.6–32.4°C
-  Angin Tenggara 8.2 km/jam (hembusan 18.7)
+  Gerimis, hujan 2.2 mm (peluang 63%), 24.3–31.3°C
+  Angin Barat Laut 11.2 km/jam (hembusan 22.7)
   Prakiraan:
-  2026-10-09: 2.7 mm, 59%
-  2026-10-10: 15.9 mm, 82%
-  2026-10-11: 6.7 mm, 94%
+  2026-10-10: 17.6 mm, 96%
+  2026-10-11: 9.4 mm, 81%
+  2026-10-12: 3.1 mm, 86%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 232.3 m3/s, turun)
+  Banjir: Normal (debit 203.2 m3/s, turun)
   Karhutla: bahaya — titik terdekat 39.5 km barat (Sungai Mandau, Riau)
-  Udara: AQI 154, Tidak sehat, asap tebal
+  Udara: AQI 160, Tidak sehat, asap tebal
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 714.34 (+1.92%)
-  ▲ QQQ (Nasdaq 100): 757.73 (+2.43%)
-  ▼ VEU (World ex-US): 82.85 (-0.14%)
-  💱 USD/SGD: 1.2791
-  💱 USD/IDR: 17.875
-  💱 SGD/IDR: 13.978
+  ▲ VOO (S&P 500): 711.28 (+1.27%)
+  ▲ QQQ (Nasdaq 100): 747.58 (+0.75%)
+  ▼ VEU (World ex-US): 82.18 (-0.36%)
+  💱 USD/SGD: 1.2796
+  💱 USD/IDR: 17.885
+  💱 SGD/IDR: 13.979
 
 📰 *Berita sawit (Palm Pulse):*
-• Ekspor Sawit Indonesia Turun pada Juli 2026, Pengiriman ke India dan Rusia Tertekan — InfoSAWIT
-• Harga CPO KPBN Inacom Naik Pada Selasa (6/10), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
-• Pemprov Kaltim setarakan harga TBS Sawit Mandiri dan Plasma — ANTARA News
-• Harga CPO Tertahan di 4.580 Ringgit Imbas Proyeksi Lonjakan Stok Malaysia, Beralih Didorong Impor India — Sawit Indonesia
-• GAPKI Usul Kebijakan Biofuel Fleksibel, Sawit Bisa Dialihkan ke Ekspor - auranusantara.com — Google News · Kebijakan (Bahasa)
-• Indonesia secures its fuel supply at the cost of its food and forests — East Asia Forum
-• Lindungi Petani Sawit, Pansus DPRD Babel Dorong Regulasi Harga TBS hingga Pengawasan PKS — Tras Berita Babel
-• Palm oil slips as Malaysia’s stocks are expected to hit a record - UkrAgroConsult — Google News · Malaysia
+• Harga TBS Sawit Kalteng Periode II September 2026 Turun Rp41,01/Kg, Ini Daftar Plasma dan Swadaya — InfoSAWIT
+• Harga CPO KPBN Rabu 7 Oktober 2026 Turun ke Rp14.625/Kg, Bursa Malaysia Melemah - Agricom.id — Google News · Pasar (Bahasa)
+• Malaysia looks beyond traditional buyers in fresh palm oil expansion drive, with Africa and Middle East in focus — MPOC
+• MPOC targets Africa, India for palm oil growth — MPOC
+• Malaysia’s 2026 palm oil output could surpass last year’s, says commodities minister — MPOC
+• Harga CPO KPBN Inacom Turun Pada Rabu (7/10), Perdagangan CPO di Bursa Malaysia Masih Melemah — InfoSAWIT
+• CPO Futures Extend Losses, Tracking Weaker Soybean Oil Prices - Bernama — Google News · Market
+• China’s food safety code throws a curveball at palm oil industry — The Edge Malaysia
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
