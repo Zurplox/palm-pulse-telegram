@@ -1,27 +1,27 @@
-📰 *BRIEF PAGI* — 10 Okt 2026
+📰 *BRIEF PAGI* — 11 Okt 2026
 
 🌴 *Harga TBS Riau (2026-10-07 s/d 2026-10-13)*
-  Plasma: Rp3.797/kg (naik Rp61)
+  Plasma: Rp3.797/kg (turun Rp55)
   Swadaya: Rp3.460/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO global mengalami kenaikan signifikan lebih dari 3 persen yang didorong oleh lonjakan permintaan dari India, meskipun harga TBS di beberapa wilayah seperti Sumatra Utara dilaporkan sempat mengalami penurunan.
-• Malaysia sedang berupaya memperluas pasar ekspor baru ke wilayah Afrika dan Timur Tengah, sementara persediaan minyak sawit mereka diperkirakan berpotensi meningkat.
-• Di Indonesia, kemitraan dan penyederhanaan program PSR menjadi fokus utama untuk meningkatkan produktivitas pekebun swadaya dan melindungi hak-hak mereka melalui regulasi daerah.
-• DPP APKASINDO mendesak Pansus DPRD Bangka Belitung untuk mempermudah proses Peremajaan Sawit Rakyat (PSR) dan memperkuat pemanfaatan Dana Bagi Hasil (DBH) sawit demi melindungi pekebun swadaya.
+• Harga CPO berjangka di Bursa Malaysia mengalami penurunan akibat aksi ambil untung dan tidak adanya pembebasan bea keluar ekspor, namun harga CPO fisik lokal di Indonesia tetap stabil di Rp14.850 per kg.
+• Indonesia terus memperkuat hilirisasi melalui pembangunan industri terpadu senilai Rp1,6 triliun di Siak dan persiapan mandatori B50 yang diproyeksikan memangkas volume ekspor hingga 14,5 persen pada tahun 2027.
+• Malaysia meluncurkan dana pembiayaan murah RM200 juta untuk peremajaan sawit rakyat serta memperluas pasar ekspor ke Afrika dan Timur Tengah guna mengatasi penurunan produksi jangka panjang.
+• Isu keberlanjutan dan tata kelola kian diperketat melalui penguatan pengawasan RSPO serta program pelatihan budidaya bagi pekebun swadaya.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 19.2 mm (peluang 94%), 23.3–29.3°C
-  Angin Barat 8.9 km/jam (hembusan 16.9)
+⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Badai petir, hujan 18.7 mm (peluang 100%), 24–28.4°C
+  Angin Selatan 7.9 km/jam (hembusan 16.9)
   Prakiraan:
-  2026-10-11: 6.1 mm, 90%
-  2026-10-12: 12.9 mm, 88%
-  2026-10-13: 4.9 mm, 75%
+  2026-10-11: 4.8 mm, 84%
+  2026-10-12: 6.1 mm, 86%
+  2026-10-13: 5.1 mm, 88%
 
 🌊 *Banjir, karhutla & udara:*
   Banjir: Normal (debit 168.8 m3/s, turun)
   Karhutla: bahaya — titik terdekat 39.5 km barat (Sungai Mandau, Riau)
-  Udara: AQI 155, Tidak sehat, asap tebal
+  Udara: AQI 101, Tidak sehat (kel. sensitif), asap tebal
 
 📈 *Pasar:*
   ▲ VOO (S&P 500): 715.59 (+1.14%)
@@ -32,14 +32,14 @@
   💱 SGD/IDR: 13.959
 
 📰 *Berita sawit (Palm Pulse):*
-• Godrej Consumer Products Proyeksikan Pertumbuhan Pendapatan Dua Digit, Harga Minyak Sawit Jadi Tantangan — InfoSAWIT
-• Harga CPO KPBN Inacom Naik Pada Kamis (8/10), Perdagangan CPO di Bursa Malaysia Ditutup Menguat — InfoSAWIT
-• How high can Malaysia’s oil palm really go in the real world? — The Star
-• Fitters Diversified eyes sale of palm oil unit to redeploy funds into core businesses — The Edge Malaysia
-• Palm oil rises more than 3% on strong Indian demand - UkrAgroConsult — Google News · Malaysia
-• India procures 150,000 tonnes in three days as Malaysia prepares to deploy tariff measures: How far can the current palm oil rebound go? - Moomoo — Google News · Malaysia
-• October 7, 2026 Commodity Price Position at the Closing of Physical Exchange & Market — GAPKI
-• Posisi Harga Komoditas pada Penutupan Bursa & Pasar Fisik, 7 Oktober 2026 — GAPKI (Bahasa)
+• Funding a more sustainable palm oil sector — The Star
+• CPO Futures Expected To Turn Bearish Next Week On Profit-taking - Bernama — Google News · Market
+• Malaysia Perluas Pasar Ekspor Sawit ke Afrika dan Timur Tengah, Petani Kecil Jadi Prioritas — InfoSAWIT
+• Dukung Ekspor CPO dan Mandatori B50, PT ORI Groundbreaking Industri Terpadu Rp1,6 Triliun di Siak — Sawit Indonesia
+• Harga CPO Bursa Malaysia Jumat (9/10) Anjlok hingga RM86 per Ton, Kontrak Oktober Jadi RM4.362 - Agricom.id — Google News · Pasar (Bahasa)
+• Harga TBS Sawit Kalbar Periode I Oktober 2026, Umur 10–20 Tahun Rp3.537,64 per Kg — InfoSAWIT
+• Belajar di Kebun Adolina PTPN: Cara Efektif Tingkatkan Produktivitas Sawit Rakyat - katakabar.com — Google News · Perkebunan (Bahasa)
+• GAPKI Soroti Tantangan Biodiesel, Akses Pasar, dan Produktivitas Sawit Indonesia — InfoSAWIT
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
