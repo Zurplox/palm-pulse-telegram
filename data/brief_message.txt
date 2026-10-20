@@ -1,45 +1,45 @@
-📰 *BRIEF PAGI* — 19 Okt 2026
+📰 *BRIEF PAGI* — 20 Okt 2026
 
 🌴 *Harga TBS Riau (2026-10-14 s/d 2026-10-20)*
   Plasma: Rp3.783/kg
   Swadaya: Rp3.604/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO global dan regional mengalami kenaikan hingga hampir 4 persen dalam sepekan didorong oleh peningkatan volume ekspor Malaysia, meskipun lelang fisik CPO di KPBN Indonesia berakhir dengan status withdraw.
-• Isu kebakaran hutan dan lahan serta kabut asap menjadi perhatian utama, di mana Pemerintah Malaysia membantah keterlibatan perusahaan perkebunan mereka dan siap menyelesaikan rincian bantuan pemadaman untuk Indonesia.
-• Di Indonesia, upaya penguatan sektor hulu dilakukan melalui gelaran PENAS III APKASINDO dan optimalisasi dana perkebunan oleh BPDP, sementara pengawasan transaksi sawit makin diperketat menggunakan teknologi kecerdasan buatan oleh DJP.
-• APKASINDO menyelenggarakan PENAS III di Jakarta yang mengumpulkan ratusan petani sawit nasional untuk merumuskan resolusi hulu hingga hilir serta meningkatkan kesejahteraan dan pendampingan pekebun.
+• Pasar minyak sawit global saat ini dipengaruhi oleh dinamika produksi rekor di Malaysia, ketegangan pasokan minyak nabati akibat konflik geopolitik, serta kekhawatiran akan dampak cuaca El Niño di masa depan.
+• Kepatuhan terhadap regulasi EUDR menjadi tantangan besar bagi pekebun rakyat, dengan data menunjukkan kesiapan yang masih sangat rendah.
+• Harga CPO menunjukkan tren penguatan di pasar internasional, namun fluktuasi harga TBS di tingkat petani lokal masih bervariasi antara pekebun swadaya dan plasma.
+• APKASINDO melaporkan bahwa baru 7% kebun sawit rakyat yang siap memenuhi persyaratan EUDR, yang berpotensi menghambat akses pasar ekspor bagi pekebun kecil.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 9.3 mm (peluang 90%), 24.2–32.2°C
-  Angin Utara 11.1 km/jam (hembusan 25.9)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis, hujan 2.3 mm (peluang 84%), 23.5–31.1°C
+  Angin Tenggara 10.7 km/jam (hembusan 25.2)
   Prakiraan:
-  2026-10-19: 5.6 mm, 92%
-  2026-10-20: 3.8 mm, 80%
-  2026-10-21: 0.9 mm, 75%
+  2026-10-21: 4 mm, 92%
+  2026-10-22: 1.8 mm, 55%
+  2026-10-23: 8.9 mm, 69%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 126.9 m3/s, turun)
-  Karhutla: waspada — titik terdekat 42.3 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 90, Sedang, asap tebal
+  Banjir: Normal (debit 138.3 m3/s, stabil)
+  Karhutla: waspada — titik terdekat 42.4 km selatan (Pangkalan Kerinci, Riau)
+  Udara: AQI 108, Tidak sehat (kel. sensitif), asap tebal
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 701.61 (-1.95%)
-  ▼ QQQ (Nasdaq 100): 709.80 (-5.52%)
-  ▼ VEU (World ex-US): 81.54 (-1.55%)
-  💱 USD/SGD: 1.2795
+  ▼ VOO (S&P 500): 704.60 (-1.47%)
+  ▼ QQQ (Nasdaq 100): 718.36 (-3.71%)
+  ▼ VEU (World ex-US): 81.37 (-1.36%)
+  💱 USD/SGD: 1.2794
   💱 USD/IDR: 17.943
-  💱 SGD/IDR: 14.024
+  💱 SGD/IDR: 14.027
 
 📰 *Berita sawit (Palm Pulse):*
-• BPDP dan Kanwil DJPb Jambi Mendorong Pemanfaatan Dana Perkebunan Kelapa Sawit - https://jambiekspres.disway.id/ — Jambi Ekspres
-• APKASINDO Gelar PENAS III: Ratusan Petani Sawit se-Indonesia Berkumpul di Jakarta Bahas Masa Depan dan Resolusi Hulu-Hilir — Sawit Indonesia
-• Bantah Tudingan Sawit Malaysia Picu Karhutla RI, Pemerintah Malaysia Evaluasi Bantuan Pemadaman — Warta Ekonomi
-• DJP Gunakan Machine Learning Pantau Transaksi Bisnis Kelapa Sawit - HaiSawit — Google News · Perkebunan (Bahasa)
-• Harga CPO Bursa Malaysia Jumat (16/10) Menguat, Kontrak November Naik RM60 Jadi RM4.536 per Ton - Agricom.id — Google News · Pasar (Bahasa)
-• Harga CPO di Malaysia Melonjak ke Level Tertinggi, Kontrak November 2026 Naik 60 Ringgit - TOPIK.ID — Google News · Malaysia (Bahasa)
-• Gubernur Sultra Dorong APKASINDO Perkuat Pendampingan dan Kesejahteraan Petani Sawit - sawitsetara.co — Google News · Perkebunan (Bahasa)
-• Konsumsi CPO Naik akibat B50, Bagaimana Prospek Ekspor Sawit Indonesia? - kontan.co.id — Google News · Kebijakan (Bahasa)
+• APKASINDO Sebut Baru 7% Kebun Sawit Rakyat Siap Hadapi EUDR - kontan.co.id — Google News · Perkebunan (Bahasa)
+• MP proposes phasing out cooking oil price stabilisation scheme — Free Malaysia Today
+• Malaysia May Hit Record Monthly Palm Oil Output — Briefs Finance
+• Palm output in Malaysia to hit record before drop, growers say — The Star
+• prisma Scheduled Maintenance (30 October – 1 November 2026) and Update on Full Audit Module Transition — RSPO
+• Malaysian palm oil prices decline amid high inventories and weaker soybean oil - UkrAgroConsult — Google News · Malaysia
+• Minyak Bunga Matahari Langka akibat Perang, Minyak Sawit Jadi Rebutan India - sawitsetara.co — Google News · Malaysia (Bahasa)
+• Harga CPO Menguat, Stok Sawit Malaysia dan Ancaman El Niño Jadi Penentu Pasar 2027 - sawitsetara.co — Google News · Malaysia (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
