@@ -1,14 +1,24 @@
 📰 *BRIEF PAGI* — 22 Okt 2026
 
-🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-13)*
-  Plasma: Rp3.783/kg
+🧠 *Ringkasan:*
+Berikut brief operasional dan pasar untuk hari ini:
+
+* **Panen & Angkut:** Percepat panen dan pengangkutan TBS hari ini selagi cuaca hanya gerimis ringan (0,3 mm); antisipasi jalur terputus akibat debit banjir yang naik (186,1 m³/s) dan lonjakan hujan sepekan ke depan (puncak 19,1 mm pada 25 Okt).
+* **Pemupukan:** Tunda pemupukan terbuka guna mencegah pupuk hanyut/tercuci akibat tren peningkatan curah hujan harian.
+* **K3 & Lingkungan:** Wajibkan masker bagi buruh kebun karena kualitas udara tidak sehat (AQI 158, asap tebal) serta pantau kesiapsiagaan karhutla (titik api 42,2 km selatan).
+* **TBS & Arus Kas:** Segera kirim TBS ke PKS tanpa restan; harga Plasma bertahan di Rp3.745/kg, sementara Swadaya turun tipis ke Rp3.209/kg.
+
+**Sentimen Pasar:** *Bullish* moderat; CPO global kokoh di atas RM4.600/ton berkat kuatnya ekspor dan biodiesel, didukung pelemahan rupiah (USD/IDR 18.040).
+
+🌴 *Harga TBS Riau (2026-10-21 s/d 2026-10-27)*
+  Plasma: Rp3.745/kg
   Swadaya: Rp3.209/kg (turun Rp41)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO global dan domestik mengalami tekanan dan koreksi akibat aksi ambil untung, pelemahan harga minyak kedelai, serta penumpukan stok minyak sawit di Malaysia.
-• Di Indonesia, perkembangan harga TBS menunjukkan tren bervariasi dengan kenaikan harga di Sumatera Utara dan Papua, namun mengalami koreksi tipis di wilayah Riau akibat penyesuaian harga CPO.
-• Pemerintah Indonesia melalui Kementerian Lingkungan Hidup mendorong inventarisasi emisi gas rumah kaca pada industri sawit, sementara ancaman kabut asap berisiko mengganggu penyerbukan tanaman sawit.
-• Malaysia berpeluang merebut kembali pangsa pasar ekspor dari Indonesia melalui wacana kebijakan pembebasan pajak ekspor CPO.
+• Pergerakan harga CPO mengalami dinamika campuran dengan dorongan dari kenaikan ekspor Malaysia dan permintaan biodiesel, namun sempat terkoreksi akibat aksi ambil untung serta pelemahan harga minyak kedelai.
+• MPOC memperkirakan harga CPO bertahan di atas RM 4.600 atau US$ 1.128 per ton pada November dipicu oleh penurunan produksi serta ancaman kekeringan di Asia Tenggara.
+• Penetapan harga TBS di tingkat daerah Indonesia bervariasi, di mana Papua, Sumatera Utara, dan Gorontalo mencatatkan kenaikan, sementara Kalimantan Tengah mengalami penurunan.
+• Kementerian Lingkungan Hidup memperketat regulasi melalui inventarisasi emisi GRK, bersamaan dengan imbauan mitigasi risiko karhutla oleh APHI akibat anomali iklim.
 
 🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
   Gerimis ringan, hujan 0.3 mm (peluang 92%), 24.7–32.3°C
@@ -27,19 +37,19 @@
   ▲ VOO (S&P 500): 710.72 (+0.47%)
   ▼ QQQ (Nasdaq 100): 725.20 (-0.51%)
   ▲ VEU (World ex-US): 82.14 (+0.59%)
-  💱 USD/SGD: 1.2772
-  💱 USD/IDR: 18.044
+  💱 USD/SGD: 1.2768
+  💱 USD/IDR: 18.040
   💱 SGD/IDR: 14.130
 
 📰 *Berita sawit (Palm Pulse):*
-• KLH Dorong Inventarisasi Emisi GRK untuk Perkuat Industri Sawit Rendah Karbon — InfoSAWIT
-• Harga CPO KPBN Inacom Turun Pada Rabu (21/10/2026), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
-• Tren Positif Sumut, Harga TBS Petani Plasma Usia 10-20 Tahun Naik Jadi Rp 3.740,41/Kg — Sawit Indonesia
-• Kabar Baik, Harga TBS Petani Plasma Papua Naik Menjadi Rp 3.633,57/kg, Berikut Rinciannya Periode I Oktober 2026 — Sawit Indonesia
-• Smokeless Oil Palm Frond Briquettes: Can Plantation Residues Provide Cleaner Fuel? - Analysis — Eurasia Review
-• Indonesia haze threatens oil palm pollination, raising risks to global palm oil supplies — Traders Union
-• CPO Futures End Lower Amid Weaker Soybean Oil Prices - bernama — Google News · Market
-• Palm oil prices in Malaysia decline after reaching four-week high - UkrAgroConsult — Google News · Malaysia
+• Palm Oil Edges Higher as Strong Exports Offset Supply Concerns - TradingView — Google News · Malaysia
+• Tembus Rp3.169 per Kg, Segini Harga TBS Sawit Gorontalo Oktober 2026 - sawitsetara.co — Google News · Bahasa
+• Anomali Iklim Tingkatkan Risiko Karhutla, APHI Tekankan Pentingnya Mitigasi Berbasis Data — InfoSAWIT
+• Harga CPO Menguat 1,24 Persen Ditopang Ekspor Malaysia — Suara Independent News
+• CPO prices seen staying above RM4,600 in November, says MPOC — The Star
+• Harga CPO Diprediksi Bertahan di Atas US$ 1.128 per Ton pada November 2026 - kontan.co.id — Google News · Malaysia (Bahasa)
+• Crude palm oil prices to stay above US$1,128 per ton in November, MPOC says — The Edge Malaysia
+• CPO prices to stay above RM4,600 in November as output dips, biodiesel demand holds — KLSE Screener
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
