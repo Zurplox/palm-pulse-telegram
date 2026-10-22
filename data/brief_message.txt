@@ -5,41 +5,41 @@
   Swadaya: Rp3.209/kg (turun Rp41)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO global dan domestik mengalami rebound hingga mencapai level tertinggi dalam empat minggu, didorong peningkatan permintaan ekspor serta prospek kebijakan B50 di Indonesia.
-• Stok kelapa sawit Malaysia menumpuk hingga rekor 3,5 juta ton, yang memicu rencana pertimbangan pembebasan pajak ekspor CPO oleh pemerintah Malaysia.
-• Harga TBS sawit untuk mitra swadaya di Riau mengalami kenaikan hingga mencapai Rp3.679,40 per kg seiring melonjaknya harga CPO dan kernel.
-• Gangguan cuaca El Nino menyebabkan Surutnya Sungai Kapuas, yang menghambat pengiriman CPO dan berpotensi menurunkan harga TBS di wilayah terdampak.
+• Harga CPO global dan domestik mengalami tekanan dan koreksi akibat aksi ambil untung, pelemahan harga minyak kedelai, serta penumpukan stok minyak sawit di Malaysia.
+• Di Indonesia, perkembangan harga TBS menunjukkan tren bervariasi dengan kenaikan harga di Sumatera Utara dan Papua, namun mengalami koreksi tipis di wilayah Riau akibat penyesuaian harga CPO.
+• Pemerintah Indonesia melalui Kementerian Lingkungan Hidup mendorong inventarisasi emisi gas rumah kaca pada industri sawit, sementara ancaman kabut asap berisiko mengganggu penyerbukan tanaman sawit.
+• Malaysia berpeluang merebut kembali pangsa pasar ekspor dari Indonesia melalui wacana kebijakan pembebasan pajak ekspor CPO.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis lebat, hujan 1.8 mm (peluang 88%), 24.9–31.9°C
-  Angin Timur 10.4 km/jam (hembusan 25.2)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Gerimis ringan, hujan 0.3 mm (peluang 92%), 24.7–32.3°C
+  Angin Timur 10.9 km/jam (hembusan 23.8)
   Prakiraan:
-  2026-10-22: 1.5 mm, 80%
-  2026-10-23: 7.5 mm, 43%
-  2026-10-24: 9.1 mm, 90%
+  2026-10-23: 5.6 mm, 74%
+  2026-10-24: 7.9 mm, 90%
+  2026-10-25: 19.1 mm, 71%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 178.1 m3/s, naik)
-  Karhutla: aman — titik terdekat 58 km barat (Minas, Riau)
-  Udara: AQI 130, Tidak sehat (kel. sensitif), asap tebal
+  Banjir: Agak tinggi (debit 186.1 m3/s, naik)
+  Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
+  Udara: AQI 158, Tidak sehat, asap tebal
 
 📈 *Pasar:*
   ▲ VOO (S&P 500): 710.72 (+0.47%)
   ▼ QQQ (Nasdaq 100): 725.20 (-0.51%)
   ▲ VEU (World ex-US): 82.14 (+0.59%)
   💱 USD/SGD: 1.2772
-  💱 USD/IDR: 17.943
-  💱 SGD/IDR: 14.051
+  💱 USD/IDR: 18.044
+  💱 SGD/IDR: 14.130
 
 📰 *Berita sawit (Palm Pulse):*
-• Malaysia mulls CPO tax waiver as palm oil stocks hit record 3.5mil tonnes — NST Online
-• Harga CPO KPBN Inacom Naik Pada Selasa (20/10/2026), Perdagangan CPO di Bursa Malaysia Menguat — InfoSAWIT
-• Palm oil prices in Malaysia rise to four-week high - UkrAgroConsult — Google News · Malaysia
-• Respon Implementasi B50 dan Regulasi Ekspor, Sekjen GAPKI Buka Rakercab 2026 di Aceh — Sawit Indonesia
-• Harga TBS Sawit Mitra Swadaya Riau Naik Rp75 per Kg, Tembus Rp3.679,40 - BeritaRiau.com — Google News · Pasar (Bahasa)
-• Harga TBS Sawit Mitra Swadaya di Riau Pekan ini Naik Jadi Rp3.679 - HALLORIAU.COM — Google News · Pasar (Bahasa)
-• Suspected Chinese rocket debris crashes near homes in Indonesia — Kuwait Times
-• Harga CPO Menguat 1,07 Persen Ditopang Ekspor dan Biodiesel - Demokratis.co.id — Google News · Kebijakan (Bahasa)
+• KLH Dorong Inventarisasi Emisi GRK untuk Perkuat Industri Sawit Rendah Karbon — InfoSAWIT
+• Harga CPO KPBN Inacom Turun Pada Rabu (21/10/2026), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
+• Tren Positif Sumut, Harga TBS Petani Plasma Usia 10-20 Tahun Naik Jadi Rp 3.740,41/Kg — Sawit Indonesia
+• Kabar Baik, Harga TBS Petani Plasma Papua Naik Menjadi Rp 3.633,57/kg, Berikut Rinciannya Periode I Oktober 2026 — Sawit Indonesia
+• Smokeless Oil Palm Frond Briquettes: Can Plantation Residues Provide Cleaner Fuel? - Analysis — Eurasia Review
+• Indonesia haze threatens oil palm pollination, raising risks to global palm oil supplies — Traders Union
+• CPO Futures End Lower Amid Weaker Soybean Oil Prices - bernama — Google News · Market
+• Palm oil prices in Malaysia decline after reaching four-week high - UkrAgroConsult — Google News · Malaysia
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
