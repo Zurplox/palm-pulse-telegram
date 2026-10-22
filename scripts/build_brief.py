@@ -98,9 +98,16 @@ def markets_block(markets):
     return "\n".join(lines) if lines else "  (data pasar tidak tersedia)"
 
 
+GEMINI_MODELS = (
+    "gemini-3.8-flash",       # Flash terbaru (stabil)
+    "gemini-3.6-flash",       # Flash generasi sebelumnya
+    "gemini-3.5-flash-lite",  # lite stabil
+    "gemini-3.1-flash-lite",  # lite stabil, shutdown Mei 2027
+    "gemini-2.5-flash",       # legacy, belum deprecated
+)
+
+
 def gemini_summary(payload_text, api_key):
-    url = ("https://generativelanguage.googleapis.com/v1beta/models/"
-           "gemini-1.5-flash:generateContent?key=" + api_key)
     prompt = (
         "Kamu editor brief pagi untuk pemilik kebun sawit di Riau yang juga "
         "investor. Dari data harga TBS, cuaca kebun, kondisi banjir/karhutla, "
@@ -110,11 +117,26 @@ def gemini_summary(payload_text, api_key):
         "tanpa basa-basi, maksimal ~120 kata. Jangan mengarang; hanya dari "
         "data.\n\n" + payload_text)
     body = json.dumps({"contents": [{"parts": [{"text": prompt}]}]}).encode()
-    req = urllib.request.Request(url, data=body, method="POST",
-                                 headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = json.load(r)
-    return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+    last_error = None
+    for model in GEMINI_MODELS:
+        url = ("https://generativelanguage.googleapis.com/v1beta/models/"
+               "%s:generateContent?key=%s" % (model, api_key))
+        req = urllib.request.Request(url, data=body, method="POST",
+                                     headers={"Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = json.load(r)
+            parts = data["candidates"][0]["content"]["parts"]
+            text = "".join(p.get("text", "") for p in parts
+                           if not p.get("thought")).strip()
+            if not text:
+                raise ValueError("respons kosong")
+            print("Gemini dipakai:", model)
+            return text
+        except Exception as e:
+            last_error = e
+            print("Gemini %s gagal: %s" % (model, str(e)[:140]))
+    raise last_error
 
 
 def build_message(cfg, palm_data, cuaca_data, ling_data, markets,
