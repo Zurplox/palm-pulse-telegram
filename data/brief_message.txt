@@ -1,4 +1,4 @@
-📰 *BRIEF PAGI* — 21 Okt 2026
+📰 *BRIEF PAGI* — 22 Okt 2026
 
 🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-13)*
   Plasma: Rp3.783/kg
@@ -11,25 +11,25 @@
 • Gangguan cuaca El Nino menyebabkan Surutnya Sungai Kapuas, yang menghambat pengiriman CPO dan berpotensi menurunkan harga TBS di wilayah terdampak.
 
 🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 6.8 mm (peluang 100%), 25.3–31.9°C
-  Angin Timur 8.9 km/jam (hembusan 23.4)
+  Gerimis lebat, hujan 1.8 mm (peluang 88%), 24.9–31.9°C
+  Angin Timur 10.4 km/jam (hembusan 25.2)
   Prakiraan:
-  2026-10-21: 5.9 mm, 80%
-  2026-10-22: 4.1 mm, 75%
-  2026-10-23: 7.8 mm, 73%
+  2026-10-22: 1.5 mm, 80%
+  2026-10-23: 7.5 mm, 43%
+  2026-10-24: 9.1 mm, 90%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 138.3 m3/s, stabil)
+  Banjir: Agak tinggi (debit 178.1 m3/s, naik)
   Karhutla: aman — titik terdekat 58 km barat (Minas, Riau)
-  Udara: AQI 88, Sedang, asap tebal
+  Udara: AQI 130, Tidak sehat (kel. sensitif), asap tebal
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 706.80 (-1.17%)
-  ▼ QQQ (Nasdaq 100): 717.63 (-3.49%)
-  ▼ VEU (World ex-US): 81.85 (-0.92%)
-  💱 USD/SGD: 1.2777
+  ▲ VOO (S&P 500): 710.72 (+0.47%)
+  ▼ QQQ (Nasdaq 100): 725.20 (-0.51%)
+  ▲ VEU (World ex-US): 82.14 (+0.59%)
+  💱 USD/SGD: 1.2772
   💱 USD/IDR: 17.943
-  💱 SGD/IDR: 14.045
+  💱 SGD/IDR: 14.051
 
 📰 *Berita sawit (Palm Pulse):*
 • Malaysia mulls CPO tax waiver as palm oil stocks hit record 3.5mil tonnes — NST Online
