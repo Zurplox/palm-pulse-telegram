@@ -1,6 +1,6 @@
 {
- "title": "📰 *BRIEF PAGI* — 22 Okt 2026",
- "ai_summary": "Berikut brief operasional dan pasar untuk hari ini:\n\n* **Panen & Angkut:** Percepat panen dan pengangkutan TBS hari ini selagi cuaca hanya gerimis ringan (0,3 mm); antisipasi jalur terputus akibat debit banjir yang naik (186,1 m³/s) dan lonjakan hujan sepekan ke depan (puncak 19,1 mm pada 25 Okt).\n* **Pemupukan:** Tunda pemupukan terbuka guna mencegah pupuk hanyut/tercuci akibat tren peningkatan curah hujan harian.\n* **K3 & Lingkungan:** Wajibkan masker bagi buruh kebun karena kualitas udara tidak sehat (AQI 158, asap tebal) serta pantau kesiapsiagaan karhutla (titik api 42,2 km selatan).\n* **TBS & Arus Kas:** Segera kirim TBS ke PKS tanpa restan; harga Plasma bertahan di Rp3.745/kg, sementara Swadaya turun tipis ke Rp3.209/kg.\n\n**Sentimen Pasar:** *Bullish* moderat; CPO global kokoh di atas RM4.600/ton berkat kuatnya ekspor dan biodiesel, didukung pelemahan rupiah (USD/IDR 18.040).",
+ "title": "📰 *BRIEF PAGI* — 23 Okt 2026",
+ "ai_summary": "**Keputusan Kebun Hari Ini:**\n* **Panen & Angkut:** Percepat panen dan pengangkutan hari ini (gerimis 0,6 mm) sebelum hujan lebat pada 23–25 Oktober (hingga 19,6 mm) dan debit air banjir bertambah (saat ini 186,1 m³/s).\n* **Pemupukan:** Tunda pemupukan akibat potensi pembilasan oleh lonjakan curah hujan tinggi beberapa hari ke depan.\n* **Operasional & K3:** Wajibkan masker untuk pekerja karena udara tidak sehat (AQI 159, asap tebal) dan tingkatkan siaga karhutla (titik api 42,2 km).\n* **Posisi Harga:** TBS Swadaya Riau turun ke Rp3.209/kg (Plasma Rp3.745/kg), tetapi proyeksi CPO November tetap kuat di atas RM 4.600/ton.\n\n**Sentimen Pasar:**\nPasar saham global terkoreksi (QQQ -3,23%), namun harga CPO ditopang kuatnya ekspor Malaysia dan permintaan biodiesel di tengah kurs USD/IDR Rp17.943.",
  "news": [
   {
    "title": "Palm Oil Edges Higher as Strong Exports Offset Supply Concerns - TradingView",
@@ -44,36 +44,36 @@
   }
  ],
  "markets": {
-  "updated": "2026-10-22T05:26+00:00",
+  "updated": "2026-10-23T01:02+00:00",
   "tickers": [
    {
     "label": "VOO (S&P 500)",
-    "last": 710.72,
-    "pct": 0.47
+    "last": 702.3,
+    "pct": -1.01
    },
    {
     "label": "QQQ (Nasdaq 100)",
-    "last": 725.2,
-    "pct": -0.51
+    "last": 704.47,
+    "pct": -3.23
    },
    {
     "label": "VEU (World ex-US)",
-    "last": 82.14,
-    "pct": 0.59
+    "last": 80.91,
+    "pct": -1.33
    }
   ],
   "fx": [
    {
     "pair": "USD/SGD",
-    "rate": 1.2768
+    "rate": 1.2767
    },
    {
     "pair": "USD/IDR",
-    "rate": 18040.0
+    "rate": 17943.0
    },
    {
     "pair": "SGD/IDR",
-    "rate": 14129.61
+    "rate": 14056.453
    }
   ]
  },
@@ -138,28 +138,30 @@
   ]
  },
  "cuaca": {
-  "updated_at": "2026-10-22T09:42+08:00",
+  "updated_at": "2026-10-22T23:24+08:00",
   "farm_name": "Kebun Sawit (Rawang Air Putih)",
   "today": {
    "date": "2026-10-22",
-   "precip": 0.3,
-   "prob": 92,
-   "tmax": 32.3,
+   "precip": 0.6,
+   "prob": 73,
+   "tmax": 32.7,
    "tmin": 24.7,
-   "humidity": 83,
-   "cloud": 66,
+   "humidity": 82,
+   "cloud": 59,
    "code": 51,
    "condition": "Gerimis ringan",
    "emoji": "🌦️",
-   "wind": 10.9,
-   "gust": 23.8,
+   "wind": 11.1,
+   "gust": 24.5,
    "wind_dir": "Timur",
-   "wind_dir_deg": 105,
+   "wind_dir_deg": 108,
    "precip_hours": 3.0,
-   "rain_windows": [],
+   "rain_windows": [
+    "16:00–17:00"
+   ],
    "sunrise": "05:54",
    "sunset": "17:59",
-   "soil_moist": 30,
+   "soil_moist": 31,
    "hourly": [
     {
      "t": "00:00",
@@ -204,7 +206,7 @@
     {
      "t": "05:00",
      "p": 0.0,
-     "prob": 2,
+     "prob": 0,
      "rh": 96,
      "cloud": 46,
      "code": 1
@@ -212,7 +214,7 @@
     {
      "t": "06:00",
      "p": 0.0,
-     "prob": 5,
+     "prob": 0,
      "rh": 96,
      "cloud": 74,
      "code": 2
@@ -220,25 +222,25 @@
     {
      "t": "07:00",
      "p": 0.0,
-     "prob": 8,
-     "rh": 91,
-     "cloud": 66,
-     "code": 2
+     "prob": 0,
+     "rh": 94,
+     "cloud": 43,
+     "code": 1
     },
     {
      "t": "08:00",
      "p": 0.0,
-     "prob": 8,
-     "rh": 85,
-     "cloud": 33,
-     "code": 1
+     "prob": 3,
+     "rh": 88,
+     "cloud": 55,
+     "code": 2
     },
     {
      "t": "09:00",
      "p": 0.0,
-     "prob": 8,
-     "rh": 78,
-     "cloud": 45,
+     "prob": 6,
+     "rh": 80,
+     "cloud": 26,
      "code": 1
     },
     {
@@ -246,123 +248,123 @@
      "p": 0.0,
      "prob": 10,
      "rh": 73,
-     "cloud": 40,
-     "code": 1
+     "cloud": 19,
+     "code": 0
     },
     {
      "t": "11:00",
      "p": 0.0,
-     "prob": 15,
-     "rh": 69,
-     "cloud": 55,
-     "code": 2
+     "prob": 11,
+     "rh": 67,
+     "cloud": 49,
+     "code": 1
     },
     {
      "t": "12:00",
-     "p": 0.1,
-     "prob": 22,
-     "rh": 66,
-     "cloud": 63,
-     "code": 51
+     "p": 0.0,
+     "prob": 12,
+     "rh": 64,
+     "cloud": 58,
+     "code": 2
     },
     {
      "t": "13:00",
      "p": 0.0,
-     "prob": 33,
-     "rh": 64,
-     "cloud": 76,
-     "code": 2
+     "prob": 18,
+     "rh": 58,
+     "cloud": 41,
+     "code": 1
     },
     {
      "t": "14:00",
      "p": 0.1,
-     "prob": 55,
-     "rh": 63,
-     "cloud": 55,
+     "prob": 37,
+     "rh": 58,
+     "cloud": 39,
      "code": 51
     },
     {
      "t": "15:00",
-     "p": 0.0,
-     "prob": 80,
-     "rh": 62,
-     "cloud": 43,
-     "code": 1
+     "p": 0.1,
+     "prob": 61,
+     "rh": 59,
+     "cloud": 58,
+     "code": 51
     },
     {
      "t": "16:00",
-     "p": 0.0,
-     "prob": 92,
-     "rh": 62,
-     "cloud": 43,
-     "code": 1
+     "p": 0.4,
+     "prob": 73,
+     "rh": 70,
+     "cloud": 14,
+     "code": 51
     },
     {
      "t": "17:00",
-     "p": 0.1,
-     "prob": 77,
+     "p": 0.0,
+     "prob": 63,
      "rh": 76,
-     "cloud": 35,
-     "code": 51
+     "cloud": 34,
+     "code": 1
     },
     {
      "t": "18:00",
      "p": 0.0,
-     "prob": 47,
-     "rh": 83,
-     "cloud": 72,
-     "code": 2
+     "prob": 43,
+     "rh": 80,
+     "cloud": 17,
+     "code": 0
     },
     {
      "t": "19:00",
      "p": 0.0,
      "prob": 25,
-     "rh": 88,
-     "cloud": 99,
-     "code": 3
+     "rh": 84,
+     "cloud": 42,
+     "code": 1
     },
     {
      "t": "20:00",
      "p": 0.0,
-     "prob": 18,
-     "rh": 91,
-     "cloud": 100,
+     "prob": 16,
+     "rh": 87,
+     "cloud": 99,
      "code": 3
     },
     {
      "t": "21:00",
      "p": 0.0,
-     "prob": 19,
-     "rh": 93,
-     "cloud": 91,
-     "code": 3
+     "prob": 10,
+     "rh": 88,
+     "cloud": 75,
+     "code": 2
     },
     {
      "t": "22:00",
      "p": 0.0,
-     "prob": 20,
-     "rh": 94,
-     "cloud": 36,
-     "code": 1
+     "prob": 8,
+     "rh": 90,
+     "cloud": 98,
+     "code": 3
     },
     {
      "t": "23:00",
      "p": 0.0,
-     "prob": 20,
-     "rh": 94,
-     "cloud": 37,
+     "prob": 11,
+     "rh": 92,
+     "cloud": 47,
      "code": 1
     }
    ]
   }
  },
  "lingkungan": {
-  "updated_at": "2026-10-22T09:42+08:00",
+  "updated_at": "2026-10-22T23:24+08:00",
   "flood": {
    "river_discharge": 186.1,
    "unit": "m3/s",
    "trend": "naik",
-   "peak_next3": 183.5,
+   "peak_next3": 172.4,
    "baseline": 141.6,
    "ratio_pct": 131,
    "status": "Agak tinggi",
@@ -398,7 +400,7 @@
    "weather_risk": {
     "level": "rendah",
     "dry_streak": 1,
-    "humidity": 83
+    "humidity": 82
    },
    "sipongi": {
     "status": "tidak tersedia",
@@ -414,18 +416,18 @@
    "map_google": "https://www.google.com/maps?q=0.4444,101.8899"
   },
   "air": {
-   "us_aqi": 158,
-   "pm2_5": 58.9,
-   "pm10": 59.5,
+   "us_aqi": 159,
+   "pm2_5": 34.0,
+   "pm10": 34.5,
    "category": "Tidak sehat",
    "color": "red",
-   "aod": 1.85,
+   "aod": 1.96,
    "dust": 0,
    "haze": "asap tebal",
    "haze_color": "red",
-   "uv": 1.2,
+   "uv": 0.0,
    "uv_cat": "rendah"
   }
  },
- "generated": "2026-10-22T05:27+00:00"
+ "generated": "2026-10-23T01:03+00:00"
 }

@@ -1,14 +1,14 @@
-📰 *BRIEF PAGI* — 22 Okt 2026
+📰 *BRIEF PAGI* — 23 Okt 2026
 
 🧠 *Ringkasan:*
-Berikut brief operasional dan pasar untuk hari ini:
+**Keputusan Kebun Hari Ini:**
+* **Panen & Angkut:** Percepat panen dan pengangkutan hari ini (gerimis 0,6 mm) sebelum hujan lebat pada 23–25 Oktober (hingga 19,6 mm) dan debit air banjir bertambah (saat ini 186,1 m³/s).
+* **Pemupukan:** Tunda pemupukan akibat potensi pembilasan oleh lonjakan curah hujan tinggi beberapa hari ke depan.
+* **Operasional & K3:** Wajibkan masker untuk pekerja karena udara tidak sehat (AQI 159, asap tebal) dan tingkatkan siaga karhutla (titik api 42,2 km).
+* **Posisi Harga:** TBS Swadaya Riau turun ke Rp3.209/kg (Plasma Rp3.745/kg), tetapi proyeksi CPO November tetap kuat di atas RM 4.600/ton.
 
-* **Panen & Angkut:** Percepat panen dan pengangkutan TBS hari ini selagi cuaca hanya gerimis ringan (0,3 mm); antisipasi jalur terputus akibat debit banjir yang naik (186,1 m³/s) dan lonjakan hujan sepekan ke depan (puncak 19,1 mm pada 25 Okt).
-* **Pemupukan:** Tunda pemupukan terbuka guna mencegah pupuk hanyut/tercuci akibat tren peningkatan curah hujan harian.
-* **K3 & Lingkungan:** Wajibkan masker bagi buruh kebun karena kualitas udara tidak sehat (AQI 158, asap tebal) serta pantau kesiapsiagaan karhutla (titik api 42,2 km selatan).
-* **TBS & Arus Kas:** Segera kirim TBS ke PKS tanpa restan; harga Plasma bertahan di Rp3.745/kg, sementara Swadaya turun tipis ke Rp3.209/kg.
-
-**Sentimen Pasar:** *Bullish* moderat; CPO global kokoh di atas RM4.600/ton berkat kuatnya ekspor dan biodiesel, didukung pelemahan rupiah (USD/IDR 18.040).
+**Sentimen Pasar:**
+Pasar saham global terkoreksi (QQQ -3,23%), namun harga CPO ditopang kuatnya ekspor Malaysia dan permintaan biodiesel di tengah kurs USD/IDR Rp17.943.
 
 🌴 *Harga TBS Riau (2026-10-21 s/d 2026-10-27)*
   Plasma: Rp3.745/kg
@@ -21,25 +21,25 @@ Berikut brief operasional dan pasar untuk hari ini:
 • Kementerian Lingkungan Hidup memperketat regulasi melalui inventarisasi emisi GRK, bersamaan dengan imbauan mitigasi risiko karhutla oleh APHI akibat anomali iklim.
 
 🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis ringan, hujan 0.3 mm (peluang 92%), 24.7–32.3°C
-  Angin Timur 10.9 km/jam (hembusan 23.8)
+  Gerimis ringan, hujan 0.6 mm (peluang 73%), 24.7–32.7°C
+  Angin Timur 11.1 km/jam (hembusan 24.5)
   Prakiraan:
-  2026-10-23: 5.6 mm, 74%
-  2026-10-24: 7.9 mm, 90%
-  2026-10-25: 19.1 mm, 71%
+  2026-10-23: 9.6 mm, 63%
+  2026-10-24: 15.1 mm, 92%
+  2026-10-25: 19.6 mm, 90%
 
 🌊 *Banjir, karhutla & udara:*
   Banjir: Agak tinggi (debit 186.1 m3/s, naik)
   Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 158, Tidak sehat, asap tebal
+  Udara: AQI 159, Tidak sehat, asap tebal
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 710.72 (+0.47%)
-  ▼ QQQ (Nasdaq 100): 725.20 (-0.51%)
-  ▲ VEU (World ex-US): 82.14 (+0.59%)
-  💱 USD/SGD: 1.2768
-  💱 USD/IDR: 18.040
-  💱 SGD/IDR: 14.130
+  ▼ VOO (S&P 500): 702.30 (-1.01%)
+  ▼ QQQ (Nasdaq 100): 704.47 (-3.23%)
+  ▼ VEU (World ex-US): 80.91 (-1.33%)
+  💱 USD/SGD: 1.2767
+  💱 USD/IDR: 17.943
+  💱 SGD/IDR: 14.056
 
 📰 *Berita sawit (Palm Pulse):*
 • Palm Oil Edges Higher as Strong Exports Offset Supply Concerns - TradingView — Google News · Malaysia
