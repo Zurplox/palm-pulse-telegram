@@ -1,14 +1,15 @@
-📰 *BRIEF PAGI* — 24 Okt 2026
+📰 *BRIEF PAGI* — 25 Okt 2026
 
 🧠 *Ringkasan:*
-**Keputusan Kebun Hari Ini:**
-* **Panen & Angkut:** Segera maksimalkan panen dan angkut hari ini sebelum curah hujan melonjak mulai besok (13,5 mm) untuk memanfaatkan penguatan harga TBS Swadaya (Rp3.209/kg, naik Rp70) dan CPO.
-* **Pemupukan:** Tunda jadwal pemupukan karena risiko banjir agak tinggi dan prakiraan hujan berlanjut hingga 26 Oktober.
-* **Kesehatan & Keselamatan:** Waspadai karhutla bahaya (41,3 km dari kebun) dan udara tidak sehat (AQI 152, asap tebal); wajibkan APD/masker bagi pekerja lapangan.
-* **Legalitas/Kepatuhan:** Segera lakukan pemetaan lahan kebun guna mengantisipasi ancaman regulasi EUDR yang membatasi akses pasar.
+Berikut ringkasan eksekutif untuk keputusan kebun dan pasar hari ini:
+
+**Keputusan Operasional Kebun Hari Ini:**
+* **Pemupukan:** **TUNDA** pemupukan terbuka akibat hujan sedang (14,9 mm, peluang 100%) yang berisiko mencuci pupuk; tren hujan berlanjut hingga 27 Oktober.
+* **Panen & Angkut:** **SEGERAKAN** pengangkutan TBS guna memanfaatkan kenaikan harga swadaya (Rp3.209/kg) dan plasma (Rp3.745/kg) sebelum terhambat hujan serta waspadai hembusan angin hingga 32 km/jam.
+* **K3 & Karhutla:** **Waspadai** asap tebal (AQI 116 - Tidak Sehat) dengan membekali pekerja masker, serta siagakan tim atas status bahaya karhutla di Tualang (41,3 km barat kebun).
 
 **Sentimen Pasar:**
-Sektor CPO menguat ditopang kebijakan B50 dan El Niño, di tengah pelemahan bursa saham global dan nilai tukar USD/IDR di level Rp17.956.
+**Positif:** Harga CPO menguat didukung prospek ekspor, El Niño, dan rencana B50, di tengah pelemahan bursa saham global dan Rupiah (USD/IDR 18.050).
 
 🌴 *Harga TBS Riau (2026-10-21 s/d 2026-10-27)*
   Plasma: Rp3.745/kg
@@ -20,26 +21,26 @@ Sektor CPO menguat ditopang kebijakan B50 dan El Niño, di tengah pelemahan burs
 • Ancaman regulasi EUDR semakin nyata dengan potensi hilangnya akses pasar Uni Eropa bagi puluhan ribu pekebun swadaya yang belum memenuhi standar pemetaan.
 • Agrinas menyiapkan langkah peremajaan kebun sawit eks Torganda yang disinergikan melalui skema Proyek Strategis Nasional.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal ringan, hujan 2.5 mm (peluang 80%), 24.4–32.8°C
-  Angin Timur Laut 11.1 km/jam (hembusan 28.1)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal sedang, hujan 14.9 mm (peluang 100%), 24–30.1°C
+  Angin Barat Laut 10.7 km/jam (hembusan 32)
   Prakiraan:
-  2026-10-24: 13.5 mm, 88%
-  2026-10-25: 8.2 mm, 81%
-  2026-10-26: 8.5 mm, 66%
+  2026-10-25: 11.5 mm, 92%
+  2026-10-26: 3.1 mm, 55%
+  2026-10-27: 15 mm, 73%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 172.4 m3/s, stabil)
+  Banjir: Normal (debit 152.5 m3/s, turun)
   Karhutla: bahaya — titik terdekat 41.3 km barat (Tualang, Riau)
-  Udara: AQI 152, Tidak sehat, asap tebal
+  Udara: AQI 116, Tidak sehat (kel. sensitif), asap tebal
 
 📈 *Pasar:*
   ▼ VOO (S&P 500): 698.58 (-0.43%)
   ▼ QQQ (Nasdaq 100): 704.40 (-0.76%)
   ▼ VEU (World ex-US): 80.70 (-1.03%)
   💱 USD/SGD: 1.2779
-  💱 USD/IDR: 17.956
-  💱 SGD/IDR: 14.049
+  💱 USD/IDR: 18.050
+  💱 SGD/IDR: 14.048
 
 📰 *Berita sawit (Palm Pulse):*
 • Harga CPO Malaysia Menguat Ditopang El Niño dan Biodiesel B50 - Demokratis.co.id — Google News · Malaysia (Bahasa)
