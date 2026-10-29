@@ -1,54 +1,54 @@
-📰 *BRIEF PAGI* — 28 Okt 2026
+📰 *BRIEF PAGI* — 29 Okt 2026
 
 🧠 *Ringkasan:*
 **Keputusan Kebun Hari Ini:**
-• **Pemupukan:** Tunda aktivitas pemupukan karena gerimis hari ini (hujan 3,6 mm, peluang 97%) dan prakiraan hujan lebat hingga tiga hari ke depan (mencapai 17,3 mm).
-• **Panen & Pengangkutan:** Segerakan panen dan distribusi TBS (Harga Plasma Rp3.745/kg, Swadaya naik ke Rp3.299/kg) sebelum akses terganggu tren kenaikan debit air banjir (saat ini 202,2 m³/s).
-• **Operasional:** Jalur angkut perlu diantisipasi akibat peningkatan debit air dan udara berasap (AQI 57), meski titik karhutla dipastikan aman.
+* **Panen:** Maksimalkan panen untuk memanfaatkan kenaikan harga TBS Riau (Plasma Rp3.786/kg, Swadaya naik Rp53 jadi Rp3.299/kg).
+* **Pemupukan:** Tunda aplikasi pupuk akibat potensi tersapu hujan tinggi hari ini (10 mm, peluang 92%) yang diperkirakan berlanjut hingga esok.
+* **Pengangkutan:** Antisipasi hambatan angkut TBS karena risiko banjir tinggi dengan debit air yang terus meningkat (298,2 m³/s).
 
 **Sentimen Pasar:**
-Pasar CPO cenderung lesu akibat transaksi KPBN Inacom *withdraw* dan bursa Malaysia melemah, di tengah penguatan tipis bursa AS (VOO +0,1%, QQQ +0,5%) serta kurs USD/IDR pada Rp18.025.
+Harga TBS lokal Riau menguat kuat, namun CPO global dan bursa Malaysia tertekan akibat pelemahan harga serta rekor lonjakan stok.
 
-🌴 *Harga TBS Riau (2026-10-21 s/d 2026-10-27)*
-  Plasma: Rp3.745/kg
+🌴 *Harga TBS Riau (2026-10-28 s/d 2026-11-03)*
+  Plasma: Rp3.786/kg
   Swadaya: Rp3.299/kg (naik Rp53)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pemerintah Indonesia resmi memasukkan penataan dan legalitas kebun sawit rakyat ke dalam Proyek Strategis Nasional (PSN) untuk mempercepat peremajaan kebun serta kemitraan.
-• Malaysia berfokus memperkuat hilirisasi produk oleokimia khusus untuk mengurangi ketergantungan pada ekspor CPO mentah dan menahan fluktuasi harga pasar.
-• Perdagangan CPO di KPBN Inacom berakhir withdraw (WD) seiring melemahnya bursa CPO Malaysia, meski harga TBS di Sumatera Barat tercatat naik menjadi Rp3.748,80 per kg untuk umur 10–20 tahun.
-• Analisis BMI memperingatkan adanya risiko gangguan cuaca El Nino terhadap hasil panen kelapa sawit dan pasokan energi di kawasan Asia Tenggara, termasuk Malaysia.
+• Kelapa sawit tetap menjadi komoditas global yang sangat dibahas terkait perdagangan, lingkungan, dan ekspor, sementara industri perkebunan secara umum diuntungkan oleh harga yang kuat pada kuartal ketiga 2026.
+• Pasar menghadapi dinamika harga CPO yang bervariasi, di mana harga TBS di beberapa wilayah Indonesia dilaporkan naik, sementara harga CPO global dan bursa berjangka mengalami tekanan turun atau pelemahan.
+• Isu strategis meliputi lonjakan stok dan pasokan berlebih di Malaysia yang menekan kapasitas penyimpanan, usulan pembentukan Badan Kelapa Sawit Nasional untuk keadilan agraria pekebun swadaya, serta pelatihan pemetaan digital bagi pekebun.
+• Harga TBS kelapa sawit pekebun mitra swadaya dan plasma di Provinsi Riau mengalami kenaikan pada periode akhir Oktober hingga awal November 2026, di mana TBS umur 9 tahun mencapai Rp3.739,83 per kilogram dan TBS plasma tembus Rp3.785,87 per kilogram yang dipicu penguatan CPO serta kernel.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Gerimis, hujan 3.6 mm (peluang 97%), 24.3–31.2°C
-  Angin Timur Laut 10.4 km/jam (hembusan 21.6)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal sedang, hujan 10 mm (peluang 92%), 23.4–30.3°C
+  Angin Tenggara 11 km/jam (hembusan 24.8)
   Prakiraan:
-  2026-10-28: 17.3 mm, 96%
-  2026-10-29: 14.8 mm, 96%
-  2026-10-30: 6.7 mm, 85%
+  2026-10-30: 5.8 mm, 84%
+  2026-10-31: 1.1 mm, 75%
+  2026-11-01: 3.6 mm, 75%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 202.2 m3/s, naik)
-  Karhutla: aman — titik terdekat 109.9 km barat laut (Dumai Timur, Riau)
-  Udara: AQI 57, Sedang, berasap/berkabut
+  Banjir: Tinggi (debit 298.2 m3/s, naik)
+  Karhutla: aman
+  Udara: AQI 27, Baik, berkabut tipis
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 707.52 (+0.1%)
-  ▲ QQQ (Nasdaq 100): 721.25 (+0.5%)
-  ▼ VEU (World ex-US): 81.47 (-0.46%)
-  💱 USD/SGD: 1.2816
-  💱 USD/IDR: 18.025
-  💱 SGD/IDR: 14.066
+  ▼ VOO (S&P 500): 709.90 (-0.12%)
+  ▲ QQQ (Nasdaq 100): 725.61 (+0.06%)
+  ▼ VEU (World ex-US): 81.93 (-0.26%)
+  💱 USD/SGD: 1.2799
+  💱 USD/IDR: 18.183
+  💱 SGD/IDR: 14.204
 
 📰 *Berita sawit (Palm Pulse):*
-• Harga TBS Sawit Sumbar Periode IV Oktober 2026 Naik, Umur 10–20 Tahun Capai Rp3.748,80 per Kg — InfoSAWIT
-• Firm Drives Financing of Oil Palm Industry to Boost National Output - THISDAYLIVE — Google News · Plantation
-• Harga CPO KPBN Inacom Withdraw Pada Senin (26/10/2026), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
-• BMI: Malaysia among South-east Asian economies facing El Nino crop, power risks — Malay Mail
-• Plantation worker jailed 18 years over colleague's death — NST Online
-• October 23, 2026 Commodity Price Position at the Closing of Physical Exchange & Market — GAPKI
-• Posisi Harga Komoditas pada Penutupan Bursa & Pasar Fisik, 23 Oktober 2026 — GAPKI (Bahasa)
-• Missing 67-year-old found dead in oil palm plantation — The Star
+• Palm Oil: It’s In Products We Daily Use From Morning To Night — GAPKI
+• Harga TBS Sawit Mitra Swadaya Riau Periode 28 Oktober–3 November 2026 Naik, Umur 9 Tahun Rp3.739,83 per Kg — InfoSAWIT
+• Harga CPO KPBN Inacom Masih Withdraw Pada Selasa (27/10/2026), Perdagangan CPO di Bursa Malaysia Melemah — InfoSAWIT
+• Harga TBS Sawit Swadaya Riau Naik 1,64 Persen — شبكة تواصل الإخبارية
+• Harga CPO Terjun Bebas, Stok Malaysia Tembus Rekor - investor.id — Google News · Malaysia (Bahasa)
+• Robust prices propel 3Q26 outlook for plantation players — The Star
+• Iran war boosts Malaysian data centre appeal, SD Guthrie says — The Edge Malaysia
+• Palm Oil Firms Unlikely to Plant on Burned Land — Tempo.co English
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
