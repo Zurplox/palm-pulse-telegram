@@ -1,56 +1,53 @@
-📰 *BRIEF PAGI* — 02 Nov 2026
+📰 *BRIEF PAGI* — 03 Nov 2026
 
 🧠 *Ringkasan:*
-**Rekomendasi Operasional Kebun Hari Ini:**
+* **Panen & Angkut:** Waspada cuaca badai petir dan hujan (7.7 mm, peluang 100%) hari ini serta curah hujan tinggi ke depan; pastikan evakuasi dan pengangkutan TBS lancar meski debit banjir normal dan turun.
+* **Pemupukan:** Tunda aplikasi pupuk karena curah hujan tinggi berisiko mencuci unsur hara.
+* **Harga & Pasar:** Manfaatkan momentum kenaikan harga TBS Riau (Plasma Rp3.786/kg, Swadaya Rp3.740/kg) dan harian CPO akibat pelemahan Ringgit serta penguatan minyak mentah.
+* **Mitigasi Risiko:** Tetap waspada terhadap karhutla (titik terdekat 42.1 km di Pangkalan Kerinci) di tengah kondisi udara sedang (AQI 58).
 
-* **Panen & Angkut:** Genjot panen dan pengangkutan hari ini selagi hujan ringan (3 mm), sebelum curah hujan meningkat tinggi pada 3–4 November (8,2–8,7 mm, peluang hingga 100%).
-* **Pemupukan:** Tunda aktivitas pemupukan akibat tingginya potensi hujan harian (82%–100%) agar pupuk tidak terbuang/hanyut.
-* **Pemasaran TBS:** Realisasikan penjualan penuh untuk memanfaatkan harga TBS Riau yang kuat (Plasma Rp3.786/kg, Swadaya Rp3.740/kg).
-* **Mitigasi Karhutla:** Terapkan aturan *zero burning* dan tingkatkan pengawasan kebun seiring status Waspada Karhutla (titik api 42,2 km di Pangkalan Kerinci) dan pengetatan rantai pasok oleh RSPO.
-
-**Sentimen Pasar:**
-Pasar saham global melemah dan CPO berisiko *bearish* akibat penumpukan stok di Malaysia, meski harga fisik lokal bertahan di tengah nilai tukar USD/IDR Rp18.138.
+Sentimen Pasar: Bullish (didukung pelemahan Ringgit dan penguatan minyak mentah, meski tertekan stok mingguan).
 
 🌴 *Harga TBS Riau (2026-10-28 s/d 2026-11-03)*
   Plasma: Rp3.786/kg
   Swadaya: Rp3.740/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar minyak sawit global menghadapi dinamika harga CPO yang fluktuatif akibat penumpukan stok di Malaysia, aksi jual minyak olein di Dalian, serta kenaikan harga fisik di pasar lokal.
-• Di Indonesia, penyaluran dana PSR berlanjut, APKASINDO mendorong pemilikan pabrik CPO oleh pekebun, dan isu karhutla memicu pengetatan pengawasan oleh RSPO.
-• Pemerintah Malaysia berencana menangguhkan bea keluar CPO guna mengatasi krisis kapasitas penyimpanan akibat panen melimpah, sekaligus meluncurkan program bantuan biaya peremajaan bagi pekebun.
-• Ketatnya pengawasan rantai pasok dan aturan nihil pembakaran menjadi fokus utama bagi keberlanjutan industri sawit global.
+• Pergerakan harga CPO harian mencatatkan kenaikan yang didorong oleh pelemahan nilai tukar Ringgit, penguatan minyak mentah dunia, dan kebangkitan minat beli, meskipun secara mingguan harga sempat tertekan akibat lonjakan stok.
+• Di Indonesia, fokus utama tertuju pada percepatan Peremajaan Sawit Rakyat (PSR) untuk mencegah penurunan produksi CPO, penyelesaian legalitas lahan oleh Kementerian ATR/BPN, serta pengembangan teknologi pabrik sawit ramah lingkungan.
+• Malaysia melaporkan peningkatan produksi CPO karena curah hujan yang memadai mampu mengurangi dampak El Nino, yang berdampak pada peningkatan persediaan stok dan kapasitas tangki penyimpanan yang makin penuh di Sarawak.
+• Penguatan standar keberlanjutan terus berjalan melalui peluncuran panduan teknis PalmGHG V5 oleh RSPO serta dorongan peran perempuan dan koperasi dalam rantai pasok kelapa sawit.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal ringan, hujan 3 mm (peluang 82%), 24.2–31.8°C
-  Angin Tenggara 16.4 km/jam (hembusan 33.5)
+⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Badai petir, hujan 7.7 mm (peluang 100%), 24.4–31.1°C
+  Angin Barat Daya 6 km/jam (hembusan 27.7)
   Prakiraan:
-  2026-11-03: 8.2 mm, 100%
-  2026-11-04: 8.7 mm, 86%
-  2026-11-05: 5.7 mm, 90%
+  2026-11-04: 3.1 mm, 94%
+  2026-11-05: 11.2 mm, 88%
+  2026-11-06: 6.3 mm, 85%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 284.8 m3/s, stabil)
-  Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 85, Sedang, berkabut tipis
+  Banjir: Normal (debit 245.6 m3/s, turun)
+  Karhutla: waspada — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
+  Udara: AQI 58, Sedang, berkabut tipis
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 694.81 (-0.54%)
-  ▼ QQQ (Nasdaq 100): 690.49 (-1.97%)
-  ▼ VEU (World ex-US): 80.57 (-0.16%)
-  💱 USD/SGD: 1.2789
-  💱 USD/IDR: 18.138
-  💱 SGD/IDR: 14.195
+  ▼ VOO (S&P 500): 691.32 (-1.72%)
+  ▼ QQQ (Nasdaq 100): 681.09 (-4.37%)
+  → VEU (World ex-US): 80.86 (0.0%)
+  💱 USD/SGD: 1.28
+  💱 USD/IDR: 18.136
+  💱 SGD/IDR: 14.171
 
 📰 *Berita sawit (Palm Pulse):*
-• Tiga Kelompok Tani Di Asam Jujuhan Terima Bantuan PSR Senilai Rp 13,4 Miliar - Minangsatu — Google News · Perkebunan (Bahasa)
-• Tiga Kelompok Tani Dharmasraya Terima Alokasi PSR Rp13,4 Miliar - RRI.co.id — Google News · Perkebunan (Bahasa)
-• Petani Jangan Selamanya Jadi Pemasok TBS, Pabrik Sawit Sendiri Jadi Agenda Strategis APKASINDO - sawitsetara.co — Google News · Bahasa
-• Crude Palm Oil Futures Risks Falling To RM4,400 As Trading Turns Bearish — BusinessToday Malaysia
-• Sawit Adalah Harta Karun Bangsa Indonesia — Sawit Indonesia
-• Harga CPO Malaysia Melonjak hingga 65 Ringgit per Ton, Ini Tiga Sentimen yang Menggerakkan Pasar Sawit - TOPIK.ID — Google News · Malaysia (Bahasa)
-• Pembukaan Hutan Papua Bukan Solusi, Ini Mitigasi Tepat Anjloknya Ekspor Sawit — Sawit Indonesia
-• Kebakaran Hutan Kalimantan Tengah, Rantai Pasok Sawit Global Disorot — InfoSAWIT
+• Produksi CPO Terancam Anjlok, GAPKI Desak Peremajaan Sawit Rakyat Dipercepat - HALLORIAU.COM — Google News · Perkebunan (Bahasa)
+• Industri Kelapa Sawit Nasional Diperkuat Melalui Percepatan PSR dan SPPKS - https://jambiekspres.disway.id/ — Jambi Ekspres
+• Kementerian ATR BPN Percepat Penataan Lahan Sawit dan Kawasan Hutan secara Terintegrasi - HaiSawit — Google News · Perkebunan (Bahasa)
+• Harga TBS Mitra Plasma Riau Periode 28 Oktober–3 November 2026 Naik, Berikut Daftar per Umur Tanaman - HaiSawit — Google News · Bahasa
+• Harga CPO Jatuh Hampir 3 Persen Sepekan, Stok Malaysia Jadi Penentu — IDX Channel
+• Taruhan Baru Pabrik Sawit Teknologi Dry Process, dan Penerimaan Pasar — InfoSAWIT
+• Perempuan Koperasi Belayan Sejahtera Perkuat Peran Petani Sawit Berkelanjutan — InfoSAWIT
+• Now Available: PalmGHG V5 Technical Manual and Guidance — RSPO
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
