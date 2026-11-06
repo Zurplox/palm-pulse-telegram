@@ -1,54 +1,53 @@
-📰 *BRIEF PAGI* — 05 Nov 2026
+📰 *BRIEF PAGI* — 06 Nov 2026
 
 🧠 *Ringkasan:*
-**Keputusan Kebun Hari Ini:**
-• **Pemupukan:** **TUNDA.** Hujan lebat dan badai petir melanda kebun hari ini (12,5 mm, peluang 96%) serta besok (10,6 mm). Jadwalkan ulang saat curah hujan turun (7 Nov: 0,7 mm).
-• **Panen & Angkut:** Waspadai kendala jalan akibat hujan deras serta antisipasi risiko penumpukan pasokan di PKS independen (Harga TBS Riau: Plasma Rp3.763/kg, Swadaya Rp3.456/kg).
-• **Kondisi Lapangan:** Tetap **WASPADA KARHUTLA** karena titik api terdeteksi 42,1 km di selatan (Pelalawan) dan udara berkabut tipis (AQI 52), meski status banjir aman/debit turun.
+• **Panen & Angkut:** Waspadai potensi hujan lokal sedang hingga lebat (peluang hingga 98%) dan biaya angkut yang tinggi; pastikan akses jalan kebun dan pengangkutan TBS aman dari kendala cuaca.
+• **Pemupukan:** Tunda atau sesuaikan aplikasi pupuk mengingat curah hujan yang cukup tinggi guna menghindari susut hara akibat cucian air.
+• **Penjualan TBS:** Manfaatkan harga TBS Riau saat ini (Plasma Rp3.763/kg, Swadaya Rp3.456/kg) di tengah ancaman aturan ISPO dan potensi penurunan harga pasar.
+• **Mitigasi Risiko:** Pantau status siaga karhutla (titik terdekat 42,1 km di Pangkalan Kerinci) meski kualitas udara terpelihara (AQI 46).
 
-**Sentimen Pasar:**
-Pasar sawit dan bursa global tertekan (QQQ -4,64%, VOO -0,72%) akibat proyeksi rekor lonjakan stok CPO Malaysia dan risiko kelebihan pasokan minyak sawit regional.
+Sentimen Pasar: Bearish (Tekanan penurunan harga CPO global ke kisaran RM4.400 akibat lonjakan stok dan pelemahan pasar global).
 
 🌴 *Harga TBS Riau (2026-11-04 s/d 2026-11-10)*
   Plasma: Rp3.763/kg
   Swadaya: Rp3.456/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar minyak sawit regional sedang tertekan oleh proyeksi rekor lonjakan stok CPO di Malaysia dan penurunan harga TBS mitra swadaya di Indonesia.
-• Industri minyak sawit Indonesia memperluas inovasi pemanfaatan limbah serta hilirisasi melalui PT Pindad dan BPDP, meski dihadapkan pada tantangan karhutla dan polemik aturan sertifikasi.
-• Petani swadaya dan PKS independen berisiko menghadapi ancaman penumpukan pasokan, pelemahan harga jual, serta kendala kepatuhan regulasi ISPO.
-• PT Pindad berhasil mengolah selulosa dari limbah tandan kosong kelapa sawit menjadi bahan pendorong amunisi dan komposit armor untuk mengurangi ketergantungan impor.
+• Harga CPO global mengalami tekanan penurunan hingga diperkirakan menyentuh kisaran RM4.400 akibat lonjakan stok persediaan dan melemahnya permintaan bahan bakar hayati, meskipun lonjakan impor dari India membantu menahan kejatuhan harga lebih lanjut.
+• Di Indonesia, regulasi sertifikasi ISPO, biaya logistik yang mahal, serta lambatnya program peremajaan kebun rakyat yang baru mencapai 21 persen menjadi ancaman serius bagi kelancaran penjualan TBS dan pasokan CPO untuk program B50.
+• Isu keberlanjutan dan tata kelola industri terus diperkuat melalui kolaborasi CPOPC, RSPO, dan Kadin, sembari meluruskan tuduhan karhutla serta mendorong pembukaan akses pasar dan inklusi bagi petani swadaya.
+• Apkasindo Sumut mengkritik aturan sertifikasi ISPO yang dinilai berpotensi menyulitkan petani swadaya dalam menjual TBS, sementara Apkasindo Aceh mengeluhkan tingginya biaya angkut CPO yang menekan harga beli di tingkat petani.
 
-⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Badai petir, hujan 12.5 mm (peluang 96%), 23.5–28.8°C
-  Angin Tenggara 9.8 km/jam (hembusan 27.4)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal sedang, hujan 14.8 mm (peluang 94%), 23.8–29.2°C
+  Angin Barat Daya 7.6 km/jam (hembusan 19.4)
   Prakiraan:
-  2026-11-06: 10.6 mm, 96%
-  2026-11-07: 0.7 mm, 90%
-  2026-11-08: 8.8 mm, 88%
+  2026-11-07: 5.4 mm, 84%
+  2026-11-08: 10.5 mm, 98%
+  2026-11-09: 14.9 mm, 92%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 190.9 m3/s, turun)
+  Banjir: Normal (debit 189.1 m3/s, turun)
   Karhutla: waspada — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 52, Sedang, berkabut tipis
+  Udara: AQI 46, Baik, berkabut tipis
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 704.78 (-0.72%)
-  ▼ QQQ (Nasdaq 100): 691.95 (-4.64%)
-  ▲ VEU (World ex-US): 82.10 (+0.21%)
-  💱 USD/SGD: 1.2768
-  💱 USD/IDR: 18.140
-  💱 SGD/IDR: 14.209
+  ▼ VOO (S&P 500): 673.97 (-4.71%)
+  ▼ QQQ (Nasdaq 100): 647.05 (-9.55%)
+  ▼ VEU (World ex-US): 79.10 (-3.42%)
+  💱 USD/SGD: 1.2795
+  💱 USD/IDR: 18.049
+  💱 SGD/IDR: 14.109
 
 📰 *Berita sawit (Palm Pulse):*
-• Pindad Develops OPEFB Palm Waste Into Propellants and Armor Composites — GAPKI
-• Stok Minyak Sawit Malaysia Diproyeksi Capai Rekor Tertinggi Baru - republika.co.id — Google News · Malaysia (Bahasa)
-• ‘Unfair to pin haze on all oil palm growers’ — The Star
-• Supply glut could soon squeeze independent palm oil millers and smallholders — sources — MPOC
-• Palm oil stockpiles set to reach fresh record — MPOC
-• Malaysia’s independent palm oil mills face oversupply pressure on CPO sales — Traders Union
-• BPDP Paparkan Enam Program Unggulan di INDOVEX 2026 untuk Dorong Hilirisasi Perkebunan dan UMKM Naik Kelas - sawitsetara.co — Google News · Perkebunan (Bahasa)
-• APKASINDO Kaltara Tolak Aturan ISPO 30 Persen, Petani Sawit Terancam Sulit Jual TBS — Kaltara Aktual
+• Indicators Point To Crude Palm Oil Futures Falling To RM4,400 — BusinessToday Malaysia
+• RSPO RT2026 Bahas Kebakaran di Indonesia, Gerbang Ekspor Tunggal, dan Inklusi Petani Swadaya — InfoSAWIT
+• CPOPC, RSPO, dan Kadin Dorong Kolaborasi untuk Perkuat Sawit Berkelanjutan — InfoSAWIT
+• Harga CPO Malaysia Merosot pada 5 November 2026 - Demokratis.co.id — Google News · Malaysia (Bahasa)
+• Harga Sawit Tertekan, Apkasindo Aceh Soroti Mahalnya Biaya Angkut CPO dan Kemitraan Petani - AJNN.net — Google News · Bahasa
+• Petani Sawit Terancam Sulit Jual TBS, Apkasindo Sumut Kritik Aturan ISPO - detikcom — Google News · Bahasa
+• Malaysian palm oil prices continue to decline amid record inventories - UkrAgroConsult — Google News · Malaysia
+• Mulai Desember 2026, Pengiriman CPO Bengkulu Wajib Cantumkan Label Asal Daerah — Hai Sawit
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
