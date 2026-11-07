@@ -1,53 +1,56 @@
-📰 *BRIEF PAGI* — 06 Nov 2026
+📰 *BRIEF PAGI* — 07 Nov 2026
 
 🧠 *Ringkasan:*
-• **Panen & Angkut:** Waspadai potensi hujan lokal sedang hingga lebat (peluang hingga 98%) dan biaya angkut yang tinggi; pastikan akses jalan kebun dan pengangkutan TBS aman dari kendala cuaca.
-• **Pemupukan:** Tunda atau sesuaikan aplikasi pupuk mengingat curah hujan yang cukup tinggi guna menghindari susut hara akibat cucian air.
-• **Penjualan TBS:** Manfaatkan harga TBS Riau saat ini (Plasma Rp3.763/kg, Swadaya Rp3.456/kg) di tengah ancaman aturan ISPO dan potensi penurunan harga pasar.
-• **Mitigasi Risiko:** Pantau status siaga karhutla (titik terdekat 42,1 km di Pangkalan Kerinci) meski kualitas udara terpelihara (AQI 46).
+Berikut ringkasan eksekutif untuk keputusan operasional kebun dan investasi hari ini:
 
-Sentimen Pasar: Bearish (Tekanan penurunan harga CPO global ke kisaran RM4.400 akibat lonjakan stok dan pelemahan pasar global).
+**Keputusan Operasional Kebun Hari Ini:**
+* **Panen:** Optimalkan panen hari ini memanfaatkan harga TBS Riau yang masih baik (Plasma Rp3.763/kg, Swadaya Rp3.333/kg).
+* **Pemupukan:** Tunda pemupukan akibat hujan lokal hari ini (4,6 mm) dan proyeksi intensitas hujan yang terus meningkat hingga 8 November (17,1 mm, 95%).
+* **Angkut:** Percepat pengangkutan TBS ke PKS sebelum jalur terganggu; debit air sungai mulai naik (269,4 m³/s).
+* **Keselamatan & Area:** Pantau batas kebun utamanya sektor selatan, status Karhutla Waspada dengan titik api terdekat 42,4 km di Pangkalan Kerinci.
+
+**Sentimen Pasar:** **Tertekan (Bearish)** — Pasar saham global terkoreksi tajam (QQQ -4,98%, VOO -2,71%) dan bursa CPO Malaysia ditutup melemah akibat penumpukan stok.
 
 🌴 *Harga TBS Riau (2026-11-04 s/d 2026-11-10)*
   Plasma: Rp3.763/kg
-  Swadaya: Rp3.456/kg
+  Swadaya: Rp3.333/kg (turun Rp1)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO global mengalami tekanan penurunan hingga diperkirakan menyentuh kisaran RM4.400 akibat lonjakan stok persediaan dan melemahnya permintaan bahan bakar hayati, meskipun lonjakan impor dari India membantu menahan kejatuhan harga lebih lanjut.
-• Di Indonesia, regulasi sertifikasi ISPO, biaya logistik yang mahal, serta lambatnya program peremajaan kebun rakyat yang baru mencapai 21 persen menjadi ancaman serius bagi kelancaran penjualan TBS dan pasokan CPO untuk program B50.
-• Isu keberlanjutan dan tata kelola industri terus diperkuat melalui kolaborasi CPOPC, RSPO, dan Kadin, sembari meluruskan tuduhan karhutla serta mendorong pembukaan akses pasar dan inklusi bagi petani swadaya.
-• Apkasindo Sumut mengkritik aturan sertifikasi ISPO yang dinilai berpotensi menyulitkan petani swadaya dalam menjual TBS, sementara Apkasindo Aceh mengeluhkan tingginya biaya angkut CPO yang menekan harga beli di tingkat petani.
+• Pasar minyak sawit global saat ini mengalami tekanan penurunan harga akibat lonjakan stok di Malaysia dan pelemahan harga minyak kedelai, meski ekspor minyak nabati Indonesia tetap mencatat angka tinggi mencapai US$29,31 miliar hingga September 2026.
+• Penetapan harga TBS resmi untuk pekebun mitra di Sumatra dan Kalimantan masih bertahan di level yang cukup baik antara Rp3.400 hingga Rp3.700 per kilogram, kendati pekebun swadaya masih menghadapi kendala serapan dan kesenjangan harga.
+• Untuk meredakan kelebihan pasokan, pelaku industri Malaysia mengusulkan pembebasan bea keluar CPO, sementara prospek jangka panjang diyakini tetap positif dengan rencana mandatori B50 di Indonesia dan proyeksi harga yang diperkirakan mampu mencapai RM5.000 pada 2027.
+• Nilai ekspor lemak dan minyak hewani atau nabati Indonesia, termasuk produk turunan kelapa sawit, menembus angka US$29,31 miliar sepanjang periode hingga September 2026.
 
 🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 14.8 mm (peluang 94%), 23.8–29.2°C
-  Angin Barat Daya 7.6 km/jam (hembusan 19.4)
+  Hujan lokal sedang, hujan 4.6 mm (peluang 92%), 23.3–30.5°C
+  Angin Timur Laut 16.2 km/jam (hembusan 34.6)
   Prakiraan:
-  2026-11-07: 5.4 mm, 84%
-  2026-11-08: 10.5 mm, 98%
-  2026-11-09: 14.9 mm, 92%
+  2026-11-08: 17.1 mm, 95%
+  2026-11-09: 8.8 mm, 86%
+  2026-11-10: 10.6 mm, 84%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 189.1 m3/s, turun)
-  Karhutla: waspada — titik terdekat 42.1 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 46, Baik, berkabut tipis
+  Banjir: Normal (debit 269.4 m3/s, naik)
+  Karhutla: waspada — titik terdekat 42.4 km selatan (Pangkalan Kerinci, Riau)
+  Udara: AQI 41, Baik, berkabut tipis
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 673.97 (-4.71%)
-  ▼ QQQ (Nasdaq 100): 647.05 (-9.55%)
-  ▼ VEU (World ex-US): 79.10 (-3.42%)
-  💱 USD/SGD: 1.2795
-  💱 USD/IDR: 18.049
-  💱 SGD/IDR: 14.109
+  ▼ VOO (S&P 500): 675.99 (-2.71%)
+  ▼ QQQ (Nasdaq 100): 656.10 (-4.98%)
+  ▼ VEU (World ex-US): 79.25 (-1.64%)
+  💱 USD/SGD: 1.2825
+  💱 USD/IDR: 18.004
+  💱 SGD/IDR: 14.036
 
 📰 *Berita sawit (Palm Pulse):*
-• Indicators Point To Crude Palm Oil Futures Falling To RM4,400 — BusinessToday Malaysia
-• RSPO RT2026 Bahas Kebakaran di Indonesia, Gerbang Ekspor Tunggal, dan Inklusi Petani Swadaya — InfoSAWIT
-• CPOPC, RSPO, dan Kadin Dorong Kolaborasi untuk Perkuat Sawit Berkelanjutan — InfoSAWIT
-• Harga CPO Malaysia Merosot pada 5 November 2026 - Demokratis.co.id — Google News · Malaysia (Bahasa)
-• Harga Sawit Tertekan, Apkasindo Aceh Soroti Mahalnya Biaya Angkut CPO dan Kemitraan Petani - AJNN.net — Google News · Bahasa
-• Petani Sawit Terancam Sulit Jual TBS, Apkasindo Sumut Kritik Aturan ISPO - detikcom — Google News · Bahasa
-• Malaysian palm oil prices continue to decline amid record inventories - UkrAgroConsult — Google News · Malaysia
-• Mulai Desember 2026, Pengiriman CPO Bengkulu Wajib Cantumkan Label Asal Daerah — Hai Sawit
+• Ekspor Lemak dan Minyak Nabati Indonesia Tembus US$29,31 Miliar hingga September 2026 — InfoSAWIT
+• B50 Jadi Penentu Nasib Devisa RI, Mampukah Penghematan Impor Solar Selamatkan Rupiah? - Pasardana — Google News · Kebijakan (Bahasa)
+• Dilema Sawit Kaltara: Rekor Harga TBS Rp3.418 Terbentur Problem Petani Swadaya — Kabar Nunukan
+• Harga TBS Sawit Jambi Periode 6–12 November 2026 Turun Rp0,53 per Kg — InfoSAWIT
+• Harga TBS Sawit Sumut Periode 4–10 November 2026, Umur 10–20 Tahun Rp3.717,33 per Kg — InfoSAWIT
+• DSI Perkuat Tata Kelola Ekspor Sawit, RSPO Soroti Transparansi dan Akses Pasar Global — InfoSAWIT
+• Muhammad Nasir Dorong Perhatian untuk Kesejahteraan Petani Sawit Swadaya — Fokus Borneo
+• Harga CPO KPBN Inacom Withdraw Pada Kamis (5/10/2026), Perdagangan CPO di Bursa Malaysia Ditutup Melemah — InfoSAWIT
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
