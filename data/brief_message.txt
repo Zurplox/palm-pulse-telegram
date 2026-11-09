@@ -1,55 +1,56 @@
-📰 *BRIEF PAGI* — 08 Nov 2026
+📰 *BRIEF PAGI* — 09 Nov 2026
 
 🧠 *Ringkasan:*
-**Keputusan Kebun Hari Ini:**
-• **Pemupukan:** Tunda pemupukan karena hujan sedang hari ini (6,5 mm, peluang 90%) dan prakiraan hujan berlanjut hingga 9,3 mm pekan ini.
-• **Panen & Angkut:** Percepat panen dan pengangkutan; waspadai potensi kendala akses akibat debit air banjir yang meningkat (337,1 m³/s).
-• **Keamanan & Karhutla:** Pantau area kebun karena status karhutla waspada (titik api terdekat 42,4 km di selatan), walau udara saat ini baik (AQI 26).
-• **TBS & Pasokan:** Antisipasi penurunan pendapatan akibat harga TBS plasma turun ke Rp3.763/kg (-Rp294) dan swadaya Rp3.333/kg (-Rp1).
+Berikut ringkasan singkat untuk keputusan kebun dan investasi Anda hari ini:
 
-**Sentimen Pasar:**
-Sangat *bearish*; bursa saham global merosot tajam (QQQ -4,98%, VOO -2,71%), CPO anjlok 9% sepekan, dan USD/IDR berada di Rp18.103.
+**Keputusan Kebun Hari Ini:**
+* **Harga TBS & CPO:** Harga TBS Plasma Riau turun tajam ke Rp3.763/kg (-Rp294) dan Swadaya Rp3.333/kg (-Rp1), tertekan anjloknya harga CPO Malaysia/global hingga level terendah.
+* **Pemupukan:** **Tunda pemupukan.** Hujan sedang berpotensi tinggi (11,1 mm, peluang 99%) berlanjut hingga 12 Nov, ditambah status banjir TINGGI (debit 389,8 m³/s, terus naik).
+* **Panen & Angkut:** Antisipasi hambatan angkutan dan logistik panen akibat naiknya debit air banjir serta potensi akses jalan terganggu hujan.
+* **Keamanan Kebun:** Tetap siaga karhutla meski kualitas udara baik (AQI 47); titik terdekat berada 42,4 km di Pangkalan Kerinci.
+
+**Sentimen Pasar:** **Sangat Tertekan (Bearish)** — Anjloknya harga CPO global diperparah oleh penurunan tajam pasar saham AS/global (QQQ -4,98%, VOO -2,71%).
 
 🌴 *Harga TBS Riau (2026-11-06 s/d 2026-11-12)*
   Plasma: Rp3.763/kg (turun Rp294)
   Swadaya: Rp3.333/kg (turun Rp1)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO di bursa Malaysia mengalami penurunan tajam hingga 9% dalam sepekan, yang menjadi penurunan terburuk dalam kurun waktu hampir dua tahun terakhir.
-• Pemerintah Indonesia menetapkan HIP biodiesel untuk bulan November 2026 sebesar Rp14.312 per liter, sementara Kabupaten Dharmasraya memperjuangkan potensi dana peremajaan sawit rakyat senilai Rp103,43 miliar.
-• Perdana Menteri Malaysia menyatakan terbuka terhadap perekrutan tenaga kerja asing untuk pemanenan sawit dan berencana membawa usulan kemitraan antara perusahaan besar dan pekebun swadaya ke rapat Kabinet.
-• Industri kelapa sawit mengkhawatirkan ancaman kelebihan pasokan minyak sawit yang dapat menekan pabrik independen serta mewaspadai wacana pungutan ekspor oleh Danantara di Indonesia.
+• Harga CPO global dan Malaysia mengalami penurunan signifikan yang tertekan oleh pelemahan harga minyak kedelai dunia serta lonjakan stok persediaan di Malaysia.
+• Sektor perkebunan Malaysia menghadapi kendala kekurangan tenaga kerja migran untuk pemanenan FFB, namun Perdana Menteri Anwar Ibrahim menyatakan keterbukaannya untuk mempermudah perekrutan.
+• Di Indonesia, fokus tertuju pada usulan bantuan PSR di daerah, penguatan industri oleh GAPKI Sumut dan BPDP, serta kewaspadaan pelaku industri terhadap wacana pungutan ekspor oleh Danantara.
+• Dukungan terhadap petani swadaya terus didorong melalui desakan agar pembeli membayar kredit RSPO dengan harga wajar demi memperkuat kapasitas pekebun.
 
 🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 6.5 mm (peluang 90%), 23.8–27.8°C
-  Angin Utara 8.5 km/jam (hembusan 24.5)
+  Hujan lokal sedang, hujan 11.1 mm (peluang 99%), 23.6–29.2°C
+  Angin Tenggara 10.2 km/jam (hembusan 25.2)
   Prakiraan:
-  2026-11-09: 3.6 mm, 94%
-  2026-11-10: 9.3 mm, 90%
-  2026-11-11: 4.9 mm, 81%
+  2026-11-10: 11.1 mm, 82%
+  2026-11-11: 10.3 mm, 78%
+  2026-11-12: 6.3 mm, 75%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 337.1 m3/s, naik)
+  Banjir: Tinggi (debit 389.8 m3/s, naik)
   Karhutla: waspada — titik terdekat 42.4 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 26, Baik, berkabut tipis
+  Udara: AQI 47, Baik, cerah
 
 📈 *Pasar:*
   ▼ VOO (S&P 500): 675.99 (-2.71%)
   ▼ QQQ (Nasdaq 100): 656.10 (-4.98%)
   ▼ VEU (World ex-US): 79.25 (-1.64%)
-  💱 USD/SGD: 1.2825
-  💱 USD/IDR: 18.103
-  💱 SGD/IDR: 14.036
+  💱 USD/SGD: 1.2816
+  💱 USD/IDR: 18.004
+  💱 SGD/IDR: 14.044
 
 📰 *Berita sawit (Palm Pulse):*
-• Dharmasraya Perjuangkan Rp103 Miliar Lebih untuk Replanting 1.723 Hektare Kebun Sawit Rakyat — Kata Sumbar
-• Produksi Kedelai Uni Eropa Diproyeksi Turun 20% pada 2026, Ketergantungan Impor Meningkat — InfoSAWIT
-• Dharmasraya Kantongi Potensi Dana PSR Rp103,43 Miliar untuk 1.723 Hektare Sawit - PASBANA — Google News · Perkebunan (Bahasa)
-• Perjuangkan Peremajaan Sawit, Petani Dharmasraya Dapat Dukungan Rp103,43 Miliar - Langgam.id — Google News · Perkebunan (Bahasa)
-• Harga CPO Malaysia Anjlok 9% Sepekan pada 7 November 2026 - Demokratis.co.id — Google News · Malaysia (Bahasa)
-• Harga CPO Malaysia Anjlok 9 Persen pada 6 November 2026 - Koridor.co.id — Google News · Malaysia (Bahasa)
-• Malaysian palm oil planters face foreign worker shortages — Traders Union
-• Double cover: Malaysian planters brace for migrant worker shortage + Hong Leong Bank closes in on industry leadership across key metrics — The Edge Malaysia
+• Harga CPO Turun 2,03 Persen Tertekan Minyak Kedelai Global - cwibc.co.id — Google News · Malaysia (Bahasa)
+• Harga CPO Turun 2,20 Persen pada 5 November 2026 - cwibc.co.id — Google News · Malaysia (Bahasa)
+• Harga CPO Malaysia Anjlok 2,69%, Kontrak Januari 2027 Sentuh Level Terendah Sejak Maret — InfoSAWIT
+• Petani Dharmasraya Diusulkan Terima Bantuan PSR - RRI.co.id — Google News · Perkebunan (Bahasa)
+• Premi Sertifikasi RSPO Mesti Diinvestasikan Guna Memperkuat Petani Sawit Swadaya — InfoSAWIT
+• RSPO Dorong Anggota Beli Kredit Petani Sawit Berkelanjutan dengan Harga Wajar — InfoSAWIT
+• Gapki Sumut dan BPDP Perkuat Transformasi Industri Sawit Nasional - cwibc.co.id — Google News · Perkebunan (Bahasa)
+• Harga CPO Turun 1,14 Persen ke Level Terendah Sejak Juni - cwibc.co.id — Google News · Malaysia (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
