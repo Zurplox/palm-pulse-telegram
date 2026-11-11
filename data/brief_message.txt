@@ -1,56 +1,56 @@
-📰 *BRIEF PAGI* — 10 Nov 2026
+📰 *BRIEF PAGI* — 11 Nov 2026
 
 🧠 *Ringkasan:*
-Berikut ringkasan eksekutif untuk keputusan kebun dan investasi hari ini:
+Berikut ringkasan keputusan operasional dan pasar hari ini:
 
-**Keputusan Operasional Kebun:**
-*   **Panen & Angkut:** Segerakan panen dan percepat pengangkutan buah hari ini sebelum intensitas hujan meningkat (prakiraan mencapai 26 mm pada 13 Nov) serta untuk menghindari jalur terputus akibat status banjir yang tinggi dan terus naik (debit 392,6 m³/s).
-*   **Pemupukan:** Tunda pemupukan outdoor hari ini akibat potensi pencucian dari hujan lokal ringan (4,2 mm, peluang 100%) dan tingginya debit air banjir.
-*   **Harga TBS:** Antisipasi penurunan penerimaan akibat penurunan harga TBS Riau (Plasma turun Rp294 ke Rp3.763/kg; Swadaya turun Rp1 ke Rp3.333/kg).
+**Keputusan Kebun Hari Ini:**
+* **Pemupukan:** **TUNDA.** Terjadi badai petir dengan curah hujan 8,9 mm (peluang 90%) yang diprakirakan meningkat hingga 23,4 mm (13 Nov), berisiko tinggi membilas pupuk.
+* **Panen & Angkut:** **PERCEPAT.** Segera panen dan distribusikan TBS untuk memanfaatkan harga Plasma (Rp3.787/kg) sebelum curah hujan memuncak dan memperburuk banjir (debit air agak tinggi, 399,9 m³/s).
+* **Kondisi Lapangan:** Karhutla aman (titik terdekat 109,8 km) dan kualitas udara baik (AQI 22), namun cermati dinamika ketimpangan harga TBS swadaya di Riau.
 
-**Sentimen Pasar:** 
-Pasar sawit tertekan oleh *supply overhang* CPO di bawah RM4.300/ton dan pemotongan pungutan ekspor, di tengah pergerakan saham global yang bervariasi (VOO +0,08%, QQQ -0,26%, USD/IDR 18.039).
+**Sentimen Pasar:**
+Cenderung tertekan; pasar saham AS melemah (QQQ -1,54%), CPO berjangka terbebani rekor lonjakan stok Malaysia, dengan USD/IDR berada di 18.012.
 
-🌴 *Harga TBS Riau (2026-11-06 s/d 2026-11-12)*
-  Plasma: Rp3.763/kg (turun Rp294)
-  Swadaya: Rp3.333/kg (turun Rp1)
+🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-17)*
+  Plasma: Rp3.787/kg
+  Swadaya: Rp3.506/kg (naik Rp24)
 
 🧭 *Ringkasan Palm Pulse:*
-• Sektor kelapa sawit menghadapi dinamika pasar dengan penurunan harga minyak sawit mentah (CPO) di bawah RM4.300 per ton akibat kelebihan pasokan, menjelang rilis laporan bulanan MPOB.
-• Indonesia terus mendorong peningkatan produktivitas melalui program Peremajaan Sawit Rakyat (PSR), efisiensi panen, fasilitas pembukaan lahan tanpa bakar, serta keberlanjutan lewat sertifikasi RSPO dan pemanfaatan minyak jelantah untuk biodiesel.
-• Malaysia mempertimbangkan rekrutmen tenaga kerja asing untuk pemanenan sawit dan peningkatan mekanisasi, sembari meninjau ulang mandat 1 persen bahan bakar penerbangan berkelanjutan (SAF).
-• GAPKI menegaskan pencapaian target produktivitas sawit sebesar 4 ton per hektare sangat bergantung pada percepatan program Peremajaan Sawit Rakyat (PSR).
+• Stok minyak sawit Malaysia dilaporkan melonjak mencapai rekor baru seiring peningkatan produksi, yang memberikan tekanan pada harga CPO di bursa berjangka.
+• Di Indonesia, terjadi ketimpangan penetapan harga TBS di Provinsi Riau di mana harga petani mitra plasma naik sedangkan harga petani swadaya mengalami penurunan.
+• GAPKI mengusulkan kebijakan biodiesel fleksibel agar pasokan CPO untuk pangan, ekspor, dan kesejahteraan petani tetap seimbang.
+• Asosiasi petani seperti APKASINDO terus menyoroti tantangan regulasi EUDR serta produktivitas sawit rakyat yang masih tertinggal dibanding perkebunan negara.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal ringan, hujan 4.2 mm (peluang 100%), 23–30.3°C
-  Angin Barat 10.6 km/jam (hembusan 23)
+⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Badai petir, hujan 8.9 mm (peluang 90%), 23.8–28.6°C
+  Angin Barat Laut 8.9 km/jam (hembusan 20.2)
   Prakiraan:
-  2026-11-11: 7.4 mm, 86%
-  2026-11-12: 11.3 mm, 91%
-  2026-11-13: 26 mm, 82%
+  2026-11-12: 7.8 mm, 82%
+  2026-11-13: 23.4 mm, 83%
+  2026-11-14: 9.1 mm, 82%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Tinggi (debit 392.6 m3/s, naik)
-  Karhutla: aman
-  Udara: AQI 27, Baik, cerah
+  Banjir: Agak tinggi (debit 399.9 m3/s, stabil)
+  Karhutla: aman — titik terdekat 109.8 km barat laut (Dumai Timur, Riau)
+  Udara: AQI 22, Baik, cerah
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 691.87 (+0.08%)
-  ▼ QQQ (Nasdaq 100): 679.35 (-0.26%)
-  ▲ VEU (World ex-US): 81.47 (+0.75%)
-  💱 USD/SGD: 1.2783
-  💱 USD/IDR: 18.039
-  💱 SGD/IDR: 14.114
+  ▼ VOO (S&P 500): 689.50 (-0.58%)
+  ▼ QQQ (Nasdaq 100): 674.76 (-1.54%)
+  ▲ VEU (World ex-US): 80.92 (+0.51%)
+  💱 USD/SGD: 1.2813
+  💱 USD/IDR: 18.012
+  💱 SGD/IDR: 14.061
 
 📰 *Berita sawit (Palm Pulse):*
-• Tarik Investasi Rp155 Miliar, PT Kalidareh Dharma Agro Groundbreaking Pabrik Kelapa Sawit di Dharmasraya — Sawit Indonesia
-• Indigenous Papuans warn of wildlife loss as oil palms rise through West Papua — National Indigenous Times
-• Petani Sawit Dorong Mitigasi Karhutla, Pemerintah Diminta Sediakan Sarana Pembukaan Lahan Tanpa Bakar - sawitsetara.co — Google News · Perkebunan (Bahasa)
-• SMILE Tingkatkan Target Sertifikasi RSPO menjadi 7.000 Petani Sawit Swadaya — InfoSAWIT
-• CPO Supply Overhang Could Curb Price Rise, Improvement Seen In 2027 — BusinessToday Malaysia
-• GAPKI: Target Produktivitas Sawit 4 Ton per Hektare Bergantung pada Percepatan PSR - sawitsetara.co — Google News · Perkebunan (Bahasa)
-• Pungutan Ekspor CPO Pangkas USD61 per Ton: Pilih Devisa Ekspor Dolar atau Penghematan Impor Solar B50? — Sawit Indonesia
-• UBSI Latih UMKM PKK Pondok Ranggon Kelola Keuangan Digital melalui Aplikasi Buku Kas — InfoSAWIT
+• Reminder on the Key changes in the Shared Responsibility CSPO Uptake Target 2026 — RSPO
+• Berbanding Terbalik dengan Mitra Plasma, Harga TBS Swadaya Riau Pekan Ini Turun Jadi Rp3.719,99 Per Kg — Sawit Indonesia
+• Produktivitas Sawit Rakyat Tertinggal, Kesenjangan dengan Perkebunan Negara Capai 1,5 Ton CPO per Hektare - sawitsetara.co — Google News · Perkebunan (Bahasa)
+• Menghadap DEN: APKASINDO Soroti EUDR dan Ketimpangan Harga TBS, Petani Swadaya Terancam Dirugikan - sawitsetara.co — Google News · Bahasa
+• Harga TBS Sawit Riau Naik Rp24,18 Per Kg, Umur 9 Tahun Tembus Rp3.786,79 — Sawit Indonesia
+• Why Authorities Raze 11,180 Oil Palm Trees in Kalimantan Wildlife Reserve — Tempo.co English
+• Biodiesel Fleksibel Jelang IPOC 2026 — GAPKI (Bahasa)
+• Palm Oil Market Update: MDEX Futures Under Pressure, Outlook Mixed — CMB News
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
