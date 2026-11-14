@@ -1,55 +1,54 @@
-📰 *BRIEF PAGI* — 13 Nov 2026
+📰 *BRIEF PAGI* — 14 Nov 2026
 
 🧠 *Ringkasan:*
-**Brief Pagi Kebun Sawit Riau (12 Nov 2026)**
+**Keputusan Kebun Hari Ini:**
+• **Pemupukan:** Tunda/evaluasi pemupukan karena hujan lokal lebat (15,6 mm, peluang 100%) dan potensi hujan tinggi berlanjut hingga 17 November (hingga 22,5 mm).
+• **Panen & Angkut:** Waspadai gangguan operasional panen dan jalur angkut akibat kenaikan debit banjir (542,2 m³/s, status agak tinggi) serta hembusan angin hingga 27,7 km/jam.
+• **Operasional & TBS:** Pantau harga TBS Riau (Plasma Rp3.787/kg; Swadaya Rp3.424/kg, turun Rp1) dan pertahankan kewaspadaan Karhutla (titik terdekat 42,2 km di Pelalawan).
 
-• **Panen & Angkut:** Waspada banjir (debit air naik, agak tinggi) dan curah hujan tinggi (11.2–19 mm); pastikan evakuasi TBS lancar dan tunda angkut jika akses tergenang.
-• **Pemupukan:** Tunda aplikasi pupuk karena peluang hujan sangat tinggi (hingga 94%) guna menghindari pencucian hara.
-• **Harga TBS:** Manfaatkan harga tbs stabil tinggi (Plasma Rp3.787/kg, Swadaya Rp3.448/kg) di tengah sentimen pasar global yang positif.
-• **Karhutla:** Aman (titik terdekat 109 km di Dumai), kualitas udara baik (AQI 45).
-
-Sentimen Pasar: **Bullish** (didorong lonjakan harga CPO Malaysia ke 4.679 Ringgit akibat pengetatan pasokan minyak nabati global).
+**Sentimen Pasar:**
+Positif; bursa global naik (VOO +2,57%, QQQ +3,63%) dan harga CPO terdukung penguatan minyak nabati pesaing serta kekhawatiran ketatnya pasokan global.
 
 🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-17)*
   Plasma: Rp3.787/kg
-  Swadaya: Rp3.448/kg
+  Swadaya: Rp3.424/kg (turun Rp1)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO di Bursa Malaysia melonjak hingga menyentuh 4.679 Ringgit per ton yang didorong oleh pengetatan pasokan minyak bunga matahari dunia.
-• Konferensi IPOC 2026 di Nusa Dua menghimpun 1.500 peserta dari 20 negara dengan fokus utama pada ketahanan pangan, energi, dan isu geopolitik global.
-• Pemerintah Malaysia menurunkan harga referensi CPO bulan Desember tetapi mempertahankan bea keluar sebesar 10 persen, serta menyiapkan subsidi minyak goreng RM15 juta per bulan.
-• Pemerintah daerah di Indonesia seperti Nunukan mempercepat penerbitan STDB bagi pekebun rakyat melalui pelatihan pendataan berbasis GPS.
+• Industri kelapa sawit global menghadapi dinamika ketat sepanjang tahun 2026, ditandai oleh transisi kebijakan ekspor baru di Indonesia, kekhawatiran pasokan akibat rencana mandatori biodiesel yang lebih tinggi, serta tekanan produksi akibat faktor cuaca.
+• Harga CPO saat ini mendapatkan dukungan dari penguatan harga minyak nabati pesaing di pasar global, meski para pekebun di berbagai wilayah tetap menghadapi risiko fluktuasi pasar dan tekanan stok berlebih.
+• PT Danatara Sumberdaya Indonesia (DSI) menyiapkan biaya layanan satu digit dolar untuk sistem perdagangan ekspor sawit baru yang dijadwalkan berlaku efektif mulai 1 Januari 2027, dengan penegasan bahwa mekanisme pasar tidak akan diubah melainkan difokuskan untuk memperkuat transparansi.
+• Pemerintah menghitung ulang risiko penerapan mandatori B50 pada tahun 2027 karena dikhawatirkan dapat mengancam pasokan sawit domestik serta perekonomian global, sementara produksi sawit nasional pada tahun 2026 diproyeksikan mencapai sekitar 60 juta ton.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 11.2 mm (peluang 94%), 23.9–31.1°C
-  Angin Barat Daya 9.2 km/jam (hembusan 22)
+⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal lebat, hujan 15.6 mm (peluang 100%), 24.1–29°C
+  Angin Selatan 13.4 km/jam (hembusan 27.7)
   Prakiraan:
-  2026-11-14: 19 mm, 90%
-  2026-11-15: 10.8 mm, 82%
-  2026-11-16: 18.7 mm, 94%
+  2026-11-15: 22.5 mm, 100%
+  2026-11-16: 21 mm, 98%
+  2026-11-17: 20.1 mm, 82%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 486.5 m3/s, naik)
-  Karhutla: aman — titik terdekat 109.8 km barat laut (Dumai Timur, Riau)
-  Udara: AQI 45, Baik, berkabut tipis
+  Banjir: Agak tinggi (debit 542.2 m3/s, naik)
+  Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
+  Udara: AQI 61, Sedang, cerah
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 696.00 (+3.27%)
-  ▲ QQQ (Nasdaq 100): 688.17 (+6.35%)
-  ▲ VEU (World ex-US): 80.96 (+2.35%)
-  💱 USD/SGD: 1.2863
-  💱 USD/IDR: 18.063
-  💱 SGD/IDR: 14.045
+  ▲ VOO (S&P 500): 693.38 (+2.57%)
+  ▲ QQQ (Nasdaq 100): 679.89 (+3.63%)
+  ▲ VEU (World ex-US): 80.91 (+2.09%)
+  💱 USD/SGD: 1.2877
+  💱 USD/IDR: 18.149
+  💱 SGD/IDR: 14.095
 
 📰 *Berita sawit (Palm Pulse):*
-• IPOC 2026 Hadirkan 1.500 Peserta dari 20 Negara, Ketahanan Pangan dan Energi Jadi Sorotan Industri Sawit — InfoSAWIT
-• The Haze Trap and Corporate Scapegoats — Sawit Indonesia
-• Website — Pemkab Padang Pariaman
-• Impor Kedelai China Anjlok 22,5% pada Oktober 2026, Terendah dalam Tiga Tahun — InfoSAWIT
-• Harga CPO Melonjak di Bursa Malaysia hingga 4.679 Ringgit - Koridor.co.id — Google News · Malaysia (Bahasa)
-• Harga CPO Malaysia Melonjak hingga 4.679 Ringgit per Ton - Demokratis.co.id — Google News · Malaysia (Bahasa)
-• Higher exports to catalyse CPO rebound in 2027 — KLSE Screener
-• Harga CPO KPBN Inacom Withdraw (WD) Pada Rabu (11/11/2026), Perdagangan Minyak Sawit di Bursa Malaysia Melonjak — InfoSAWIT
+• IPOC 2026: DSI Siapkan Biaya Layanan Satu Digit Dolar, Sistem Perdagangan Ekspor Sawit Berlaku 1 Januari 2027 — InfoSAWIT
+• Kementerian Koordinator Bidang Perekonomian Republik Indonesia - — Kementerian Koordinator Bidang Perekonomian Republik Indonesia
+• Harga TBS Sawit Sumut Periode 11–17 November 2026, Umur 10–20 Tahun Rp3.685,69 per Kg — InfoSAWIT
+• DSI Tegaskan Tidak Mengubah Mekanisme Pasar Sawit, Fokus Perkuat Transparansi Ekspor Indonesia — InfoSAWIT
+• Kebijakan B50 Ancam Pasokan Sawit dan Ekonomi Global - agrofarm.co.id — Google News · Kebijakan (Bahasa)
+• Geopolitik Memanas, Wamenlu Ingatkan Strategi Baru Industri Sawit di Indonesia — InfoSAWIT
+• Pemerintah Hitung Ulang Risiko Penerapan Mandatori B50 pada 2027 - kontan.co.id — Google News · Kebijakan (Bahasa)
+• Intensifikasi Lahan Dapat Menahan Penurunan Produksi Sawit RI - Kompas.id — Google News · Perkebunan (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
