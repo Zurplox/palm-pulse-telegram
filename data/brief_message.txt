@@ -1,54 +1,55 @@
-📰 *BRIEF PAGI* — 14 Nov 2026
+📰 *BRIEF PAGI* — 15 Nov 2026
 
 🧠 *Ringkasan:*
+Berikut ringkasan singkat untuk keputusan hari ini:
+
 **Keputusan Kebun Hari Ini:**
-• **Pemupukan:** Tunda/evaluasi pemupukan karena hujan lokal lebat (15,6 mm, peluang 100%) dan potensi hujan tinggi berlanjut hingga 17 November (hingga 22,5 mm).
-• **Panen & Angkut:** Waspadai gangguan operasional panen dan jalur angkut akibat kenaikan debit banjir (542,2 m³/s, status agak tinggi) serta hembusan angin hingga 27,7 km/jam.
-• **Operasional & TBS:** Pantau harga TBS Riau (Plasma Rp3.787/kg; Swadaya Rp3.424/kg, turun Rp1) dan pertahankan kewaspadaan Karhutla (titik terdekat 42,2 km di Pelalawan).
+*   **Pemupukan: TUNDA.** Terjadi badai petir dan hujan lebat (23,9 mm, peluang 94%) yang diprakirakan berlanjut hingga 18 November, berisiko tinggi mencuci pupuk.
+*   **Panen & Pengangkutan: WASPADA EXTREME.** Risiko banjir **Sangat Tinggi** (debit air 828,9 m³/s dan terus naik). Amankan jalur logistik armada dan percepat evakuasi TBS dari areal rawan genangan.
+*   **Pemasaran TBS:** Harga TBS Riau turun (Plasma Rp3.763/kg; Swadaya Rp3.242/kg). Jaga kualitas TBS yang dipanen untuk meminimalkan potongan harga di tengah tekanan lokal.
 
-**Sentimen Pasar:**
-Positif; bursa global naik (VOO +2,57%, QQQ +3,63%) dan harga CPO terdukung penguatan minyak nabati pesaing serta kekhawatiran ketatnya pasokan global.
+**Sentimen Pasar:** **Positif (Bullish).** Bursa CPO Malaysia terus menguat akibat ekspektasi pengetatan pasokan El Nino (proyeksi 4.500–5.000 MYR/ton) seiring penguatan pasar saham global (VOO +2,57%, QQQ +3,63%).
 
-🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-17)*
-  Plasma: Rp3.787/kg
-  Swadaya: Rp3.424/kg (turun Rp1)
+🌴 *Harga TBS Riau (2026-11-13 s/d 2026-11-19)*
+  Plasma: Rp3.763/kg (turun Rp147)
+  Swadaya: Rp3.242/kg (turun Rp103)
 
 🧭 *Ringkasan Palm Pulse:*
-• Industri kelapa sawit global menghadapi dinamika ketat sepanjang tahun 2026, ditandai oleh transisi kebijakan ekspor baru di Indonesia, kekhawatiran pasokan akibat rencana mandatori biodiesel yang lebih tinggi, serta tekanan produksi akibat faktor cuaca.
-• Harga CPO saat ini mendapatkan dukungan dari penguatan harga minyak nabati pesaing di pasar global, meski para pekebun di berbagai wilayah tetap menghadapi risiko fluktuasi pasar dan tekanan stok berlebih.
-• PT Danatara Sumberdaya Indonesia (DSI) menyiapkan biaya layanan satu digit dolar untuk sistem perdagangan ekspor sawit baru yang dijadwalkan berlaku efektif mulai 1 Januari 2027, dengan penegasan bahwa mekanisme pasar tidak akan diubah melainkan difokuskan untuk memperkuat transparansi.
-• Pemerintah menghitung ulang risiko penerapan mandatori B50 pada tahun 2027 karena dikhawatirkan dapat mengancam pasokan sawit domestik serta perekonomian global, sementara produksi sawit nasional pada tahun 2026 diproyeksikan mencapai sekitar 60 juta ton.
+• Perdagangan CPO di Bursa Malaysia menguat ditopang ekspektasi pengetatan pasokan akibat fenomena El Nino, dengan analis memproyeksikan harga bertahan kuat pada kisaran 4.500 hingga 5.000 Ringgit per ton hingga April.
+• Pemerintah Indonesia terus mendorong program hilirisasi dan penyiapan sistem ketertelusuran untuk menghadapi aturan EUDR, di tengah proyeksi penurunan volume ekspor jangka panjang dan rencana implementasi kebijakan B50.
+• Di tingkat tapak, pekebun sawit menghadapi tekanan ganda berupa penurunan harga TBS di beberapa daerah serta tingginya beban teknis dan biaya untuk memenuhi standar keberlanjutan Eropa.
+• Bappenas mendorong percepatan hilirisasi industri sawit, peningkatan produktivitas kebun, serta inovasi teknologi untuk meningkatkan nilai tambah nasional.
 
 ⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal lebat, hujan 15.6 mm (peluang 100%), 24.1–29°C
-  Angin Selatan 13.4 km/jam (hembusan 27.7)
+  Badai petir, hujan 23.9 mm (peluang 94%), 24.2–28°C
+  Angin Utara 10.2 km/jam (hembusan 23)
   Prakiraan:
-  2026-11-15: 22.5 mm, 100%
-  2026-11-16: 21 mm, 98%
-  2026-11-17: 20.1 mm, 82%
+  2026-11-16: 18.8 mm, 100%
+  2026-11-17: 14.3 mm, 90%
+  2026-11-18: 28 mm, 89%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 542.2 m3/s, naik)
+  Banjir: Sangat tinggi (debit 828.9 m3/s, naik)
   Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 61, Sedang, cerah
+  Udara: AQI 51, Sedang, berkabut tipis
 
 📈 *Pasar:*
   ▲ VOO (S&P 500): 693.38 (+2.57%)
   ▲ QQQ (Nasdaq 100): 679.89 (+3.63%)
   ▲ VEU (World ex-US): 80.91 (+2.09%)
   💱 USD/SGD: 1.2877
-  💱 USD/IDR: 18.149
+  💱 USD/IDR: 18.190
   💱 SGD/IDR: 14.095
 
 📰 *Berita sawit (Palm Pulse):*
-• IPOC 2026: DSI Siapkan Biaya Layanan Satu Digit Dolar, Sistem Perdagangan Ekspor Sawit Berlaku 1 Januari 2027 — InfoSAWIT
-• Kementerian Koordinator Bidang Perekonomian Republik Indonesia - — Kementerian Koordinator Bidang Perekonomian Republik Indonesia
-• Harga TBS Sawit Sumut Periode 11–17 November 2026, Umur 10–20 Tahun Rp3.685,69 per Kg — InfoSAWIT
-• DSI Tegaskan Tidak Mengubah Mekanisme Pasar Sawit, Fokus Perkuat Transparansi Ekspor Indonesia — InfoSAWIT
-• Kebijakan B50 Ancam Pasokan Sawit dan Ekonomi Global - agrofarm.co.id — Google News · Kebijakan (Bahasa)
-• Geopolitik Memanas, Wamenlu Ingatkan Strategi Baru Industri Sawit di Indonesia — InfoSAWIT
-• Pemerintah Hitung Ulang Risiko Penerapan Mandatori B50 pada 2027 - kontan.co.id — Google News · Kebijakan (Bahasa)
-• Intensifikasi Lahan Dapat Menahan Penurunan Produksi Sawit RI - Kompas.id — Google News · Perkebunan (Bahasa)
+• Harga CPO di Bursa Malaysia Naik Tiga Hari Beruntun, Ancaman El Nino Jadi Sentimen Pasar - TOPIK.ID — Google News · Malaysia (Bahasa)
+• Harga CPO Menguat Tiga Hari Ditopang Ekspektasi El Nino - Koridor.co.id — Google News · Malaysia (Bahasa)
+• Harga TBS Sawit Jambi Periode 13–19 November 2026 Turun Rp102,85 per Kg — InfoSAWIT
+• Proyeksi 2027: Ekspor Minyak Sawit Indonesia Diperkirakan Turun 12,27% Menjadi 29,73 Juta Ton — GAPKI (Bahasa)
+• Harga CPO KPBN Inacom Withdraw Pada Jumat (13/11/2026), Perdagangan Minyak Sawit di Bursa Malaysia Menguat — InfoSAWIT
+• Pasar Sawit India Berubah, Pasokan Malaysia Kini Ungguli Indonesia — Pikiran Rakyat Koran
+• Pengamat Geopolitik Wanti-Wanti Pemerintah soal Kebijakan Ekspor CPO, Mengapa? - Iconomics — Google News · Kebijakan (Bahasa)
+• Pasokan Mengetat Tersebab El Nino, Harga CPO Diproyeksi Capai 5.000 Ringgit pada Pertengahan 2027 - elaeis.co — Google News · Malaysia (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
