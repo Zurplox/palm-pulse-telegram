@@ -1,55 +1,56 @@
-📰 *BRIEF PAGI* — 16 Nov 2026
+📰 *BRIEF PAGI* — 17 Nov 2026
 
 🧠 *Ringkasan:*
-**Keputusan Kebun Hari Ini:**
+Berikut brief pagi untuk keputusan kebun dan investasi Anda hari ini:
 
-* **Tunda pemupukan:** Curah hujan hari ini mencapai 15,3 mm (peluang 100%) dan diprakirakan berlanjut hingga lusa, berisiko tinggi mencuci pupuk.
-* **Percepat angkut TBS:** Status banjir berada pada level Sangat Tinggi (debit 860 m³/s dan naik); segera evakuasi buah dari blok rawan sebelum akses jalan terputus.
-* **Kawal panen dan realisasi TBS:** Amankan jadwal panen meski harga TBS Riau turun (Plasma Rp3.763/kg, Swadaya Rp3.242/kg) guna menghindari pembusukan buah akibat genangan.
+**Keputusan Kebun Hari Ini:**
+* **Panen & Angkut:** Kumpulkan hasil panen (Harga Riau: Plasma Rp3.787/kg, Swadaya Rp3.720/kg) dan percepat pengangkutan; antisipasi gangguan logistik akibat kondisi banjir status **Tinggi** (debit 817,5 m³/s).
+* **Pemupukan:** **Tunda pemupukan** akibat curah hujan tinggi (11,7 mm, peluang 98%) yang diproyeksikan berlanjut hingga 20 November (9,3–12,1 mm/hari).
+* **Mitigasi:** Tetap siaga karhutla karena ada titik waspada berjarak 42,2 km di Pangkalan Kerinci, Pelalawan, walau kondisi udara saat ini baik (AQI 23).
 
 **Sentimen Pasar:**
-Ekuitas global reli kuat (VOO +2,57%, QQQ +3,63%) dan bursa CPO Malaysia menguat, kendati pasar domestik tertekan koreksi harga TBS lokal dan pelemahan rupiah (USD/IDR 18.149).
+Pasar saham global terkoreksi (VOO -1,68%, QQQ -2,59%), USD/IDR di level 18.255, sementara kenaikan harga berjangka CPO cenderung tertahan oleh tingginya stok minyak sawit.
 
-🌴 *Harga TBS Riau (2026-11-13 s/d 2026-11-19)*
-  Plasma: Rp3.763/kg (turun Rp147)
-  Swadaya: Rp3.242/kg (turun Rp103)
+🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-17)*
+  Plasma: Rp3.787/kg
+  Swadaya: Rp3.720/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Industri kelapa sawit menghadapi dinamika penguatan regulasi perdagangan ekspor, persiapan mandatori B50, serta pengetatan pasokan global menuju 2027.
-• Pemerintah Indonesia memperketat tata kelola ekspor sawit dan menegaskan aturan tanpa toleransi untuk kebakaran lahan, sementara GAPKI menuntut penanganan karhutla berbasis verifikasi fakta.
-• Penguatan harga CPO berpotensi terjadi akibat proyeksi penurunan ekspor dunia, meskipun pergerakan harga TBS di tingkat pekebun daerah masih bervariasi.
-• Pemerintah melalui Kementerian ESDM sedang mematangkan skema teknis, infrastruktur, dan pembiayaan biodiesel B50, sementara para pakar mengingatkan pentingnya memperhitungkan risiko terhadap ekspor, anggaran negara, dan lingkungan.
+• Tingginya stok minyak sawit dan proyeksi penurunan produksi global hingga tahun 2027 menjadi perhatian utama industri sawit saat ini.
+• Rencana penerapan kebijakan B50 di Indonesia diproyeksikan memperketat pasokan minyak nabati dunia dan berpotensi menurunkan volume ekspor nasional.
+• Industri sawit terus didorong untuk meningkatkan produktivitas, memperkuat hilirisasi berkelanjutan, serta menyesuaikan standar kualitas terhadap aturan baru pasar ekspor seperti Tiongkok dan Uni Eropa.
+• PTPN IV PalmCo memanfaatkan limbah cair POME menjadi sumber energi hijau guna mendukung hilirisasi dan mengejar target penurunan emisi hingga 71 persen.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 15.3 mm (peluang 100%), 23.8–28.9°C
-  Angin Barat Laut 9.7 km/jam (hembusan 25.9)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal ringan, hujan 11.7 mm (peluang 98%), 24–29.7°C
+  Angin Barat Laut 8.7 km/jam (hembusan 19.1)
   Prakiraan:
-  2026-11-17: 13.3 mm, 90%
-  2026-11-18: 19.4 mm, 89%
-  2026-11-19: 7.8 mm, 85%
+  2026-11-18: 10.5 mm, 90%
+  2026-11-19: 9.3 mm, 84%
+  2026-11-20: 12.1 mm, 78%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Sangat tinggi (debit 860 m3/s, naik)
+  Banjir: Tinggi (debit 817.5 m3/s, stabil)
   Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 34, Baik, cerah
+  Udara: AQI 23, Baik, cerah
 
 📈 *Pasar:*
-  ▲ VOO (S&P 500): 693.38 (+2.57%)
-  ▲ QQQ (Nasdaq 100): 679.89 (+3.63%)
-  ▲ VEU (World ex-US): 80.91 (+2.09%)
-  💱 USD/SGD: 1.2881
-  💱 USD/IDR: 18.149
-  💱 SGD/IDR: 14.093
+  ▼ VOO (S&P 500): 680.26 (-1.68%)
+  ▼ QQQ (Nasdaq 100): 661.75 (-2.59%)
+  ▼ VEU (World ex-US): 79.35 (-2.6%)
+  💱 USD/SGD: 1.2883
+  💱 USD/IDR: 18.255
+  💱 SGD/IDR: 14.171
 
 📰 *Berita sawit (Palm Pulse):*
-• GAPKI Minta Penanganan Kasus Kebakaran Lahan Sawit Berdasarkan Verifikasi dan Proses Hukum — InfoSAWIT
-• MPOB: Pasokan CPO Malaysia Masih Aman, Dampak El Nino Berpotensi Terasa Tahun Depan — InfoSAWIT
-• Pakar: Kebijakan B50 Harus Hitung Risiko Ekspor, Fiskal, dan Lingkungan — InfoSAWIT
-• Harga TBS Sawit Jambi Periode 13–19 November 2026 Turun Rp102,85 per Kg — InfoSAWIT
-• Harga CPO KPBN Inacom Withdraw Pada Jumat (13/11/2026), Perdagangan Minyak Sawit di Bursa Malaysia Menguat — InfoSAWIT
-• Oil World Prediksi Ekspor Minyak Sawit Dunia Turun 3 Juta Ton pada 2027, Harga Berpotensi Menguat — InfoSAWIT
-• JAC Motors Tampilkan Kendaraan Listrik Trekker T9 EV di IPOC 2026, Sasar Kebutuhan Armada Perkebunan Sawit — InfoSAWIT
-• GAPKI Minta Regulasi Sawit Stabil, Kepastian B50 dan Akses Pasar Global Jadi Kunci 2027 — InfoSAWIT
+• Helping elephants keep to their lanes: Can palm oil millions save Borneo’s forest and wildlife? — Asia News Network
+• PTPN IV PalmCo Kembangkan POME Jadi Energi, Perkuat Hilirisasi dan Target Penurunan Emisi 71 Persen — InfoSAWIT
+• China’s edible oil contaminant control standards need reviewing — KLSE Screener
+• High palm oil stocks expected to cap futures gains — KLSE Screener
+• Pemprov Kalsel tetapkan harga TBS sawit mitra Rp3.542 per kilogram — ANTARA News
+• Sabah oil palm smallholders urged to adopt AI, digital tech — Daily Express Malaysia
+• Malaysian palm oil production expected to decline in November - UkrAgroConsult — Google News · Malaysia
+• Perjanjian Dagang Indonesia-Uni Eropa Bisa Perkuat Posisi Sawit di Pasar Eropa — InfoSAWIT
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
