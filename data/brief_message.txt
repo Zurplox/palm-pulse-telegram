@@ -1,56 +1,53 @@
-📰 *BRIEF PAGI* — 17 Nov 2026
+📰 *BRIEF PAGI* — 18 Nov 2026
 
 🧠 *Ringkasan:*
-Berikut brief pagi untuk keputusan kebun dan investasi Anda hari ini:
+• **Panen & Angkut:** Potensi hujan sedang (14-18 mm) dan risiko banjir agak tinggi (debit 784.2 m³/s) memerlukan pengawasan ketat pada akses logistik dan pengangkutan TBS.
+• **Pemupukan:** Tunda aplikasi pupuk karena curah hujan tinggi (peluang 92-94%) untuk menghindari pencucian hara.
+• **Operasional Kebun:** Tetap waspada karhutla meski titik terdekat 42.2 km (Pangkalan Kerinci) dengan kualitas udara saat ini baik (AQI 18).
+• **Harga TBS Riau:** Periode ini turun (Plasma Rp3.763/kg, Swadaya Rp3.720/kg).
 
-**Keputusan Kebun Hari Ini:**
-* **Panen & Angkut:** Kumpulkan hasil panen (Harga Riau: Plasma Rp3.787/kg, Swadaya Rp3.720/kg) dan percepat pengangkutan; antisipasi gangguan logistik akibat kondisi banjir status **Tinggi** (debit 817,5 m³/s).
-* **Pemupukan:** **Tunda pemupukan** akibat curah hujan tinggi (11,7 mm, peluang 98%) yang diproyeksikan berlanjut hingga 20 November (9,3–12,1 mm/hari).
-* **Mitigasi:** Tetap siaga karhutla karena ada titik waspada berjarak 42,2 km di Pangkalan Kerinci, Pelalawan, walau kondisi udara saat ini baik (AQI 23).
+**Sentimen Pasar:** Mixed (Harga CPO domestik KPBN naik ke Rp14.600/kg di tengah pelemahan bursa global dan proyeksi kebijakan B50).
 
-**Sentimen Pasar:**
-Pasar saham global terkoreksi (VOO -1,68%, QQQ -2,59%), USD/IDR di level 18.255, sementara kenaikan harga berjangka CPO cenderung tertahan oleh tingginya stok minyak sawit.
-
-🌴 *Harga TBS Riau (2026-11-11 s/d 2026-11-17)*
-  Plasma: Rp3.787/kg
-  Swadaya: Rp3.720/kg
+🌴 *Harga TBS Riau (2026-11-13 s/d 2026-11-19)*
+  Plasma: Rp3.763/kg (turun Rp147)
+  Swadaya: Rp3.720/kg (turun Rp67)
 
 🧭 *Ringkasan Palm Pulse:*
-• Tingginya stok minyak sawit dan proyeksi penurunan produksi global hingga tahun 2027 menjadi perhatian utama industri sawit saat ini.
-• Rencana penerapan kebijakan B50 di Indonesia diproyeksikan memperketat pasokan minyak nabati dunia dan berpotensi menurunkan volume ekspor nasional.
-• Industri sawit terus didorong untuk meningkatkan produktivitas, memperkuat hilirisasi berkelanjutan, serta menyesuaikan standar kualitas terhadap aturan baru pasar ekspor seperti Tiongkok dan Uni Eropa.
-• PTPN IV PalmCo memanfaatkan limbah cair POME menjadi sumber energi hijau guna mendukung hilirisasi dan mengejar target penurunan emisi hingga 71 persen.
+• Harga CPO domestik KPBN Inacom mencatatkan kenaikan hingga Rp14.600 per kg, berbanding terbalik dengan bursa Malaysia dan Tiongkok yang justru mengalami pelemahan.
+• Pelaksanaan kebijakan B50 di Indonesia diproyeksikan bakal menekan pasokan CPO untuk pasar global dan berpotensi menurunkan volume ekspor sawit nasional.
+• Meskipun impor minyak sawit oleh India mencapai rekor tertinggi, melimpahnya persediaan stok serta krisis penyimpanan di Sarawak masih menekan pergerakan harga global.
+• Produksi minyak sawit dunia diproyeksikan berpotensi turun sekitar 3 juta ton pada tahun 2027 akibat El Nino, yang diprediksi dapat mendongkrak harga CPO.
 
-🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal ringan, hujan 11.7 mm (peluang 98%), 24–29.7°C
-  Angin Barat Laut 8.7 km/jam (hembusan 19.1)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal sedang, hujan 15.5 mm (peluang 92%), 24.3–30°C
+  Angin Barat Laut 8.8 km/jam (hembusan 22)
   Prakiraan:
-  2026-11-18: 10.5 mm, 90%
-  2026-11-19: 9.3 mm, 84%
-  2026-11-20: 12.1 mm, 78%
+  2026-11-19: 14.2 mm, 94%
+  2026-11-20: 18.9 mm, 93%
+  2026-11-21: 10.3 mm, 94%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Tinggi (debit 817.5 m3/s, stabil)
+  Banjir: Agak tinggi (debit 784.2 m3/s, stabil)
   Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Pelalawan, Riau)
-  Udara: AQI 23, Baik, cerah
+  Udara: AQI 18, Baik, cerah
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 680.26 (-1.68%)
-  ▼ QQQ (Nasdaq 100): 661.75 (-2.59%)
-  ▼ VEU (World ex-US): 79.35 (-2.6%)
-  💱 USD/SGD: 1.2883
-  💱 USD/IDR: 18.255
-  💱 SGD/IDR: 14.171
+  ▼ VOO (S&P 500): 673.19 (-2.37%)
+  ▼ QQQ (Nasdaq 100): 656.95 (-2.64%)
+  ▼ VEU (World ex-US): 78.39 (-3.13%)
+  💱 USD/SGD: 1.2891
+  💱 USD/IDR: 18.250
+  💱 SGD/IDR: 14.162
 
 📰 *Berita sawit (Palm Pulse):*
-• Helping elephants keep to their lanes: Can palm oil millions save Borneo’s forest and wildlife? — Asia News Network
-• PTPN IV PalmCo Kembangkan POME Jadi Energi, Perkuat Hilirisasi dan Target Penurunan Emisi 71 Persen — InfoSAWIT
-• China’s edible oil contaminant control standards need reviewing — KLSE Screener
-• High palm oil stocks expected to cap futures gains — KLSE Screener
-• Pemprov Kalsel tetapkan harga TBS sawit mitra Rp3.542 per kilogram — ANTARA News
-• Sabah oil palm smallholders urged to adopt AI, digital tech — Daily Express Malaysia
-• Malaysian palm oil production expected to decline in November - UkrAgroConsult — Google News · Malaysia
-• Perjanjian Dagang Indonesia-Uni Eropa Bisa Perkuat Posisi Sawit di Pasar Eropa — InfoSAWIT
+• Harga CPO KPBN Inacom Senin (16/11) Naik Rp372 Jadi Rp14.600 per Kg, Bursa Malaysia Justru Melemah - Agricom.id — Google News · Pasar (Bahasa)
+• Harga TBS Sawit Kaltim Periode I November 2026 - sawitsetara.co — Google News · Perkebunan (Bahasa)
+• Ekspor Sawit Diproyeksi Turun, GAPKI Minta Biaya Layanan DSI Tak Membebani - kontan.co.id — Google News · Kebijakan (Bahasa)
+• Achi Jaya takes over Boustead Plantations for RM4.3bil? — KLSE Screener
+• Cegah Karhutla Berulang di Lahan Gambut, ini Jurus Sakti Bupati Siak — InfoSAWIT
+• India Borong Sawit, Tapi Kok Harga CPO Malah Kembali Loyo? — CNBC Indonesia
+• Harga CPO KPBN Melonjak 2,61 Persen, Bursa Malaysia Justru Berbalik Melemah - sawitsetara.co — Google News · Pasar (Bahasa)
+• Kebijakan B50 Tekan Pasokan Sawit untuk Pasar Global - cwibc.co.id — Google News · Kebijakan (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
