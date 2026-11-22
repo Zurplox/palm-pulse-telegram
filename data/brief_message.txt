@@ -1,38 +1,37 @@
-📰 *BRIEF PAGI* — 21 Nov 2026
+📰 *BRIEF PAGI* — 22 Nov 2026
 
 🧠 *Ringkasan:*
-**Ringkasan Keputusan Kebun Hari Ini:**
+**Poin Utama Kebun Hari Ini:**
+• **Harga TBS Riau:** Swadaya turun Rp67 menjadi Rp3.603/kg, sedangkan Plasma di Rp3.701/kg.
+• **Pemupukan:** Tunda pemupukan; hujan mencapai 27,8 mm (peluang 100%) dan diprakirakan berlanjut hingga 25 November.
+• **Panen & Angkut:** Waspadai hambatan pengangkutan dan operasional akibat debit air banjir yang meningkat (976,2 m³/s) serta hembusan angin hingga 29,5 km/jam.
+• **Kewaspadaan Lapangan:** Tetap pantau potensi karhutla (status waspada, titik terdekat 42,4 km di Pangkalan Kerinci).
 
-* **Panen & Angkut:** Percepat panen dan angkut TBS hari ini guna mengantisipasi penurunan harga TBS swadaya (turun Rp67 ke Rp3.603/kg) serta potensi hambatan mobilitas akibat perkiraan hujan lebat besok (41,9 mm, peluang 100%) dan debit air yang terus naik.
-* **Pemupukan:** Tunda aplikasi pemupukan karena tingginya curah hujan hari ini (15,6 mm, 98%) hingga puncak hujan besok untuk mencegah pencucian pupuk.
-* **Perawatan Kebun:** Tingkatkan pengawasan lapangan terhadap ancaman penyakit Ganoderma dan hama kumbang tanduk.
-
----
-**Sentimen Pasar:** 
-*Bearish* tajam — Harga CPO global/domestik anjlok ke level terendah 8 bulan (KPBN Rp14.100/kg) seiring jatuhnya bursa saham global (VOO -8,34%, QQQ -10,51%) dan pelemahan rupiah (USD/IDR 18.260).
+**Sentimen Pasar:**
+Sangat tertekan; CPO global anjlok ke level terendah 8 bulan akibat pembatalan pesanan China, selaras dengan penurunan drastis bursa ekuitas global (VOO -8,34%, QQQ -10,51%).
 
 🌴 *Harga TBS Riau (2026-11-18 s/d 2026-11-24)*
   Plasma: Rp3.701/kg
   Swadaya: Rp3.603/kg (turun Rp67)
 
 🧭 *Ringkasan Palm Pulse:*
-• Harga CPO domestik dan global mengalami penurunan signifikan, dengan harga lelang KPBN Inacom merosot ke Rp14.100 per kg dan harga futures di Bursa Malaysia menyentuh level terendah dalam lebih dari delapan bulan.
-• Walaupun harga saat ini melemah, estimasi pemotongan ekspor CPO dari Indonesia diproyeksikan akan memperketat pasokan global pada periode 2026/2027.
-• Kinerja emiten perkebunan seperti Sarawak Plantation sempat mencatatkan lonjakan laba bersih pada kuartal ketiga berkat tingginya harga rata-rata dan produksi, namun penurunan harga terbaru mulai menekan margin operasional.
-• Pekebun di lapangan dihadapkan pada penurunan harga TBS serta isu penetapan harga oleh PKS yang dinilai merugikan, di samping ancaman teknis perkebunan seperti penyakit Ganoderma dan hama kumbang tanduk.
+• Pasar CPO global mengalami tekanan penurunan harga hingga mencapai level terendah dalam delapan bulan akibat pembatalan pesanan dari China dan penurunan volume ekspor.
+• Indonesia menyoroti proyeksi peningkatan produksi tahun 2026, percepatan peremajaan sawit rakyat, serta penyelesaian konflik antara petani swadaya dan pabrik CPO di daerah.
+• Malaysia menghadapi penyelidikan atas dugaan pemalsuan dokumen asal-usul ekspor CPO dan dorongan untuk mengembangkan industri manufaktur hilir di Sabah.
+• Sektor ketenagakerjaan menjadi perhatian serius melalui temuan risiko kesehatan kerja pekerja perkebunan dan pentingnya jaminan sosial serta retensi tenaga kerja.
 
 🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 15.6 mm (peluang 98%), 24.1–29.9°C
-  Angin Timur 11.6 km/jam (hembusan 25.6)
+  Hujan lokal sedang, hujan 27.8 mm (peluang 100%), 24–30°C
+  Angin Timur Laut 14.5 km/jam (hembusan 29.5)
   Prakiraan:
-  2026-11-22: 41.9 mm, 100%
-  2026-11-23: 8.3 mm, 98%
-  2026-11-24: 8.5 mm, 100%
+  2026-11-23: 8.8 mm, 96%
+  2026-11-24: 10.4 mm, 100%
+  2026-11-25: 21.8 mm, 92%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 906.8 m3/s, naik)
-  Karhutla: waspada — titik terdekat 42.2 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 18, Baik, cerah
+  Banjir: Agak tinggi (debit 976.2 m3/s, naik)
+  Karhutla: waspada — titik terdekat 42.4 km selatan (Pangkalan Kerinci, Riau)
+  Udara: AQI 41, Baik, cerah
 
 📈 *Pasar:*
   ▼ VOO (S&P 500): 635.54 (-8.34%)
@@ -43,14 +42,14 @@
   💱 SGD/IDR: 14.076
 
 📰 *Berita sawit (Palm Pulse):*
-• Higher Palm Oil Prices, Production Lift Sarawak Plantation’s 9M26 PAT 22% To RM99.6 Million — BusinessToday Malaysia
-• Anggota DPRD Pesisir Selatan Adukan Lima PKS, Petani Sawit Swadaya Diduga Rugi Rp44 Miliar per Bulan — InfoSAWIT
-• Harga CPO KPBN Inacom Turun Pada Jumat (20/11/2026), Perdagangan Minyak Sawit di Bursa Malaysia Merosot — InfoSAWIT
-• Canola to benefit from slumping palm oil exports — The Western Producer
-• Malaysian palm oil prices fall to lowest level in over 8 months - УкрАгроКонсалт — Google News · Malaysia
-• Sarawak Plantation posts higher third-quarter net profit on stronger palm product prices — Traders Union
-• Sarawak Plantation’s 3Q net profit rises 18% on higher palm product prices — The Edge Malaysia
-• Astra Agro Perkuat Riset Perlindungan Tanaman, Waspadai Ancaman Kumbang Tanduk dan Ganoderma — Sawit Indonesia
+• ILaPOC 2026 Dorong Jaminan Sosial Jadi Pilar Keberlanjutan Industri Sawit — InfoSAWIT
+• Sabah must move beyond palm oil production to high-value manufacturing — Borneo Post
+• Meta-Analysis Estimates 48 Percent Hearing Loss Among Oil Palm Industry Workers - Bioengineer.org — Google News · Plantation
+• Perkuat Budidaya dan Kemitraan, Produktivitas Sawit Berpeluang Meningkat - indoposco.id — Google News · Perkebunan (Bahasa)
+• Tim Peneliti Universitas Pamulang Meneliti Karyawan Sawit — InfoSAWIT
+• Harga CPO Malaysia Anjlok Usai China Batalkan Pesanan - Demokratis.co.id — Google News · Malaysia (Bahasa)
+• Produksi Sawit 2026 Diprediksi Naik, GAPKI Soroti Produktivitas Kebun dan Peremajaan Sawit Rakyat - Agricom.id — Google News · Perkebunan (Bahasa)
+• IPS Dorong Transformasi Planter Sawit, Pengalaman Senior Jadi Bekal Pemimpin Masa Depan — InfoSAWIT
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
