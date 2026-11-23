@@ -1,55 +1,55 @@
-📰 *BRIEF PAGI* — 22 Nov 2026
+📰 *BRIEF PAGI* — 23 Nov 2026
 
 🧠 *Ringkasan:*
-**Poin Utama Kebun Hari Ini:**
-• **Harga TBS Riau:** Swadaya turun Rp67 menjadi Rp3.603/kg, sedangkan Plasma di Rp3.701/kg.
-• **Pemupukan:** Tunda pemupukan; hujan mencapai 27,8 mm (peluang 100%) dan diprakirakan berlanjut hingga 25 November.
-• **Panen & Angkut:** Waspadai hambatan pengangkutan dan operasional akibat debit air banjir yang meningkat (976,2 m³/s) serta hembusan angin hingga 29,5 km/jam.
-• **Kewaspadaan Lapangan:** Tetap pantau potensi karhutla (status waspada, titik terdekat 42,4 km di Pangkalan Kerinci).
+**Ringkasan Pagi Operasional Kebun & Investasi:**
 
-**Sentimen Pasar:**
-Sangat tertekan; CPO global anjlok ke level terendah 8 bulan akibat pembatalan pesanan China, selaras dengan penurunan drastis bursa ekuitas global (VOO -8,34%, QQQ -10,51%).
+* **Pemupukan**: Tunda pemupukan hari ini akibat badai petir (peluang hujan 98%, 12,1 mm) serta tren debit air banjir yang terus meningkat (1.046,1 m³/s).
+* **Panen & Angkut**: Percepat evakuasi hasil panen sebelum jalur angkut memburuk akibat potensi hujan lebat berkelanjutan hingga 26 November (puncak 16,3 mm besok).
+* **Harga TBS**: Realisasi harga Plasma di Rp3.701/kg, sedangkan Swadaya melemah ke Rp3.185/kg (turun Rp62).
+* **Mitigasi**: Tetap pantau posko karhutla mengingat status waspada dengan titik api terdekat 42,4 km di selatan (Pangkalan Kerinci).
+
+**Sentimen Pasar:** Tertekan; harga CPO global anjlok 5,49% ke level terendah 8 bulan dan pasar saham global melemah tajam (VOO -8,34%, QQQ -10,51%), meski ada dorongan positif jangka panjang dari kesepakatan IEU-CEPA.
 
 🌴 *Harga TBS Riau (2026-11-18 s/d 2026-11-24)*
   Plasma: Rp3.701/kg
-  Swadaya: Rp3.603/kg (turun Rp67)
+  Swadaya: Rp3.185/kg (turun Rp62)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar CPO global mengalami tekanan penurunan harga hingga mencapai level terendah dalam delapan bulan akibat pembatalan pesanan dari China dan penurunan volume ekspor.
-• Indonesia menyoroti proyeksi peningkatan produksi tahun 2026, percepatan peremajaan sawit rakyat, serta penyelesaian konflik antara petani swadaya dan pabrik CPO di daerah.
-• Malaysia menghadapi penyelidikan atas dugaan pemalsuan dokumen asal-usul ekspor CPO dan dorongan untuk mengembangkan industri manufaktur hilir di Sabah.
-• Sektor ketenagakerjaan menjadi perhatian serius melalui temuan risiko kesehatan kerja pekerja perkebunan dan pentingnya jaminan sosial serta retensi tenaga kerja.
+• Pasar minyak sawit tengah menghadapi tekanan akibat penurunan harga CPO global sebesar 5,49 persen ke level terendah dalam delapan bulan, meski ada peluang jangka panjang dari kesepakatan IEU-CEPA yang menawarkan tarif nol persen ke Uni Eropa.
+• Pemerintah Indonesia memperketat pengawasan dan tata kelola sektor sawit dengan mencabutan izin kawasan hutan skala besar serta merancang sistem Single Export Gate untuk ketertelusuran pasokan.
+• Otoritas Malaysia mulai menyelidiki dugaan pemalsuan asal-usul CPO untuk ekspor, sementara pelaku industri perkebunan regional bersiap mengantisipasi dampak perubahan iklim dan potensi El Nino.
+• Pemerintah Indonesia mencabut izin kawasan hutan seluas 338.536 hektar yang dipegang oleh unit usaha APRIL Group dalam rangka penataan perizinan nasional.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 27.8 mm (peluang 100%), 24–30°C
-  Angin Timur Laut 14.5 km/jam (hembusan 29.5)
+⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Badai petir, hujan 12.1 mm (peluang 98%), 24.5–29.6°C
+  Angin Timur 9 km/jam (hembusan 22.7)
   Prakiraan:
-  2026-11-23: 8.8 mm, 96%
-  2026-11-24: 10.4 mm, 100%
-  2026-11-25: 21.8 mm, 92%
+  2026-11-24: 16.3 mm, 100%
+  2026-11-25: 12.7 mm, 94%
+  2026-11-26: 7.3 mm, 82%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 976.2 m3/s, naik)
+  Banjir: Agak tinggi (debit 1046.1 m3/s, naik)
   Karhutla: waspada — titik terdekat 42.4 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 41, Baik, cerah
+  Udara: AQI 18, Baik, cerah
 
 📈 *Pasar:*
   ▼ VOO (S&P 500): 635.54 (-8.34%)
   ▼ QQQ (Nasdaq 100): 608.45 (-10.51%)
   ▼ VEU (World ex-US): 73.78 (-8.81%)
-  💱 USD/SGD: 1.29
-  💱 USD/IDR: 18.260
-  💱 SGD/IDR: 14.076
+  💱 USD/SGD: 1.2902
+  💱 USD/IDR: 18.158
+  💱 SGD/IDR: 14.078
 
 📰 *Berita sawit (Palm Pulse):*
-• ILaPOC 2026 Dorong Jaminan Sosial Jadi Pilar Keberlanjutan Industri Sawit — InfoSAWIT
-• Sabah must move beyond palm oil production to high-value manufacturing — Borneo Post
-• Meta-Analysis Estimates 48 Percent Hearing Loss Among Oil Palm Industry Workers - Bioengineer.org — Google News · Plantation
-• Perkuat Budidaya dan Kemitraan, Produktivitas Sawit Berpeluang Meningkat - indoposco.id — Google News · Perkebunan (Bahasa)
-• Tim Peneliti Universitas Pamulang Meneliti Karyawan Sawit — InfoSAWIT
-• Harga CPO Malaysia Anjlok Usai China Batalkan Pesanan - Demokratis.co.id — Google News · Malaysia (Bahasa)
-• Produksi Sawit 2026 Diprediksi Naik, GAPKI Soroti Produktivitas Kebun dan Peremajaan Sawit Rakyat - Agricom.id — Google News · Perkebunan (Bahasa)
-• IPS Dorong Transformasi Planter Sawit, Pengalaman Senior Jadi Bekal Pemimpin Masa Depan — InfoSAWIT
+• Planter Masa Depan Dituntut Berpikir Strategis, Tak Cukup Hanya Kuasai Operasional Kebun — InfoSAWIT
+• Indonesian government revokes 338,536 ha forest permit held by APRIL Group’s unit — Asia News Network
+• Bridging the Sustainable Supply Chain: How Downstream Buyers are Empowering Oil Palm Smallholders — RSPO
+• The good oil – three men, one mission — KLSE Screener
+• IEU-CEPA Buka Tarif Nol Persen untuk Minyak Sawit Indonesia, Ekspor ke Eropa Berpeluang Meningkat — InfoSAWIT
+• Oil palm sector readies for El Nino — The Star
+• Curah Hujan Mendorong Pemulihan Pengiriman CPO Indonesia - Limapagi — Google News · Malaysia (Bahasa)
+• Replace open power lines passing through oilpalm fields with AB lines: Minister — The Hindu
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
