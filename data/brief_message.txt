@@ -1,14 +1,13 @@
-📰 *BRIEF PAGI* — 23 Nov 2026
+📰 *BRIEF PAGI* — 24 Nov 2026
 
 🧠 *Ringkasan:*
-**Ringkasan Pagi Operasional Kebun & Investasi:**
+Berikut ringkasan singkat untuk keputusan kebun hari ini:
 
-* **Pemupukan**: Tunda pemupukan hari ini akibat badai petir (peluang hujan 98%, 12,1 mm) serta tren debit air banjir yang terus meningkat (1.046,1 m³/s).
-* **Panen & Angkut**: Percepat evakuasi hasil panen sebelum jalur angkut memburuk akibat potensi hujan lebat berkelanjutan hingga 26 November (puncak 16,3 mm besok).
-* **Harga TBS**: Realisasi harga Plasma di Rp3.701/kg, sedangkan Swadaya melemah ke Rp3.185/kg (turun Rp62).
-* **Mitigasi**: Tetap pantau posko karhutla mengingat status waspada dengan titik api terdekat 42,4 km di selatan (Pangkalan Kerinci).
+* **Panen & Angkut:** Lanjutkan operasional dengan waspada. Debit air sungai normal dan udara baik (AQI 50), namun ada potensi hujan sedang (17.9 mm) hari ini hingga beberapa hari ke depan.
+* **Pupuk:** Tunda aplikasi pupuk jika hujan turun lebat agar tidak hanyut, serta antisipasi dampak perubahan iklim/El Nino ke depan.
+* **Harga & Pasar:** Harga TBS swadaya turun (Rp3.185/kg); perhatikan pengetatan tata kelola sawit nasional (pencabutan izin kawasan hutan dan Single Export Gate).
 
-**Sentimen Pasar:** Tertekan; harga CPO global anjlok 5,49% ke level terendah 8 bulan dan pasar saham global melemah tajam (VOO -8,34%, QQQ -10,51%), meski ada dorongan positif jangka panjang dari kesepakatan IEU-CEPA.
+Sentimen Pasar: Bearish (Tekanan dari penurunan harga CPO global 5,49% ke level terendah 8 bulan dan koreksi pasar saham global).
 
 🌴 *Harga TBS Riau (2026-11-18 s/d 2026-11-24)*
   Plasma: Rp3.701/kg
@@ -20,26 +19,26 @@
 • Otoritas Malaysia mulai menyelidiki dugaan pemalsuan asal-usul CPO untuk ekspor, sementara pelaku industri perkebunan regional bersiap mengantisipasi dampak perubahan iklim dan potensi El Nino.
 • Pemerintah Indonesia mencabut izin kawasan hutan seluas 338.536 hektar yang dipegang oleh unit usaha APRIL Group dalam rangka penataan perizinan nasional.
 
-⛈️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Badai petir, hujan 12.1 mm (peluang 98%), 24.5–29.6°C
-  Angin Timur 9 km/jam (hembusan 22.7)
+🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal sedang, hujan 17.9 mm (peluang 100%), 23.8–30.2°C
+  Angin Utara 8.6 km/jam (hembusan 18.7)
   Prakiraan:
-  2026-11-24: 16.3 mm, 100%
-  2026-11-25: 12.7 mm, 94%
-  2026-11-26: 7.3 mm, 82%
+  2026-11-25: 18 mm, 89%
+  2026-11-26: 4.4 mm, 94%
+  2026-11-27: 14.7 mm, 79%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Agak tinggi (debit 1046.1 m3/s, naik)
-  Karhutla: waspada — titik terdekat 42.4 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 18, Baik, cerah
+  Banjir: Normal (debit 775.2 m3/s, turun)
+  Karhutla: waspada — titik terdekat 42.3 km selatan (Pangkalan Kerinci, Riau)
+  Udara: AQI 50, Baik, cerah
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 635.54 (-8.34%)
-  ▼ QQQ (Nasdaq 100): 608.45 (-10.51%)
-  ▼ VEU (World ex-US): 73.78 (-8.81%)
-  💱 USD/SGD: 1.2902
+  ▼ VOO (S&P 500): 663.91 (-2.4%)
+  ▼ QQQ (Nasdaq 100): 651.03 (-1.62%)
+  ▼ VEU (World ex-US): 76.69 (-3.35%)
+  💱 USD/SGD: 1.2912
   💱 USD/IDR: 18.158
-  💱 SGD/IDR: 14.078
+  💱 SGD/IDR: 14.068
 
 📰 *Berita sawit (Palm Pulse):*
 • Planter Masa Depan Dituntut Berpikir Strategis, Tak Cukup Hanya Kuasai Operasional Kebun — InfoSAWIT
