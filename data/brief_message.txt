@@ -1,54 +1,57 @@
-📰 *BRIEF PAGI* — 24 Nov 2026
+📰 *BRIEF PAGI* — 25 Nov 2026
 
 🧠 *Ringkasan:*
-Berikut ringkasan singkat untuk keputusan kebun hari ini:
+Berikut brief pagi untuk keputusan kebun dan investasi Anda hari ini:
 
-* **Panen & Angkut:** Lanjutkan operasional dengan waspada. Debit air sungai normal dan udara baik (AQI 50), namun ada potensi hujan sedang (17.9 mm) hari ini hingga beberapa hari ke depan.
-* **Pupuk:** Tunda aplikasi pupuk jika hujan turun lebat agar tidak hanyut, serta antisipasi dampak perubahan iklim/El Nino ke depan.
-* **Harga & Pasar:** Harga TBS swadaya turun (Rp3.185/kg); perhatikan pengetatan tata kelola sawit nasional (pencabutan izin kawasan hutan dan Single Export Gate).
+**Keputusan Kebun Hari Ini:**
+* **Panen & Angkut:** Percepat panen dan pengangkutan hari ini saat debit banjir normal/turun, sebelum curah hujan meningkat bertahap hingga 18,9 mm (28 Nov).
+* **Pemupukan:** Tunda atau sesuaikan pemupukan lapangan mengingat intensitas dan peluang hujan tinggi (84%–93%) beberapa hari ke depan.
+* **Kewaspadaan Kebun:** Tetap siaga Karhutla karena terpantau titik api berjarak 42,3 km di selatan (Pangkalan Kerinci).
+* **Harga TBS:** Harga Swadaya turun Rp67 ke Rp3.603/kg (Plasma Rp3.701/kg); pastikan transaksi tak melanggar batas minimal Mentan (Rp3.000/kg).
 
-Sentimen Pasar: Bearish (Tekanan dari penurunan harga CPO global 5,49% ke level terendah 8 bulan dan koreksi pasar saham global).
+**Sentimen Pasar:**
+Harga CPO membal (*rebound*) dari level terendah 9 bulan akibat aksi *profit-taking*, di tengah koreksi tajam bursa saham global (S&P 500 -1,85%, Nasdaq -2,87%) dan USD/IDR pada level 18.280.
 
 🌴 *Harga TBS Riau (2026-11-18 s/d 2026-11-24)*
   Plasma: Rp3.701/kg
-  Swadaya: Rp3.185/kg (turun Rp62)
+  Swadaya: Rp3.603/kg (turun Rp67)
 
 🧭 *Ringkasan Palm Pulse:*
-• Pasar minyak sawit tengah menghadapi tekanan akibat penurunan harga CPO global sebesar 5,49 persen ke level terendah dalam delapan bulan, meski ada peluang jangka panjang dari kesepakatan IEU-CEPA yang menawarkan tarif nol persen ke Uni Eropa.
-• Pemerintah Indonesia memperketat pengawasan dan tata kelola sektor sawit dengan mencabutan izin kawasan hutan skala besar serta merancang sistem Single Export Gate untuk ketertelusuran pasokan.
-• Otoritas Malaysia mulai menyelidiki dugaan pemalsuan asal-usul CPO untuk ekspor, sementara pelaku industri perkebunan regional bersiap mengantisipasi dampak perubahan iklim dan potensi El Nino.
-• Pemerintah Indonesia mencabut izin kawasan hutan seluas 338.536 hektar yang dipegang oleh unit usaha APRIL Group dalam rangka penataan perizinan nasional.
+• Harga CPO global sempat terkoreksi hingga menyentuh level terendah sembilan bulan sebelum kembali membal membalik arah naik akibat aksi ambil untung, meski penguatannya masih tertahan oleh tingginya stok di China dan melemahnya ekspor Malaysia.
+• Pelaksanaan program B50 di Indonesia yang diproyeksikan berjalan penuh pada 2027 berpotensi memotong volume ekspor CPO hingga 12,27 persen dan menurunkan penerimaan devisa, sekaligus memicu ketidakpastian di pasar minyak nabati dunia.
+• Di tingkat lokal, Kementerian Pertanian menegaskan pengawasan ketat agar harga TBS tidak berada di bawah Rp3.000/kg, sementara sektor perkebunan menghadapi penegakan hukum kasus korupsi serta persiapan menghadapi risiko iklim El Nino.
+• Menteri Pertanian Amran menegaskan batas minimal harga TBS adalah Rp3.000/kg dan meminta pekebun segera melaporkan jika menemukan harga pembelian di bawah ketentuan tersebut.
 
-🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 17.9 mm (peluang 100%), 23.8–30.2°C
-  Angin Utara 8.6 km/jam (hembusan 18.7)
+🌦️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
+  Hujan lokal ringan, hujan 8.7 mm (peluang 84%), 23.9–30.1°C
+  Angin Barat Laut 8.1 km/jam (hembusan 22)
   Prakiraan:
-  2026-11-25: 18 mm, 89%
-  2026-11-26: 4.4 mm, 94%
-  2026-11-27: 14.7 mm, 79%
+  2026-11-26: 12.7 mm, 93%
+  2026-11-27: 13.8 mm, 85%
+  2026-11-28: 18.9 mm, 88%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Normal (debit 775.2 m3/s, turun)
+  Banjir: Normal (debit 720.1 m3/s, turun)
   Karhutla: waspada — titik terdekat 42.3 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 50, Baik, cerah
+  Udara: AQI 48, Baik, cerah
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 663.91 (-2.4%)
-  ▼ QQQ (Nasdaq 100): 651.03 (-1.62%)
-  ▼ VEU (World ex-US): 76.69 (-3.35%)
-  💱 USD/SGD: 1.2912
-  💱 USD/IDR: 18.158
-  💱 SGD/IDR: 14.068
+  ▼ VOO (S&P 500): 660.71 (-1.85%)
+  ▼ QQQ (Nasdaq 100): 638.10 (-2.87%)
+  ▼ VEU (World ex-US): 76.35 (-2.6%)
+  💱 USD/SGD: 1.2909
+  💱 USD/IDR: 18.280
+  💱 SGD/IDR: 14.165
 
 📰 *Berita sawit (Palm Pulse):*
-• Planter Masa Depan Dituntut Berpikir Strategis, Tak Cukup Hanya Kuasai Operasional Kebun — InfoSAWIT
-• Indonesian government revokes 338,536 ha forest permit held by APRIL Group’s unit — Asia News Network
-• Bridging the Sustainable Supply Chain: How Downstream Buyers are Empowering Oil Palm Smallholders — RSPO
-• The good oil – three men, one mission — KLSE Screener
-• IEU-CEPA Buka Tarif Nol Persen untuk Minyak Sawit Indonesia, Ekspor ke Eropa Berpeluang Meningkat — InfoSAWIT
-• Oil palm sector readies for El Nino — The Star
-• Curah Hujan Mendorong Pemulihan Pengiriman CPO Indonesia - Limapagi — Google News · Malaysia (Bahasa)
-• Replace open power lines passing through oilpalm fields with AB lines: Minister — The Hindu
+• Malaysian palm oil prices rebound from nine-month lows - УкрАгроКонсалт — Google News · Malaysia
+• Palm Oil Prices China, 24 Nov 2026: High Stocks Curb Gains — CMB News — CMB News
+• B50 Jalan Penuh 2027, Ekspor Sawit Anjlok, Devisa Hilang Rp190,5 Triliun - Industry.co.id — Google News · Kebijakan (Bahasa)
+• Tak Kompromi, Mentan Amran: Kalau Harga TBS di Bawah Rp3.000/kg, Silakan Laporkan — Sawit Indonesia
+• B50 Dongkrak Konsumsi Sawit Domestik, Ekspor CPO Berpotensi Turun 12,27 Persen Pada 2027 — Suara Investor
+• 60 Riset Perkebunan Didanai BPDP, Inovasi Sawit hingga Hilirisasi Kakao Jadi Andalan — Sawit Indonesia
+• Palm Oil Futures Snap A Five-Day Slide On Profit-Taking - Finimize — Google News · Malaysia
+• Disbun Kutim Perkuat SDM Pekebun, Gelar Sekolah Lapang hingga Pelatihan Pascapanen — RADAR BONTANG
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
