@@ -1,55 +1,54 @@
-📰 *BRIEF PAGI* — 27 Nov 2026
+📰 *BRIEF PAGI* — 28 Nov 2026
 
 🧠 *Ringkasan:*
-**Keputusan Kebun Hari Ini:**
-* **Angkut & Panen:** Percepat pengangkutan buah ke PKS hari ini; status banjir berisiko **Tinggi** (debit 1.296,2 m³/s, tren naik) dan potensi hujan lokal 13 mm (peluang 98%).
-* **Pemupukan:** **Tunda pemupukan**; prakiraan hujan berlanjut hingga akhir November (7,5–18,7 mm, peluang >80%) berisiko tinggi mencuci pupuk.
-* **Penjualan TBS:** Realisasikan panen pada harga Riau saat ini (Plasma Rp3.675/kg, Swadaya Rp3.527/kg) guna mengantisipasi transmisi pelemahan harga dari wilayah tetangga (Jambi turun Rp142,8/kg).
-* **Mitigasi Lahan:** Pantau titik waspada karhutla berjarak 42,3 km (Pangkalan Kerinci), meski kualitas udara kebun terpantau baik (AQI 39).
+**Keputusan Operasional Kebun Hari Ini:**
+• **Pemupukan:** Tunda pemupukan akibat curah hujan sedang (35,8 mm, peluang 98%) yang diprakirakan berlanjut hingga 1 Desember (8–14,1 mm).
+• **Pengangkutan:** Waspadai kendala jalur angkut akibat kondisi banjir agak tinggi dengan debit air yang terus naik (1.212,4 m³/s).
+• **Panen & Penjualan:** Cermati penurunan harga TBS Riau (Plasma turun Rp62 ke Rp3.675/kg; Swadaya Rp3.527/kg) seiring berulangnya status *withdraw* (WD) pada lelang CPO KPBN Inacom.
 
 **Sentimen Pasar:**
-Bursa global terkoreksi dalam (QQQ -3,88%) dan rupiah tertekan di Rp18.370/USD, sementara CPO tertahan sentimen positif rencana pungutan ekspor RI 0,5%.
+Bursa saham global menguat (VOO +1,79%, QQQ +0,92%) dan CPO Bursa Malaysia membaik, meski lelang domestik Inacom masih WD dan USD/IDR berada di Rp18.295.
 
-🌴 *Harga TBS Riau (2026-11-25 s/d 2026-12-01)*
-  Plasma: Rp3.675/kg
+🌴 *Harga TBS Riau (2026-11-20 s/d 2026-11-26)*
+  Plasma: Rp3.675/kg (turun Rp62)
   Swadaya: Rp3.527/kg
 
 🧭 *Ringkasan Palm Pulse:*
-• Rencana pemerintah Indonesia menerapkan biaya ekspor baru sebesar 0,5% menjadi penopang utama kenaikan harga CPO, namun memicu kekhawatiran pembeli akan beralih ke Malaysia.
-• Di dalam negeri Indonesia, fokus tertuju pada tata kelola kemitraan, peremajaan tanaman, pengusulan satu data dan satu lembaga oleh GAPKI, serta pengelolaan 2 juta hektar lahan sitaan oleh Danantara.
-• Pergerakan pasar CPO menunjukkan dinamika ganda, di mana harga futures sempat tertekan akibat tingginya stok dan lemahnya permintaan, namun tertopang oleh risiko produksi dan potensi kenaikan permintaan.
-• Penurunan harga TBS masih terjadi di tingkat daerah, seperti di Provinsi Jambi yang mencatatkan penurunan sebesar Rp142,80 per kg untuk periode akhir November hingga awal Desember 2026.
+• Lelang CPO domestik di KPBN Inacom berulang kali berakhir withdraw (WD) pada akhir November 2026, sementara harga penetapan TBS bagi petani plasma di daerah seperti Jambi tercatat mengalami penurunan.
+• Tata kelola kemitraan dan perlindungan petani sawit menjadi sorotan utama Kementerian Pertanian, GAPKI, dan akademisi untuk membenahi masalah jual beli kavling kebun informal serta mempercepat peremajaan kebun.
+• Di pasar global, pergerakan minyak sawit di Bursa Malaysia berfluktuasi di tengah persaingan ketat minyak nabati setelah impor minyak kedelai India mencetak rekor baru, dibarengi kekhawatiran atas semakin beratnya standar keberlanjutan global bagi petani.
+• Kementerian Pertanian menekankan bahwa kemitraan perkebunan sawit memerlukan pengawasan ketat serta komitmen peremajaan tanaman, bukan hanya perjanjian di atas kertas.
 
 🌧️ *Cuaca kebun — Kebun Sawit (Rawang Air Putih)*
-  Hujan lokal sedang, hujan 13 mm (peluang 98%), 24.3–29.6°C
-  Angin Barat Laut 12.1 km/jam (hembusan 28.8)
+  Hujan lokal sedang, hujan 35.8 mm (peluang 98%), 24.5–28.1°C
+  Angin Barat 10 km/jam (hembusan 18.4)
   Prakiraan:
-  2026-11-28: 7.5 mm, 91%
-  2026-11-29: 18.7 mm, 82%
-  2026-11-30: 8 mm, 83%
+  2026-11-29: 14.1 mm, 93%
+  2026-11-30: 13.8 mm, 75%
+  2026-12-01: 8 mm, 96%
 
 🌊 *Banjir, karhutla & udara:*
-  Banjir: Tinggi (debit 1296.2 m3/s, naik)
-  Karhutla: waspada — titik terdekat 42.3 km selatan (Pangkalan Kerinci, Riau)
-  Udara: AQI 39, Baik, cerah
+  Banjir: Agak tinggi (debit 1212.4 m3/s, naik)
+  Karhutla: aman — titik terdekat 103.3 km barat laut (Bathin Solapan, Riau)
+  Udara: AQI 28, Baik, cerah
 
 📈 *Pasar:*
-  ▼ VOO (S&P 500): 658.87 (-1.85%)
-  ▼ QQQ (Nasdaq 100): 633.93 (-3.88%)
-  ▼ VEU (World ex-US): 76.42 (-1.47%)
-  💱 USD/SGD: 1.2895
-  💱 USD/IDR: 18.370
-  💱 SGD/IDR: 14.250
+  ▲ VOO (S&P 500): 669.79 (+1.79%)
+  ▲ QQQ (Nasdaq 100): 650.99 (+0.92%)
+  ▲ VEU (World ex-US): 77.89 (+2.08%)
+  💱 USD/SGD: 1.2903
+  💱 USD/IDR: 18.295
+  💱 SGD/IDR: 14.241
 
 📰 *Berita sawit (Palm Pulse):*
-• Harga CPO Naik! Biaya Ekspor RI Bikin Pembeli Bisa Lari ke Malaysia? — CNBC Indonesia
-• Danantara to manage 2 million hectares of seized palm plantation - IDNFinancials — Google News · Plantation
+• Keberlanjutan Investasi Sawit Bisa Bergantung pada Dukungan Masyarakat Tempatan — InfoSAWIT
+• Problem Sosial Ekologis dan Kepastian Hukum Investasi — InfoSAWIT
+• Harga CPO KPBN Inacom Withdraw Pada Jumat (27/11/2026), Perdagangan Minyak Sawit di Bursa Malaysia Menguat — InfoSAWIT
+• Prancis Dukung Sekolah Kakao Nusantara, Perkuat Kemitraan Pendidikan dan Industri Kakao Indonesia — InfoSAWIT
+• Instiper Tekankan Kolaborasi dan Penguatan Ekosistem dalam Pengembangan Sekolah Kakao Nusantara — InfoSAWIT
 • Kementan Soroti Tata Kelola Kemitraan Sawit, Pengawasan dan Peremajaan Jadi Perhatian — InfoSAWIT
-• Bappenas Dorong Industri Sawit yang Produktif, Inklusif, dan Berkelanjutan — Media Bisnis Sawit
 • Honduras National Interpretation Public Consultation: 27 November 2026 – 26 January 2027 — RSPO
-• Unclear palm oil cargo rules could affect Malaysia’s export reputation, says expert — The Sun Malaysia
 • Bumitama Raih PROPER Hijau, Inovasi Pengelolaan Limbah dan Pemberdayaan Masyarakat Jadi Kunci — InfoSAWIT
-• Direktur Eksekutif GAPKI: Sawit Butuh Satu Data, Satu Lembaga, dan Narasi Bersama — GAPKI (Bahasa)
 
 Palm Pulse: https://zurplox.github.io/palm-pulse/
 Cuaca kebun: https://zurplox.github.io/kebun-sawit-cuaca/
